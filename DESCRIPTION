@@ -1,0 +1,17 @@
+Package: appliedepidata
+Title: Datasets used in Applied Epi courses and resources
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Alexander",
+             family = "Spina",
+             email = "aspina@appliedepi.org", 
+             comment = c(ORCID = "0000-0001-8425-1867"),
+             role = c("aut", "cre")))
+Description: Datasets used in Applied Epi courses and resources
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
