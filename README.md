@@ -4,7 +4,7 @@ This package stores all Applied Epi data across books, courses and tutorials
 
 ## stuff to consider
 
-- [ ]{epirhandbook} has non-R datasets
+- [ ] {epirhandbook} has non-R datasets
 - [ ] naming of datasets
 - [ ] versioning of datasets (and edits thereof, e.g. same data for diff bits of course)
 - [ ] language suffixes
