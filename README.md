@@ -1,6 +1,6 @@
 # appliedepidata
 
-This package stores all Applied Epi data across books, courses and tutorials
+This package stores all Applied Epi data across books, case studies, courses and tutorials
 
 ## stuff to consider
 
@@ -18,10 +18,11 @@ This package stores all Applied Epi data across books, courses and tutorials
   - ?language suffixes
 
 ### functions 
-- list available datasets (searchable by country, disease, language, name, ID, etc)
+- list available datasets 
+- search available datasets (wrapper around list/*the table* to make searchable by country, disease, language, name, ID, etc)
 - get data (different to saving if just want to use within Rstudio)
-- downloading/save dataset function 
-- function to create a data dictionary for a dataset (?wrapper for [{datadict}](https://github.com/epicentre-msf/datadict))
+- download/save dataset function 
+- function to create a data dictionary for a dataset (?wrapper for [{datadict}](https://github.com/epicentre-msf/datadict) or similar, or create whole new function to go in {epidict})
 - function which uses a data dict to create the description section in roxygen for a dataset
 - unit testing for functions
   - could pull some from [{gapminder}](https://github.com/jennybc/gapminder/)
