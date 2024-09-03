@@ -4,21 +4,27 @@
 \alias{list_datasets}
 \title{List Files in a Package}
 \usage{
-list_datasets(package_name)
+list_datasets(package_name = "appliedepidata")
 }
 \arguments{
-\item{package_name}{A character string specifying the name of the R package for which to list files.}
+\item{package_name}{A character string specifying the name of the R package
+for which to list files. Defaults to "appliedepidata".}
 }
 \value{
 A data frame with two columns:
 \describe{
-\item{\code{file_path}}{The full path to each file in the \code{data} or \code{inst} directories.}
-\item{\code{directory}}{The directory (\code{data} or \code{inst}) where the file is located.}
+\item{\code{directory}}{The directory (\code{data},\code{extdata}, \code{intdata}) where the
+file is located.}
+\item{\code{file}}{The name and file extension for each dataset found in
+directories.}
+\item{\code{duplicate}}{Logical vector (TRUE/FALSE) if the file name exists
+more than once. Only flags from the second occurrence. This is useful for
+packages which have not been built making .rda files internal}
 }
 }
 \description{
-This function lists all the files in the \code{data} and \code{inst} directories of a
-specified R package.
+This function lists all the files in the \code{data},\code{inst/extdata} and
+\verb{internal binaries} directories of a #' specified R package.
 }
 \examples{
 \dontrun{
