@@ -9,6 +9,8 @@ This package stores all Applied Epi data across books, case studies, courses and
   - R datasets go in data folder
   - Non-R datasets go in inst>extdata
     - option for adding messy datasets a la [{medicaldata}](https://github.com/higgi13425/medicaldata/?tab=readme-ov-file#messy-datasets)
+  - additional complication is that when you build a package, you can make the Rda datasets (from data folder) "internal" (more efficient for file storage, as then become part of binary), and these are then access by doing package::dataset. They can also be imported directly from github using link to the file in data folder e.g. 'rio(<github-raw url>)'. Read this [r packages chapter](https://r-pkgs.org/data.html) for details. 
+- the *the table of tables* would go in sysdata which is not exported   
 - naming of datasets (human readable/localised user-facing with an internal lookup table of standardised dataset IDs)
   - ?WHO or HDx functions or standardised file naming 
     - no clear guidelines, [datacarpentry](https://datacarpentry.org/rr-organization1/01-file-naming/index.html) has basics and [OCHA](https://humanitarian.atlassian.net/wiki/spaces/imtoolbox/pages/42502092/File+Naming+Convention) very basic. Tidytuesday doesnt even enforce naming. 
@@ -19,7 +21,7 @@ This package stores all Applied Epi data across books, case studies, courses and
 
 ### functions 
 - list available datasets 
-- search available datasets (wrapper around list/*the table* to make searchable by country, disease, language, name, ID, etc)
+- search available datasets (wrapper around list/*the table of tables* to make searchable by country, disease, language, name, ID, etc)
 - get data (different to saving if just want to use within Rstudio)
 - download/save dataset function 
 - function to create a data dictionary for a dataset (?wrapper for [{datadict}](https://github.com/epicentre-msf/datadict) or similar, or create whole new function to go in {epidict})
