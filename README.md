@@ -21,7 +21,7 @@ This package stores all Applied Epi data across books, case studies, courses and
   - ?language suffixes
 
 ### functions 
-- list available datasets 
+- [x] list available datasets 
 - search available datasets (wrapper around list/*the table of tables* to make searchable by country, disease, language, name, ID, etc)
 - get data (different to saving if just want to use within Rstudio, ?necessary - rather than have new users freakout about different ways of accessing the data)
 - download/save dataset locally function 
@@ -38,3 +38,14 @@ This package stores all Applied Epi data across books, case studies, courses and
 - pkgdown separated by heading for dictionaries and actual datasets, and cross-links between the two
 - guideline for contributing datasets similar to [tidytuesday](https://github.com/rfordatascience/tidytuesday/blob/master/.github/pr_instructions.md)
 - licensing: while the overall package repo will be GPL3, it is possible that individual datasets will come under a different license (so there needs to be a license section in documentation for each dataset)
+
+
+- process for adding a new dataset: 
+  - if a non-R (not .rda) file
+    - place file in 'inst/extdata' folder
+      - if adding a shapefile then zip it 
+    - in console run 'usethis::use_data_raw(<name of your file w/out extension>)
+    - read in the file with 'rio' and 'system.file'
+    - make edits as needed
+    - save with usethis::usedata()
+  - if adding an .rda file: 
