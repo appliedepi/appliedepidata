@@ -24,5 +24,5 @@
 #' }
 #' 
 #' @docType data
-#' @name AJS_AmTiman
-NULL
+#' @name AJS_chad
+"AJS_AmTiman"
