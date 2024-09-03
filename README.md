@@ -33,6 +33,7 @@ This package stores all Applied Epi data across books, case studies, courses and
 ### Documentation 
 - description file for each dataset in pkg
   - data dictionary used to fill in the *man* files for each
+  - probably do the same way [alison horst](https://github.com/lter/lterdatasampler/) does
 - readme/pkgdown table listing available datasets, versions, languages, source, and where used (e.g. case study, course, tutorial, epirhandbook)
   - ideally can be fed by list datasets function
 - pkgdown separated by heading for dictionaries and actual datasets, and cross-links between the two
