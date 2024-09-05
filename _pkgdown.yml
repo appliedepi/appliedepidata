@@ -4,17 +4,17 @@ template:
 
 reference: 
 - title: Functions
-  contents: 
+- contents: 
   - list_datasets
 
 
 - title: Data 
-  contents: 
+- subtitle: AJS in Am Timan, Chad (2016) - English 
+  contents:
+  - AJS_AmTiman
+  - AJS_AmTiman_population
   
-  - subtitle: AJS in Am Timan, Chad (2016) - English 
-    contents:
-    - AJS_AmTiman
-    - AJS_AmTiman_population
-    
-  - subtitle: {Sitrep} example datasets - English
-    - mortality_survey_data
+- subtitle: Sitrep example datasets - English
+  contents:
+  - mortality_survey_data
+  - mortality_survey_dict

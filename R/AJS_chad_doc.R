@@ -18,7 +18,9 @@
 #' @source This data was collected as part of Doctors Without Borders (MSF) outbreak 
 #' response and the the Ministry of Health (MoH) in Chad has approved the use 
 #' of this data for training purposes. 
-#'  
+#' 
+#' The original dataset is AJS_AmTiman.xlsx. 
+#' 
 #' This is version 1.0.  
 #' 
 #' This dataset is English.   
@@ -55,7 +57,8 @@
 #' @source This data was collected as part of Doctors Without Borders (MSF) outbreak 
 #' response and the the Ministry of Health (MoH) in Chad has approved the use 
 #' of this data for training purposes. 
-#'  
+#'
+#' The original dataset is 'AJS_AmTiman_population.xlsx'. 
 #' This is version 1.0.  
 #' 
 #' This dataset is English.   
@@ -89,7 +92,10 @@
 #' @source This data was collected as part of Doctors Without Borders (MSF) outbreak 
 #' response and the the Ministry of Health (MoH) in Chad has approved the use 
 #' of this data for training purposes. 
-#'  
+#' 
+#' The original dataset is 'Blocksshape.zip' (which contains the necessary 
+#' Shapefile components). 
+#' 
 #' This is version 1.0.  
 #' 
 #' This dataset is English.   
@@ -124,6 +130,9 @@
 #' @source This data was collected as part of Doctors Without Borders (MSF) outbreak 
 #' response and the the Ministry of Health (MoH) in Chad has approved the use 
 #' of this data for training purposes. 
+#'
+#' The original dataset is 'Blocksshape.zip' (which contains the necessary 
+#' Shapefile components). 
 #'  
 #' This is version 1.0.  
 #' 
