@@ -28,18 +28,21 @@
 #' @format Two data frames, 'Mortality Survey' with 424 rows and 16 columns, and 
 #' 'hh_member' with 2874 rows and 24 columns:
 #' 
-#' \strong{Mortality Survey}
 #' \describe{
-#'   \item{variable1}{Description of variable1}
-#'   \item{variable2}{Description of variable2}
-#'   # Add more variables as needed
-#' }
-#' 
-#' \strong{hh_member}
-#' \describe{
-#'   \item{variable1}{Description of variable1}
-#'   \item{variable2}{Description of variable2}
-#'   # Add more variables as needed
+#'   \item{Mortality Survey}{A data frame with 424 rows and 16 columns:
+#'     \describe{
+#'       \item{variable1}{Description of variable1}
+#'       \item{variable2}{Description of variable2}
+#'       # Add more variables as needed
+#'     }
+#'   }
+#'   \item{hh_member}{A data frame with 2874 rows and 24 columns:
+#'     \describe{
+#'       \item{variable1}{Description of variable1}
+#'       \item{variable2}{Description of variable2}
+#'       # Add more variables as needed
+#'     }
+#'   }
 #' }
 #' 
 #' @docType data
