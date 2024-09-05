@@ -1,6 +1,9 @@
 ## code to prepare `mortality_survey_dict` dataset goes here
 # This creates an .rda format of the mortality_survey_dict.xlsx file
 
+### NOTE: these datasets were created using epidict::gen_data and msf_dict_survey
+# eventually this script should be updated to reflect that 
+
 # Define the path to the Excel file in inst/extdata
 file_path <- system.file("extdata", "mortality_survey_dict.xlsx", package = "appliedepidata")
 

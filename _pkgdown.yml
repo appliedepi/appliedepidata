@@ -10,4 +10,11 @@ reference:
 
 - title: Data 
   contents: 
-  - AJS_AmTiman
+  
+  - subtitle: AJS in Am Timan, Chad (2016) - English 
+    contents:
+    - AJS_AmTiman
+    - AJS_AmTiman_population
+    
+  - subtitle: {Sitrep} example datasets - English
+    - mortality_survey_data

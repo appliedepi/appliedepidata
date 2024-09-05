@@ -1,4 +1,4 @@
-#' @title List Files in a Package
+#' @title List Datasets in a Package
 #'
 #' @description
 #' This function lists all the files in the `data`,`inst/extdata` and 
@@ -20,7 +20,7 @@
 #'
 #' @examples
 #' \dontrun{
-#' # List all files in the data and inst directories of the "ggplot2" package
+#' # List all files in the directories of the "ggplot2" package
 #' files <- list_datasets(package_name = "ggplot2")
 #' print(files)
 #' }
