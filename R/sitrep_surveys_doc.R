@@ -5,7 +5,7 @@
 #' using [epidict](https://r4epi.github.io/epidict/index.html) package functions. 
 #'  
 #' @details
-#' This is a fake survey dataset . This data comes in two parts: 
+#' This is a fake survey dataset. This data comes in two parts: 
 #' a household level dataset ('Mortality Survey') and an individual 
 #' level dataset ('hh_member'). It can be used together with \link{mortality_survey_dict}. 
 #' Please note, that this data is entirely fictional created based on the 
@@ -55,13 +55,15 @@
 #' @title Fake data for a mortality survey
 #'
 #' @description
-#' This is an example fake dataset of a mortality survey which was generated 
+#' This is an example fake data dictionary for a mortality survey which was generated 
 #' using [epidict](https://r4epi.github.io/epidict/index.html) package functions. 
 #'  
 #' @details
-#' This is a fake survey dataset . This data comes in two parts: 
-#' a household level dataset ('Mortality Survey') and an individual 
-#' level dataset ('hh_member'). It can be used together with \link{mortality_survey_dict}. 
+#' This is a fake data dictionary for the \link{mortality_survey_data} dataset.
+#' This data dictionary was originally in ODK excel format and using functions 
+#' from [epidict](https://r4epi.github.io/epidict/index.html) was transformed in
+#' to long format, so that it can be used for recoding using the 
+#' [matchmaker](https://www.repidemicsconsortium.org/matchmaker/) package. 
 #' Please note, that this data is entirely fictional created based on the 
 #' Doctors without Borders (MSF) ethical review board pre-approved survey 
 #' dictionaries. They have been generated here exclusively for training purposes.
@@ -71,7 +73,7 @@
 #' as part of the R4Epis project funded by the Doctors Without Borders (MSF) 
 #' sappling nursery.
 #' 
-#' The original dataset is 'mortality_survey_data.xlsx' 
+#' The original dataset is 'mortality_survey_dict.xlsx' 
 #'   
 #' This is version 1.0.  
 #' 
