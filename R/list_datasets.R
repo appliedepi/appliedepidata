@@ -2,7 +2,7 @@
 #'
 #' @description
 #' This function lists all the files in the `data`,`inst/extdata` and 
-#' `internal binaries` directories of a #' specified R package.
+#' `internal binaries` directories of a specified R package.
 #'
 #' @param package_name A character string specifying the name of the R package 
 #' for which to list files. Defaults to "appliedepidata". 
