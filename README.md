@@ -11,7 +11,7 @@ This package stores all Applied Epi data across books, case studies, courses and
     - option for adding messy datasets a la [{medicaldata}](https://github.com/higgi13425/medicaldata/?tab=readme-ov-file#messy-datasets)
   - **internal data** additional complication is that when you build a package, you can make the Rda datasets (from data folder) "internal" (more efficient for file storage, as then become part of binary), and these are then access by doing package::dataset. They can also be imported directly from github using link to the file in data folder e.g. 'rio(<github-raw url>)'. Read this [r packages chapter](https://r-pkgs.org/data.html) for details. 
   - **data-raw** usually contains R scripts which are used for creating the exported or internal data (e.g. if have edited dataset, or where {usethis} internalises dataset)
-  - *sysdata** the *the table of tables* would go in sysdata which is not exported (i.e. just for package usage)   
+  - **sysdata** the *the table of tables* would go in sysdata which is not exported (i.e. just for package usage)   
 - naming of datasets (human readable/localised user-facing with an internal lookup table of standardised dataset IDs)
   - ?WHO or HDx functions or standardised file naming 
     - no clear guidelines, [datacarpentry](https://datacarpentry.org/rr-organization1/01-file-naming/index.html) has basics and [OCHA](https://humanitarian.atlassian.net/wiki/spaces/imtoolbox/pages/42502092/File+Naming+Convention) very basic. Tidytuesday doesnt even enforce naming. 
