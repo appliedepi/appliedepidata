@@ -21,8 +21,8 @@ This package stores all Applied Epi data across books, case studies, courses and
   - ?language suffixes
 
 ### functions 
-- [x] list available datasets 
-~ - search available datasets (wrapper around list/*tableoftables* to make searchable by country, disease, language, name, ID, etc)~
+- [x] list available datasets  
+~~ - search available datasets (wrapper around list/*tableoftables* to make searchable by country, disease, language, name, ID, etc)~~
 - [ ] get data (different to saving if just want to use within Rstudio, ?necessary - rather than have new users freakout about different ways of accessing the data)
 - [ ] download/save dataset locally function (based on *tableoftables*)
 - [ ] data dictionary for a dataset: start with wrapper for  [{datadict}](https://github.com/epicentre-msf/datadict) as demo, then either consider pulling parts to {epidict} or offer them help to get on CRAN. 
@@ -36,8 +36,8 @@ This package stores all Applied Epi data across books, case studies, courses and
 - description file for each dataset in pkg
   - ideally: data dictionary used to fill in the *man* files for each
   - probably do the same way [alison horst](https://github.com/lter/lterdatasampler/) does
-- readme/pkgdown table (adapted from *tableoftables*) listing available datasets, versions, languages, source, and where used (e.g. case study, course, tutorial, epirhandbook)
-  ~ - ideally can be fed by list datasets function~
+- readme/pkgdown table (adapted from *tableoftables*) listing available datasets, versions, languages, source, and where used (e.g. case study, course, tutorial, epirhandbook)  
+  ~~ - ideally can be fed by list datasets function ~~
 - pkgdown separated by heading for dictionaries and actual datasets, and cross-links between the two
 - guideline for contributing datasets similar to [tidytuesday](https://github.com/rfordatascience/tidytuesday/blob/master/.github/pr_instructions.md)
 - licensing: while the overall package repo will be GPL3, it is possible that individual datasets will come under a different license (so there needs to be a license section in documentation for each dataset)
