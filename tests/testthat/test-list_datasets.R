@@ -1,6 +1,6 @@
 
 
-# Define tests
+
 test_that("list_datasets function returns a dataframe with correct columns", {
   # Run the function
   result <- list_datasets(package_name = "appliedepidata")

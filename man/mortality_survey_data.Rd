@@ -47,7 +47,7 @@ This is an example fake dataset of a mortality survey which was generated
 using \href{https://r4epi.github.io/epidict/index.html}{epidict} package functions.
 }
 \details{
-This is a fake survey dataset . This data comes in two parts:
+This is a fake survey dataset. This data comes in two parts:
 a household level dataset ('Mortality Survey') and an individual
 level dataset ('hh_member'). It can be used together with \link{mortality_survey_dict}.
 Please note, that this data is entirely fictional created based on the

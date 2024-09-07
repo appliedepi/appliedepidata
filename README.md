@@ -27,7 +27,7 @@ This package stores all Applied Epi data across books, case studies, courses and
 - [ ] download/save dataset locally function (based on *tableoftables*)
 - [ ] data dictionary for a dataset: start with wrapper for  [{datadict}](https://github.com/epicentre-msf/datadict) as demo, then either consider pulling parts to {epidict} or offer them help to get on CRAN. 
   - if decide to help w/ {datadict} then {epidict} would just become a fake data generator. 
-- [ ] function which uses a data dict to create the description section in roxygen for a dataset
+- [x] function which uses a data dict to create the description section in roxygen for a dataset
 - [ ] in phase 2 could build helper functions that create the description file from *tableoftables* (then the user just needs to edit an excel file) 
 - [ ] unit testing for functions
   - could pull some from [{gapminder}](https://github.com/jennybc/gapminder/)
@@ -38,7 +38,7 @@ This package stores all Applied Epi data across books, case studies, courses and
   - probably do the same way [alison horst](https://github.com/lter/lterdatasampler/) does
 - readme/pkgdown table (adapted from *tableoftables*) listing available datasets, versions, languages, source, and where used (e.g. case study, course, tutorial, epirhandbook)  
    - ~~ideally can be fed by list datasets function~~
-- pkgdown separated by heading for dictionaries and actual datasets, and cross-links between the two
+- ?pkgdown separated by heading for dictionaries and actual datasets, and cross-links between the two
 - guideline for contributing datasets similar to [tidytuesday](https://github.com/rfordatascience/tidytuesday/blob/master/.github/pr_instructions.md)
 - licensing: while the overall package repo will be GPL3, it is possible that individual datasets will come under a different license (so there needs to be a license section in documentation for each dataset)
 
