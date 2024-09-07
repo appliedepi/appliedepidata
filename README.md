@@ -27,10 +27,11 @@ This package stores all Applied Epi data across books, case studies, courses and
 - [ ] download/save dataset locally function (based on *tableoftables*)
 - [ ] data dictionary for a dataset: start with wrapper for  [{datadict}](https://github.com/epicentre-msf/datadict) as demo, then either consider pulling parts to {epidict} or offer them help to get on CRAN. 
   - if decide to help w/ {datadict} then {epidict} would just become a fake data generator. 
+  - odk example dictionary from [xlsxform](https://docs.getodk.org/xlsform/)
 - [x] function which uses a data dict to create the description section in roxygen for a dataset
 - [ ] in phase 2 could build helper functions that create the description file from *tableoftables* (then the user just needs to edit an excel file) 
 - [ ] unit testing for functions
-  - could pull some from [{gapminder}](https://github.com/jennybc/gapminder/)
+  - ?pull snapshots bit from [{gapminder}](https://github.com/jennybc/gapminder/) re changes to datasets
 
 ### Documentation 
 - description file for each dataset in pkg
@@ -52,3 +53,122 @@ This package stores all Applied Epi data across books, case studies, courses and
     - make edits as needed
     - save with usethis::usedata()
   - if adding an .rda file: 
+  
+  
+
+# Data Entry Guide for Dataset Metadata
+
+Below is a table explaining how to fill in each variable in the dataset 
+metadata Excel sheet (1tablesoftables.xlsx). This guide helps ensure 
+consistency and completeness when adding new datasets to your collection.
+
+| **Variable**          | **Description**                    |
+|-----------------------|------------------------------------|
+| **name**              | The filename of the dataset as it  |
+|                       | appears in the `inst/extdata`      |
+|                       | directory, **without** the file    |
+|                       | extension. This should be unique   |
+|                       | within the dataset group. Use      |
+|                       | consistent and descriptive names   |
+|                       | without spaces                     |
+|                       |  (e.g., `AJS_AmTiman`,             |
+|                       | `mortality_survey`).              |
+| **type**              | The category or type of the        |
+|                       | dataset (e.g., `linelist`,         |
+|                       | `population`, `shape`, `survey`,   |
+|                       | `dictionary`).                    |
+| **extension**         | The file extension (e.g., `xlsx`,  |
+|                       | `zip`).                            |
+| **type_version**      | Used to identify the *original*    |
+|                       | data set and associated child data |
+|                       | Increment when format or variables |
+|                       | change. As there may be multiple   |
+|                       | linelists in one group, this would |
+|                       | increment with the type.           |
+| **data_version**      | Used to identify the *original*    |
+|                       | data set and associated child data |
+|                       | Increment when format or variables |
+|                       | change. Ensure you document changes|
+|                       | in the appropriate 'data-raw' file.|
+| **language**          | Language code using [ISO 639-1     |
+|                       | codes](https://en.wikipedia.org/   |
+|                       | wiki/List_of_ISO_639-1_codes).     |
+|                       | (e.g., `en`, `fr`).               |
+| **country**           | Country code using [ISO 3166-1     |
+|                       | alpha-3 codes](https://en.         |
+|                       | wikipedia.org/wiki/ISO_3166-1_     |
+|                       | alpha-3). (e.g., `tcd`).          |
+| **scale**             | Geographic scale (e.g.             |
+|                       | `subnational`, `national`          |
+|                       | or `international`).               |
+| **subject**           | Main subject of the dataset (e.g., |
+|                       | `acute jaundice syndrome`).        |
+| **context**           | Context of the data (e.g.,         |
+|                       | `outbreak`, `survey`).            |
+| **fictional**         | Is the dataset fictional (`yes`)   |
+|                       | or real (`no`)?                   |
+| **year**              | Year the data was collected (e.g., |
+|                       | `2016`). The *earliest* year in    |
+|                       | the dataset.                       |
+| **description**       | Brief description of the dataset.  |
+|                       | Ideally copy from roxyen docs     |
+| **usage**             | Intended usage (e.g., `{sitrep}    |
+|                       | walkthroughs`, `training`).        |
+| **license**           | License for dataset (e.g., `gpl3`, |
+|                       | `mit`).                           |
+| **group_identifier**  | *DO NOT EDIT* 
+|                       |  High-level identifier combining   |
+|                       | subject, context, country, and     |
+|                       | year (e.g.,                       |
+|                       | `acute_jaundice_syndrome_outbreak_|
+|                       | tcd_2016`).                       |
+| **unique_identifier** | *DO NOT EDIT*                     |
+|                       | Combines `group_identifier`, type,|
+|                       | type_version, context, and year to|
+|                       | create a unique identifier (e.g., |
+|                       | `acute_jaundice_syndrome_outbreak_|
+|                       | tcd_2016_linelist_1`).            |
+
+
+
+
+
+For example, when adding an Ebola dataset, you would enter the information as 
+shown below. The original dataset (whether it's from {outbreaks} or another source)
+would be considered 'type_version' 1. If it’s the only linelist in its group, it 
+remains 'type_version' 1. If a completely different linelist is added (not just an
+edited version), increment the 'type_version' accordingly.
+
+For any changes to the data (such as cleaning or changing nums of rows or columns),
+increment the 'data_version' (e.g., 'data_version' 2), but the 'type_version' 
+remains the same to indicate that it’s a derivative (or "child") of the original.
+Each child dataset gets its own entry.
+
+If a dataset is translated into a different language, create a new entry for
+the translated version while keeping the 'data_version' and 'type_version' the same, 
+but editing the 'language' column accordingly. 
+This ensures you can trace back the parent-child relationship between datasets.
+
+
+| **Variable**          | **Example Entry**                  |
+|-----------------------|------------------------------------|
+| **name**              | `linelist_cleaned`                 |
+| **type**              | `linelist`                         |
+| **extension**         | `xlsx`                             |
+| **type_version**      | `1`                                |
+| **data_version**      | `1`                                |
+| **language**          | `en`                               |
+| **country**           | `lbr`                              |
+| **scale**             | `national`                         |
+| **subject**           | `ebola`                            |
+| **context**           | `outbreak`                         |
+| **fictional**         | `yes`                              |
+| **year**              | `2014`                             |
+| **description**       | Linelist data from the Ebola virus |
+|                       | disease outbreak in Liberia in     |
+|                       | 2014.                              |
+| **usage**             | `introexercises`, etc.             |
+| **license**           | `gpl3`                             |
+| **group_identifier**  | `ebola_outbreak_lbr_2014`          |
+| **unique_identifier** | `ebola_outbreak_lbr_2014_linelist_1|
+|                       | 1_outbreak_2014`                   |
