@@ -110,6 +110,8 @@
 <label><input type="checkbox">data dictionary for a dataset: start with wrapper for <a href="https://github.com/epicentre-msf/datadict" class="external-link">{datadict}</a> as demo, then either consider pulling parts to {epidict} or offer them help to get on CRAN.</label>
 <ul>
 <li>if decide to help w/ {datadict} then {epidict} would just become a fake data generator.</li>
+<li>odk example dictionary from <a href="https://docs.getodk.org/xlsform/" class="external-link">xlsxform</a>
+</li>
 </ul>
 </li>
 <li><label><input type="checkbox" checked>function which uses a data dict to create the description section in roxygen for a dataset</label></li>
@@ -117,8 +119,7 @@
 <li>
 <label><input type="checkbox">unit testing for functions</label>
 <ul>
-<li>could pull some from <a href="https://github.com/jennybc/gapminder/" class="external-link">{gapminder}</a>
-</li>
+<li>?pull snapshots bit from <a href="https://github.com/jennybc/gapminder/" class="external-link">{gapminder}</a> re changes to datasets</li>
 </ul>
 </li>
 </ul>
@@ -167,6 +168,376 @@
 </div>
 </div>
 </div>
+<div class="section level1">
+<h1 id="data-entry-guide-for-dataset-metadata">Data Entry Guide for Dataset Metadata<a class="anchor" aria-label="anchor" href="#data-entry-guide-for-dataset-metadata"></a>
+</h1>
+<p>Below is a table explaining how to fill in each variable in the dataset metadata Excel sheet (1tablesoftables.xlsx). This guide helps ensure consistency and completeness when adding new datasets to your collection.</p>
+<table class="table">
+<colgroup>
+<col width="38%">
+<col width="61%">
+</colgroup>
+<thead><tr class="header">
+<th><strong>Variable</strong></th>
+<th><strong>Description</strong></th>
+</tr></thead>
+<tbody>
+<tr class="odd">
+<td><strong>name</strong></td>
+<td>The filename of the dataset as it</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>appears in the <code>inst/extdata</code>
+</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>directory, <strong>without</strong> the file</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>extension. This should be unique</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>within the dataset group. Use</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>consistent and descriptive names</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>without spaces</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>(e.g., <code>AJS_AmTiman</code>,</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>
+<code>mortality_survey</code>).</td>
+</tr>
+<tr class="even">
+<td><strong>type</strong></td>
+<td>The category or type of the</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>dataset (e.g., <code>linelist</code>,</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>
+<code>population</code>, <code>shape</code>, <code>survey</code>,</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>
+<code>dictionary</code>).</td>
+</tr>
+<tr class="even">
+<td><strong>extension</strong></td>
+<td>The file extension (e.g., <code>xlsx</code>,</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>
+<code>zip</code>).</td>
+</tr>
+<tr class="even">
+<td><strong>type_version</strong></td>
+<td>Used to identify the <em>original</em>
+</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>data set and associated child data</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Increment when format or variables</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>change. As there may be multiple</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>linelists in one group, this would</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>increment with the type.</td>
+</tr>
+<tr class="even">
+<td><strong>data_version</strong></td>
+<td>Used to identify the <em>original</em>
+</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>data set and associated child data</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Increment when format or variables</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>change. Ensure you document changes</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>in the appropriate ‘data-raw’ file.</td>
+</tr>
+<tr class="odd">
+<td><strong>language</strong></td>
+<td>Language code using [ISO 639-1</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>codes](<a href="https://en.wikipedia.org/" class="external-link uri">https://en.wikipedia.org/</a>
+</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>wiki/List_of_ISO_639-1_codes).</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>(e.g., <code>en</code>, <code>fr</code>).</td>
+</tr>
+<tr class="odd">
+<td><strong>country</strong></td>
+<td>Country code using [ISO 3166-1</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>alpha-3 codes](<a href="https://en" class="external-link uri">https://en</a>.</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>wikipedia.org/wiki/ISO_3166-1_</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>alpha-3). (e.g., <code>tcd</code>).</td>
+</tr>
+<tr class="odd">
+<td><strong>scale</strong></td>
+<td>Geographic scale (e.g.</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>
+<code>subnational</code>, <code>national</code>
+</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>or <code>international</code>).</td>
+</tr>
+<tr class="even">
+<td><strong>subject</strong></td>
+<td>Main subject of the dataset (e.g.,</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>
+<code>acute jaundice syndrome</code>).</td>
+</tr>
+<tr class="even">
+<td><strong>context</strong></td>
+<td>Context of the data (e.g.,</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>
+<code>outbreak</code>, <code>survey</code>).</td>
+</tr>
+<tr class="even">
+<td><strong>fictional</strong></td>
+<td>Is the dataset fictional (<code>yes</code>)</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>or real (<code>no</code>)?</td>
+</tr>
+<tr class="even">
+<td><strong>year</strong></td>
+<td>Year the data was collected (e.g.,</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>
+<code>2016</code>). The <em>earliest</em> year in</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>the dataset.</td>
+</tr>
+<tr class="odd">
+<td><strong>description</strong></td>
+<td>Brief description of the dataset.</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Ideally copy from roxyen docs</td>
+</tr>
+<tr class="odd">
+<td><strong>usage</strong></td>
+<td>Intended usage (e.g., <code>{sitrep}    | |                       | walkthroughs</code>, <code>training</code>).</td>
+</tr>
+<tr class="even">
+<td><strong>license</strong></td>
+<td>License for dataset (e.g., <code>gpl3</code>,</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>
+<code>mit</code>).</td>
+</tr>
+<tr class="even">
+<td><strong>group_identifier</strong></td>
+<td><em>DO NOT EDIT</em></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>High-level identifier combining</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>subject, context, country, and</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>year (e.g.,</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>
+<code>acute_jaundice_syndrome_outbreak_| |                       | tcd_2016</code>).</td>
+</tr>
+<tr class="odd">
+<td><strong>unique_identifier</strong></td>
+<td><em>DO NOT EDIT</em></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Combines <code>group_identifier</code>, type,</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>type_version, context, and year to</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>create a unique identifier (e.g.,</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>
+<code>acute_jaundice_syndrome_outbreak_| |                       | tcd_2016_linelist_1</code>).</td>
+</tr>
+</tbody>
+</table>
+<p>For example, when adding an Ebola dataset, you would enter the information as shown below. The original dataset (whether it’s from {outbreaks} or another source) would be considered ‘type_version’ 1. If it’s the only linelist in its group, it remains ‘type_version’ 1. If a completely different linelist is added (not just an edited version), increment the ‘type_version’ accordingly.</p>
+<p>For any changes to the data (such as cleaning or changing nums of rows or columns), increment the ‘data_version’ (e.g., ‘data_version’ 2), but the ‘type_version’ remains the same to indicate that it’s a derivative (or “child”) of the original. Each child dataset gets its own entry.</p>
+<p>If a dataset is translated into a different language, create a new entry for the translated version while keeping the ‘data_version’ and ‘type_version’ the same, but editing the ‘language’ column accordingly. This ensures you can trace back the parent-child relationship between datasets.</p>
+<table class="table">
+<colgroup>
+<col width="38%">
+<col width="61%">
+</colgroup>
+<thead><tr class="header">
+<th><strong>Variable</strong></th>
+<th><strong>Example Entry</strong></th>
+</tr></thead>
+<tbody>
+<tr class="odd">
+<td><strong>name</strong></td>
+<td><code>linelist_cleaned</code></td>
+</tr>
+<tr class="even">
+<td><strong>type</strong></td>
+<td><code>linelist</code></td>
+</tr>
+<tr class="odd">
+<td><strong>extension</strong></td>
+<td><code>xlsx</code></td>
+</tr>
+<tr class="even">
+<td><strong>type_version</strong></td>
+<td><code>1</code></td>
+</tr>
+<tr class="odd">
+<td><strong>data_version</strong></td>
+<td><code>1</code></td>
+</tr>
+<tr class="even">
+<td><strong>language</strong></td>
+<td><code>en</code></td>
+</tr>
+<tr class="odd">
+<td><strong>country</strong></td>
+<td><code>lbr</code></td>
+</tr>
+<tr class="even">
+<td><strong>scale</strong></td>
+<td><code>national</code></td>
+</tr>
+<tr class="odd">
+<td><strong>subject</strong></td>
+<td><code>ebola</code></td>
+</tr>
+<tr class="even">
+<td><strong>context</strong></td>
+<td><code>outbreak</code></td>
+</tr>
+<tr class="odd">
+<td><strong>fictional</strong></td>
+<td><code>yes</code></td>
+</tr>
+<tr class="even">
+<td><strong>year</strong></td>
+<td><code>2014</code></td>
+</tr>
+<tr class="odd">
+<td><strong>description</strong></td>
+<td>Linelist data from the Ebola virus</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>disease outbreak in Liberia in</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>2014.</td>
+</tr>
+<tr class="even">
+<td><strong>usage</strong></td>
+<td>
+<code>introexercises</code>, etc.</td>
+</tr>
+<tr class="odd">
+<td><strong>license</strong></td>
+<td><code>gpl3</code></td>
+</tr>
+<tr class="even">
+<td><strong>group_identifier</strong></td>
+<td><code>ebola_outbreak_lbr_2014</code></td>
+</tr>
+<tr class="odd">
+<td><strong>unique_identifier</strong></td>
+<td><code>ebola_outbreak_lbr_2014_linelist_1| |                       | 1_outbreak_2014</code></td>
+</tr>
+</tbody>
+</table>
+</div>
+
   </main><aside class="col-md-3"><div class="license">
 <h2 data-toc-skip>License</h2>
 <ul class="list-unstyled">
