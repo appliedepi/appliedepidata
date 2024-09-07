@@ -72,7 +72,7 @@
 <li>
 <strong>data-raw</strong> usually contains R scripts which are used for creating the exported or internal data (e.g. if have edited dataset, or where {usethis} internalises dataset)</li>
 <li>
-<strong>sysdata</strong> the <em>the table of tables</em> would go in sysdata which is not exported (i.e. just for package usage)<br>
+<strong>sysdata</strong> probably the <em>tableoftables</em> should just stay in <em>extdata</em> but alternatively could go in sysdata which is not exported (i.e. just for package usage)<br>
 </li>
 </ul>
 </li>
@@ -98,13 +98,26 @@
 <h3 id="functions">functions<a class="anchor" aria-label="anchor" href="#functions"></a>
 </h3>
 <ul>
-<li><label><input type="checkbox" checked>list available datasets</label></li>
-<li>search available datasets (wrapper around list/<em>the table of tables</em> to make searchable by country, disease, language, name, ID, etc)</li>
-<li>get data (different to saving if just want to use within Rstudio, ?necessary - rather than have new users freakout about different ways of accessing the data)</li>
-<li>download/save dataset locally function</li>
-<li>function to create a data dictionary for a dataset (?wrapper for <a href="https://github.com/epicentre-msf/datadict" class="external-link">{datadict}</a> or similar, or create whole new function to go in {epidict})</li>
-<li>function which uses a data dict to create the description section in roxygen for a dataset</li>
-<li>unit testing for functions
+<li><dl>
+<dt>[x] list available datasets</dt>
+<dd>
+<ul>
+<li>search available datasets (wrapper around list/<em>tableoftables</em> to make searchable by country, disease, language, name, ID, etc)~</li>
+</ul>
+</dd>
+</dl></li>
+<li><label><input type="checkbox">get data (different to saving if just want to use within Rstudio, ?necessary - rather than have new users freakout about different ways of accessing the data)</label></li>
+<li><label><input type="checkbox">download/save dataset locally function (based on <em>tableoftables</em>)</label></li>
+<li>
+<label><input type="checkbox">data dictionary for a dataset: start with wrapper for <a href="https://github.com/epicentre-msf/datadict" class="external-link">{datadict}</a> as demo, then either consider pulling parts to {epidict} or offer them help to get on CRAN.</label>
+<ul>
+<li>if decide to help w/ {datadict} then {epidict} would just become a fake data generator.</li>
+</ul>
+</li>
+<li><label><input type="checkbox">function which uses a data dict to create the description section in roxygen for a dataset</label></li>
+<li><label><input type="checkbox">in phase 2 could build helper functions that create the description file from <em>tableoftables</em> (then the user just needs to edit an excel file)</label></li>
+<li>
+<label><input type="checkbox">unit testing for functions</label>
 <ul>
 <li>could pull some from <a href="https://github.com/jennybc/gapminder/" class="external-link">{gapminder}</a>
 </li>
@@ -119,16 +132,18 @@
 <li>
 <p>description file for each dataset in pkg</p>
 <ul>
-<li>data dictionary used to fill in the <em>man</em> files for each</li>
+<li>ideally: data dictionary used to fill in the <em>man</em> files for each</li>
 <li>probably do the same way <a href="https://github.com/lter/lterdatasampler/" class="external-link">alison horst</a> does</li>
 </ul>
 </li>
-<li>
-<p>readme/pkgdown table listing available datasets, versions, languages, source, and where used (e.g. case study, course, tutorial, epirhandbook)</p>
+<li><dl>
+<dt>readme/pkgdown table (adapted from <em>tableoftables</em>) listing available datasets, versions, languages, source, and where used (e.g. case study, course, tutorial, epirhandbook)</dt>
+<dd>
 <ul>
-<li>ideally can be fed by list datasets function</li>
+<li>ideally can be fed by list datasets function~</li>
 </ul>
-</li>
+</dd>
+</dl></li>
 <li><p>pkgdown separated by heading for dictionaries and actual datasets, and cross-links between the two</p></li>
 <li><p>guideline for contributing datasets similar to <a href="https://github.com/rfordatascience/tidytuesday/blob/master/.github/pr_instructions.md" class="external-link">tidytuesday</a></p></li>
 <li><p>licensing: while the overall package repo will be GPL3, it is possible that individual datasets will come under a different license (so there needs to be a license section in documentation for each dataset)</p></li>
