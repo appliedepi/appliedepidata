@@ -2,7 +2,7 @@ pandoc: 3.1.11
 pkgdown: 2.1.0
 pkgdown_sha: ~
 articles: {}
-last_built: 2024-09-07T17:06Z
+last_built: 2024-09-08T15:22Z
 urls:
   reference: https://appliedepi.github.io/appliedepidata/reference
   article: https://appliedepi.github.io/appliedepidata/articles
