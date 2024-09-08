@@ -62,74 +62,70 @@ Below is a table explaining how to fill in each variable in the dataset
 metadata Excel sheet (1tablesoftables.xlsx). This guide helps ensure 
 consistency and completeness when adding new datasets to your collection.
 
-| **Variable**          | **Description**                    |
-|-----------------------|------------------------------------|
-| **name**              | The filename of the dataset as it  |
-|                       | appears in the `inst/extdata`      |
-|                       | directory, **without** the file    |
-|                       | extension. This should be unique   |
-|                       | within the dataset group. Use      |
-|                       | consistent and descriptive names   |
-|                       | without spaces                     |
-|                       |  (e.g., `AJS_AmTiman`,             |
-|                       | `mortality_survey`).              |
-| **type**              | The category or type of the        |
-|                       | dataset (e.g., `linelist`,         |
-|                       | `population`, `shape`, `survey`,   |
-|                       | `dictionary`).                    |
-| **extension**         | The file extension (e.g., `xlsx`,  |
-|                       | `zip`).                            |
-| **type_version**      | Used to identify the *original*    |
-|                       | data set and associated child data |
-|                       | Increment when format or variables |
-|                       | change. As there may be multiple   |
-|                       | linelists in one group, this would |
-|                       | increment with the type.           |
-| **data_version**      | Used to identify the *original*    |
-|                       | data set and associated child data |
-|                       | Increment when format or variables |
-|                       | change. Ensure you document changes|
-|                       | in the appropriate 'data-raw' file.|
-| **language**          | Language code using [ISO 639-1     |
-|                       | codes](https://en.wikipedia.org/   |
-|                       | wiki/List_of_ISO_639-1_codes).     |
-|                       | (e.g., `en`, `fr`).               |
-| **country**           | Country code using [ISO 3166-1     |
-|                       | alpha-3 codes](https://en.         |
-|                       | wikipedia.org/wiki/ISO_3166-1_     |
-|                       | alpha-3). (e.g., `tcd`).          |
-| **scale**             | Geographic scale (e.g.             |
-|                       | `subnational`, `national`          |
-|                       | or `international`).               |
-| **subject**           | Main subject of the dataset (e.g., |
-|                       | `acute jaundice syndrome`).        |
-| **context**           | Context of the data (e.g.,         |
-|                       | `outbreak`, `survey`).            |
-| **fictional**         | Is the dataset fictional (`yes`)   |
-|                       | or real (`no`)?                   |
-| **year**              | Year the data was collected (e.g., |
-|                       | `2016`). The *earliest* year in    |
-|                       | the dataset.                       |
-| **description**       | Brief description of the dataset.  |
-|                       | Ideally copy from roxyen docs     |
-| **usage**             | Intended usage (e.g., `{sitrep}    |
-|                       | walkthroughs`, `training`).        |
-| **license**           | License for dataset (e.g., `gpl3`, |
-|                       | `mit`).                           |
-| **group_identifier**  | *DO NOT EDIT* 
-|                       |  High-level identifier combining   |
-|                       | subject, context, country, and     |
-|                       | year (e.g.,                       |
-|                       | `acute_jaundice_syndrome_outbreak_|
-|                       | tcd_2016`).                       |
-| **unique_identifier** | *DO NOT EDIT*                     |
-|                       | Combines `group_identifier`, type,|
-|                       | type_version, context, and year to|
-|                       | create a unique identifier (e.g., |
-|                       | `acute_jaundice_syndrome_outbreak_|
-|                       | tcd_2016_linelist_1`).            |
+- **name**:  
+  The filename of the dataset as it appears in the `inst/extdata` directory,
+  **without** the file extension. This should be unique within the dataset group, 
+  and ideally also within the *tableoftables* (i.e. avoid generic names like: 
+  'linelist_cleaned.xlsx' or 'survey_data.xlsx'). 
+  Use consistent and descriptive names without spaces (e.g., `AJS_AmTiman`,
+  `mortality_survey`).
 
+- **type**:  
+  The category or type of the dataset (e.g., `linelist`, `population`, `shape`,
+  `survey`, `dictionary`).
 
+- **extension**:  
+  The file extension (e.g., `xlsx`, `zip`).
+
+- **type_version**:  
+  Used to identify the *original* dataset and its associated child data.
+  Increment when format or variables change. If there are multiple linelists 
+  in one group, this would increment with the type.
+
+- **data_version**:  
+  Used to identify the *original* dataset and its associated child data. 
+  Increment when format or variables change. Ensure you document changes in 
+  the appropriate 'data-raw' file.
+
+- **language**:  
+  Language code using [ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (e.g., `en`, `fr`).
+
+- **country**:  
+  Country code using [ISO 3166-1 alpha-3 codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) (e.g., `tcd`).
+
+- **scale**:  
+  Geographic scale (e.g., `subnational`, `national`, or `international`).
+
+- **subject**:  
+  Main subject of the dataset (e.g., `acute jaundice syndrome`).
+
+- **context**:  
+  Context of the data (e.g., `outbreak`, `survey`).
+
+- **fictional**:  
+  Is the dataset fictional (`yes`) or real (`no`)?
+
+- **year**:  
+  Year the data was collected (e.g., `2016`). This is the *earliest* year in the
+  dataset.
+
+- **description**:  
+  Brief description of the dataset. Ideally, copy from roxygen documentation.
+
+- **usage**:  
+  Intended usage (e.g., `{sitrep} walkthroughs`, `training`).
+
+- **license**:  
+  License for dataset (e.g., `gpl3`, `mit`).
+
+- **group_identifier**:  
+  *DO NOT EDIT* - High-level identifier combining `subject`, `context`, `country`, 
+  and `year` (e.g., `acute_jaundice_syndrome_outbreak_tcd_2016`).
+
+- **unique_identifier**:  
+  *DO NOT EDIT* - Combines `group_identifier`, `type`, `type_version`, 
+  `data_version`, `context`, and `year` to create a unique identifier (e.g.
+  `acute_jaundice_syndrome_outbreak_tcd_2016_linelist_1`).
 
 
 
@@ -152,7 +148,7 @@ This ensures you can trace back the parent-child relationship between datasets.
 
 | **Variable**          | **Example Entry**                  |
 |-----------------------|------------------------------------|
-| **name**              | `linelist_cleaned`                 |
+| **name**              | `ebola_linelist_cleaned`           |
 | **type**              | `linelist`                         |
 | **extension**         | `xlsx`                             |
 | **type_version**      | `1`                                |
