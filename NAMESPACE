@@ -2,4 +2,9 @@
 
 export(create_desc)
 export(list_datasets)
+export(search_datasets)
+import(dplyr)
+import(reactable)
+import(rio)
+import(shiny)
 importFrom(clipr,write_clip)

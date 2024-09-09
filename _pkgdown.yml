@@ -6,6 +6,7 @@ reference:
 - title: Functions
 - contents: 
   - list_datasets
+  - search_datasets
   - create_desc
 
 

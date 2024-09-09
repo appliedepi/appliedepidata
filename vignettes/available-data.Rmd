@@ -25,7 +25,7 @@ library(appliedepidata)
 
 You can see all available datasets below.
 
-```{r}
+```{r echo=FALSE}
 
 # Load the data
 table_of_tables <- rio::import(system.file("extdata", "tableoftables.xlsx", 
