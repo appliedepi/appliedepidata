@@ -21,12 +21,12 @@
 #' @examples
 #' \dontrun{
 #' # List all files in the directories of the "ggplot2" package
-#' files <- list_datasets(package_name = "ggplot2")
+#' files <- list_data(package_name = "ggplot2")
 #' print(files)
 #' }
 #'
 #' @export
-list_datasets <- function(package_name = "appliedepidata") {
+list_data <- function(package_name = "appliedepidata") {
   
   if (is.null(package_name)) {
     stop("Please specify a package name")

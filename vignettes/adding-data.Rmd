@@ -27,6 +27,9 @@ library(appliedepidata)
 
 # repo folder structure 
 
+Read this [r packages chapter](https://r-pkgs.org/data.html) for details. 
+
+
 ```bash
 .
 ├── appliedepidata.Rproj
@@ -56,7 +59,6 @@ library(appliedepidata)
   for file storage, as then become part of binary), and these are then access 
   by doing package::dataset. They can also be imported directly from github 
   using link to the file in data folder e.g. 'rio(<github-raw url>)'. 
-  Read this [r packages chapter](https://r-pkgs.org/data.html) for details. 
   - **data-raw** usually contains R scripts which are used for creating the 
   exported or internal data (e.g. if have edited dataset, or where {usethis}
   internalises dataset)
@@ -185,6 +187,5 @@ This ensures you can trace back the parent-child relationship between datasets.
 | **usage**             | `introexercises`, etc.             |
 | **license**           | `gpl3`                             |
 | **group_identifier**  | `ebola_outbreak_lbr_2014`          |
-| **unique_identifier** | `ebola_outbreak_lbr_2014_linelist_1|
-|                       | 1_outbreak_2014`                   |
+| **unique_identifier** | `ebola_outbreak_lbr_2014_linelist_1_1_outbreak_2014`|
 

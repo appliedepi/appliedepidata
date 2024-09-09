@@ -12,7 +12,7 @@
 #' @examples
 #' \dontrun{
 #' # Launch the interactive data search application
-#' search_available_data()
+#' search_data()
 #' }
 #' 
 #' @import shiny
@@ -22,7 +22,7 @@
 #' @export
 
 # Define the function for interactive data search
-search_datasets <- function() {
+search_data <- function() {
   # Define the Shiny app
   shinyApp(
     # User interface
