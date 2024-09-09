@@ -77,6 +77,8 @@
 <div class="section level2">
 <h2 id="repo-folder-structure">repo folder structure<a class="anchor" aria-label="anchor" href="#repo-folder-structure"></a>
 </h2>
+<p>Read this <a href="https://r-pkgs.org/data.html" class="external-link">r packages
+chapter</a> for details.</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" tabindex="-1"></a><span class="bu">.</span></span>
 <span id="cb2-2"><a href="#cb2-2" tabindex="-1"></a><span class="ex">├──</span> appliedepidata.Rproj</span>
 <span id="cb2-3"><a href="#cb2-3" tabindex="-1"></a><span class="ex">├──</span> data</span>
@@ -110,8 +112,7 @@ you build a package, you can make the Rda datasets (from data folder)
 “internal” (more efficient for file storage, as then become part of
 binary), and these are then access by doing package::dataset. They can
 also be imported directly from github using link to the file in data
-folder e.g. ‘rio(<github-raw url>)’. Read this <a href="https://r-pkgs.org/data.html" class="external-link">r packages chapter</a> for
-details.</github-raw>
+folder e.g. ‘rio(<github-raw url>)’.</github-raw>
 </li>
 <li>
 <strong>data-raw</strong> usually contains R scripts which are used
@@ -317,7 +318,7 @@ can trace back the parent-child relationship between datasets.</p>
 </tr>
 <tr class="odd">
 <td><strong>unique_identifier</strong></td>
-<td><code>ebola_outbreak_lbr_2014_linelist_1| |                       | 1_outbreak_2014</code></td>
+<td><code>ebola_outbreak_lbr_2014_linelist_1_1_outbreak_2014</code></td>
 </tr>
 </tbody>
 </table>
