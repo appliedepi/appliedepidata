@@ -3,7 +3,7 @@
 \docType{data}
 \name{mortality_survey_dict}
 \alias{mortality_survey_dict}
-\title{Fake data for a mortality survey}
+\title{Fake data dictionary for a mortality survey}
 \format{
 Two data frames, 'Mortality Survey' with 424 rows and 16 columns, and
 'hh_member' with 2874 rows and 24 columns:

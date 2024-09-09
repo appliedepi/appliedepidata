@@ -52,7 +52,7 @@
 
 
 
-#' @title Fake data for a mortality survey
+#' @title Fake data dictionary for a mortality survey
 #'
 #' @description
 #' This is an example fake data dictionary for a mortality survey which was generated 

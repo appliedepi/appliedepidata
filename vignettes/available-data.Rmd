@@ -1,0 +1,54 @@
+---
+title: "available-data"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{available-data}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(appliedepidata)
+```
+
+
+
+
+# Available datasets 
+
+You can see all available datasets below.
+
+```{r}
+
+# Load the data
+table_of_tables <- rio::import(system.file("extdata", "tableoftables.xlsx", 
+                                          package = "appliedepidata"))
+
+
+# Group by unique_identifier, description, and group_identifier to combine languages
+find_langs <- table_of_tables |>
+  dplyr::group_by(unique_identifier) |>
+  dplyr::summarize(language = paste(unique(language), collapse = ", "), 
+                   .groups = 'drop')
+
+# Join with the original data to retain 'name' and handle suffixes
+output <- table_of_tables |>
+  dplyr::filter(language == "en") |>
+  dplyr::select(unique_identifier, name, description, group_identifier) |>
+  dplyr::left_join(find_langs, by = "unique_identifier") |>
+  dplyr::select(name, description, language, group_identifier)
+
+# Create an interactive table with reactable
+reactable::reactable(output, 
+          searchable = TRUE, 
+          pagination = TRUE, 
+          defaultPageSize = 10)
+
+```

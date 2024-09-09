@@ -16,13 +16,17 @@ Imports:
     clipr
 Suggests: 
     ggplot2,
+    knitr,
     palmerpenguins,
+    reactable,
     rio,
+    rmarkdown,
     sf,
-    testthat (>= 3.0.0), 
+    testthat (>= 3.0.0),
     usethis
 Config/testthat/edition: 3
 Depends: 
     R (>= 2.10)
 LazyData: true
 URL: https://appliedepi.github.io/appliedepidata/
+VignetteBuilder: knitr
