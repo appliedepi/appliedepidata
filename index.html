@@ -32,6 +32,13 @@
     <div id="navbar" class="collapse navbar-collapse ms-3">
       <ul class="navbar-nav me-auto">
 <li class="nav-item"><a class="nav-link" href="reference/index.html">Reference</a></li>
+<li class="nav-item dropdown">
+  <button class="nav-link dropdown-toggle" type="button" id="dropdown-articles" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true">Articles</button>
+  <ul class="dropdown-menu" aria-labelledby="dropdown-articles">
+<li><a class="dropdown-item" href="articles/adding-data.html">adding-data</a></li>
+    <li><a class="dropdown-item" href="articles/available-data.html">available-data</a></li>
+  </ul>
+</li>
       </ul>
 <ul class="navbar-nav">
 <li class="nav-item"><form class="form-inline" role="search">
@@ -47,53 +54,20 @@
   <main id="main" class="col-md-9"><div class="section level1">
 <div class="page-header"><h1 id="appliedepidata">appliedepidata<a class="anchor" aria-label="anchor" href="#appliedepidata"></a>
 </h1></div>
-<p>This package stores all Applied Epi data across books, case studies, courses and tutorials</p>
+<!-- badges: start -->
+<!-- badges: end -->
+<p>This package stores all Applied Epi data across courses and resources. This includes courses, tutorials, case studies and books (such as the EpiRhandbook and Applied Epi Manual).</p>
+<div class="section level2">
+<h2 id="installation">Installation<a class="anchor" aria-label="anchor" href="#installation"></a>
+</h2>
+<p>You can install the development version of appliedepidata from <a href="https://github.com/" class="external-link">GitHub</a> with:</p>
+<div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="co"># install.packages("pak")</span></span>
+<span><span class="fu">pak</span><span class="fu">::</span><span class="fu"><a href="https://pak.r-lib.org/reference/pak.html" class="external-link">pak</a></span><span class="op">(</span><span class="st">"appliedepi/appliedepidata"</span><span class="op">)</span></span></code></pre></div>
+</div>
 <div class="section level2">
 <h2 id="stuff-to-consider">stuff to consider<a class="anchor" aria-label="anchor" href="#stuff-to-consider"></a>
 </h2>
-<div class="section level3">
-<h3 id="storage">storage<a class="anchor" aria-label="anchor" href="#storage"></a>
-</h3>
-<ul>
-<li>folder structure
-<ul>
-<li>
-<strong>data</strong> R datasets go in data folder</li>
-<li>
-<strong>inst/extdata</strong>Non-R datasets go in inst&gt;extdata
-<ul>
-<li>option for adding messy datasets a la <a href="https://github.com/higgi13425/medicaldata/?tab=readme-ov-file#messy-datasets" class="external-link">{medicaldata}</a>
-</li>
-</ul>
-</li>
-<li>
-<strong>internal data</strong> additional complication is that when you build a package, you can make the Rda datasets (from data folder) “internal” (more efficient for file storage, as then become part of binary), and these are then access by doing package::dataset. They can also be imported directly from github using link to the file in data folder e.g. ‘rio(<github-raw url>)’. Read this <a href="https://r-pkgs.org/data.html" class="external-link">r packages chapter</a> for details.</github-raw>
-</li>
-<li>
-<strong>data-raw</strong> usually contains R scripts which are used for creating the exported or internal data (e.g. if have edited dataset, or where {usethis} internalises dataset)</li>
-<li>
-<strong>sysdata</strong> probably the <em>tableoftables</em> should just stay in <em>extdata</em> but alternatively could go in sysdata which is not exported (i.e. just for package usage)<br>
-</li>
-</ul>
-</li>
-<li>naming of datasets (human readable/localised user-facing with an internal lookup table of standardised dataset IDs)
-<ul>
-<li>?WHO or HDx functions or standardised file naming
-<ul>
-<li>no clear guidelines, <a href="https://datacarpentry.org/rr-organization1/01-file-naming/index.html" class="external-link">datacarpentry</a> has basics and <a href="https://humanitarian.atlassian.net/wiki/spaces/imtoolbox/pages/42502092/File+Naming+Convention" class="external-link">OCHA</a> very basic. Tidytuesday doesnt even enforce naming.</li>
-</ul>
-</li>
-<li>versioning of datasets (and edits thereof, e.g. same data for diff bits of course)
-<ul>
-<li>define overarching source file and resulting child files</li>
-<li>do these all go within the same folder? Or just defined by similar prefix/ID</li>
-</ul>
-</li>
-<li>?language suffixes</li>
-</ul>
-</li>
-</ul>
-</div>
 <div class="section level3">
 <h3 id="functions">functions<a class="anchor" aria-label="anchor" href="#functions"></a>
 </h3>
@@ -128,178 +102,13 @@
 <h3 id="documentation">Documentation<a class="anchor" aria-label="anchor" href="#documentation"></a>
 </h3>
 <ul>
-<li>
-<p>description file for each dataset in pkg</p>
-<ul>
-<li>ideally: data dictionary used to fill in the <em>man</em> files for each</li>
-<li>probably do the same way <a href="https://github.com/lter/lterdatasampler/" class="external-link">alison horst</a> does</li>
-</ul>
+<li>readme/pkgdown table (adapted from <em>tableoftables</em>) listing available datasets, versions, languages, source, and where used (e.g. case study, course, tutorial, epirhandbook)<br>
 </li>
-<li>
-<p>readme/pkgdown table (adapted from <em>tableoftables</em>) listing available datasets, versions, languages, source, and where used (e.g. case study, course, tutorial, epirhandbook)</p>
-<ul>
-<li><del>ideally can be fed by list datasets function</del></li>
-</ul>
-</li>
-<li><p>?pkgdown separated by heading for dictionaries and actual datasets, and cross-links between the two</p></li>
-<li><p>guideline for contributing datasets similar to <a href="https://github.com/rfordatascience/tidytuesday/blob/master/.github/pr_instructions.md" class="external-link">tidytuesday</a></p></li>
-<li><p>licensing: while the overall package repo will be GPL3, it is possible that individual datasets will come under a different license (so there needs to be a license section in documentation for each dataset)</p></li>
-<li>
-<p>process for adding a new dataset:</p>
-<ul>
-<li>if a non-R (not .rda) file
-<ul>
-<li>place file in ‘inst/extdata’ folder
-<ul>
-<li>if adding a shapefile then zip it</li>
-</ul>
-</li>
-<li>in console run ’usethis::use_data_raw(<name of your file w extension>)</name>
-</li>
-<li>read in the file with ‘rio’ and ‘system.file’</li>
-<li>make edits as needed</li>
-<li>save with usethis::usedata()</li>
-</ul>
-</li>
-<li>if adding an .rda file:</li>
-</ul>
-</li>
+<li>?pkgdown separated by heading for dictionaries and actual datasets, and cross-links between the two</li>
 </ul>
 </div>
 </div>
 </div>
-<div class="section level1">
-<h1 id="data-entry-guide-for-dataset-metadata">Data Entry Guide for Dataset Metadata<a class="anchor" aria-label="anchor" href="#data-entry-guide-for-dataset-metadata"></a>
-</h1>
-<p>Below is a table explaining how to fill in each variable in the dataset metadata Excel sheet (1tablesoftables.xlsx). This guide helps ensure consistency and completeness when adding new datasets to your collection.</p>
-<ul>
-<li><p><strong>name</strong>:<br>
-The filename of the dataset as it appears in the <code>inst/extdata</code> directory, <strong>without</strong> the file extension. This should be unique within the dataset group, and ideally also within the <em>tableoftables</em> (i.e. avoid generic names like: ‘linelist_cleaned.xlsx’ or ‘survey_data.xlsx’). Use consistent and descriptive names without spaces (e.g., <code>AJS_AmTiman</code>, <code>mortality_survey</code>).</p></li>
-<li><p><strong>type</strong>:<br>
-The category or type of the dataset (e.g., <code>linelist</code>, <code>population</code>, <code>shape</code>, <code>survey</code>, <code>dictionary</code>).</p></li>
-<li><p><strong>extension</strong>:<br>
-The file extension (e.g., <code>xlsx</code>, <code>zip</code>).</p></li>
-<li><p><strong>type_version</strong>:<br>
-Used to identify the <em>original</em> dataset and its associated child data. Increment when format or variables change. If there are multiple linelists in one group, this would increment with the type.</p></li>
-<li><p><strong>data_version</strong>:<br>
-Used to identify the <em>original</em> dataset and its associated child data. Increment when format or variables change. Ensure you document changes in the appropriate ‘data-raw’ file.</p></li>
-<li><p><strong>language</strong>:<br>
-Language code using <a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes" class="external-link">ISO 639-1 codes</a> (e.g., <code>en</code>, <code>fr</code>).</p></li>
-<li><p><strong>country</strong>:<br>
-Country code using <a href="https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3" class="external-link">ISO 3166-1 alpha-3 codes</a> (e.g., <code>tcd</code>).</p></li>
-<li><p><strong>scale</strong>:<br>
-Geographic scale (e.g., <code>subnational</code>, <code>national</code>, or <code>international</code>).</p></li>
-<li><p><strong>subject</strong>:<br>
-Main subject of the dataset (e.g., <code>acute jaundice syndrome</code>).</p></li>
-<li><p><strong>context</strong>:<br>
-Context of the data (e.g., <code>outbreak</code>, <code>survey</code>).</p></li>
-<li><p><strong>fictional</strong>:<br>
-Is the dataset fictional (<code>yes</code>) or real (<code>no</code>)?</p></li>
-<li><p><strong>year</strong>:<br>
-Year the data was collected (e.g., <code>2016</code>). This is the <em>earliest</em> year in the dataset.</p></li>
-<li><p><strong>description</strong>:<br>
-Brief description of the dataset. Ideally, copy from roxygen documentation.</p></li>
-<li><p><strong>usage</strong>:<br>
-Intended usage (e.g., <code>{sitrep} walkthroughs</code>, <code>training</code>).</p></li>
-<li><p><strong>license</strong>:<br>
-License for dataset (e.g., <code>gpl3</code>, <code>mit</code>).</p></li>
-<li><p><strong>group_identifier</strong>:<br><em>DO NOT EDIT</em> - High-level identifier combining <code>subject</code>, <code>context</code>, <code>country</code>, and <code>year</code> (e.g., <code>acute_jaundice_syndrome_outbreak_tcd_2016</code>).</p></li>
-<li><p><strong>unique_identifier</strong>:<br><em>DO NOT EDIT</em> - Combines <code>group_identifier</code>, <code>type</code>, <code>type_version</code>, <code>data_version</code>, <code>context</code>, and <code>year</code> to create a unique identifier (e.g. <code>acute_jaundice_syndrome_outbreak_tcd_2016_linelist_1</code>).</p></li>
-</ul>
-<p>For example, when adding an Ebola dataset, you would enter the information as shown below. The original dataset (whether it’s from {outbreaks} or another source) would be considered ‘type_version’ 1. If it’s the only linelist in its group, it remains ‘type_version’ 1. If a completely different linelist is added (not just an edited version), increment the ‘type_version’ accordingly.</p>
-<p>For any changes to the data (such as cleaning or changing nums of rows or columns), increment the ‘data_version’ (e.g., ‘data_version’ 2), but the ‘type_version’ remains the same to indicate that it’s a derivative (or “child”) of the original. Each child dataset gets its own entry.</p>
-<p>If a dataset is translated into a different language, create a new entry for the translated version while keeping the ‘data_version’ and ‘type_version’ the same, but editing the ‘language’ column accordingly. This ensures you can trace back the parent-child relationship between datasets.</p>
-<table class="table">
-<colgroup>
-<col width="38%">
-<col width="61%">
-</colgroup>
-<thead><tr class="header">
-<th><strong>Variable</strong></th>
-<th><strong>Example Entry</strong></th>
-</tr></thead>
-<tbody>
-<tr class="odd">
-<td><strong>name</strong></td>
-<td><code>ebola_linelist_cleaned</code></td>
-</tr>
-<tr class="even">
-<td><strong>type</strong></td>
-<td><code>linelist</code></td>
-</tr>
-<tr class="odd">
-<td><strong>extension</strong></td>
-<td><code>xlsx</code></td>
-</tr>
-<tr class="even">
-<td><strong>type_version</strong></td>
-<td><code>1</code></td>
-</tr>
-<tr class="odd">
-<td><strong>data_version</strong></td>
-<td><code>1</code></td>
-</tr>
-<tr class="even">
-<td><strong>language</strong></td>
-<td><code>en</code></td>
-</tr>
-<tr class="odd">
-<td><strong>country</strong></td>
-<td><code>lbr</code></td>
-</tr>
-<tr class="even">
-<td><strong>scale</strong></td>
-<td><code>national</code></td>
-</tr>
-<tr class="odd">
-<td><strong>subject</strong></td>
-<td><code>ebola</code></td>
-</tr>
-<tr class="even">
-<td><strong>context</strong></td>
-<td><code>outbreak</code></td>
-</tr>
-<tr class="odd">
-<td><strong>fictional</strong></td>
-<td><code>yes</code></td>
-</tr>
-<tr class="even">
-<td><strong>year</strong></td>
-<td><code>2014</code></td>
-</tr>
-<tr class="odd">
-<td><strong>description</strong></td>
-<td>Linelist data from the Ebola virus</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>disease outbreak in Liberia in</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>2014.</td>
-</tr>
-<tr class="even">
-<td><strong>usage</strong></td>
-<td>
-<code>introexercises</code>, etc.</td>
-</tr>
-<tr class="odd">
-<td><strong>license</strong></td>
-<td><code>gpl3</code></td>
-</tr>
-<tr class="even">
-<td><strong>group_identifier</strong></td>
-<td><code>ebola_outbreak_lbr_2014</code></td>
-</tr>
-<tr class="odd">
-<td><strong>unique_identifier</strong></td>
-<td><code>ebola_outbreak_lbr_2014_linelist_1| |                       | 1_outbreak_2014</code></td>
-</tr>
-</tbody>
-</table>
-</div>
-
   </main><aside class="col-md-3"><div class="license">
 <h2 data-toc-skip>License</h2>
 <ul class="list-unstyled">
