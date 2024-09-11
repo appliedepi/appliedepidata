@@ -6,17 +6,20 @@
 #'
 #' @param package_name A character string specifying the name of the R package 
 #' for which to list files. Defaults to "appliedepidata". 
-
-#' @return A data frame with two columns:
+#' 
+#' @return A data frame with four columns:
 #' \describe{
 #'   \item{`directory`}{The directory (`data`,`extdata`, `intdata`) where the 
 #'   file is located.}
-#'   \item{`file`}{The name and file extension for each dataset found in 
-#'   directories.}
-#'   \item{`duplicate`}{Logical vector (TRUE/FALSE) if the file name exists 
-#'   more than once. Only flags from the second occurrence. This is useful for
-#'   packages which have not been built making .rda files internal}
+#'   \item{`name`}{The name for each dataset found in directories.}
+#'   \item{`extension`}{The file extension for each dataset found in directories}
+#'   \item{`duplicate`}{Logical vector (TRUE/FALSE) if the file name (with 
+#'   extension) exists more than once. Only flags from the second occurrence. 
+#'   This is useful for packages which have not been built making .rda files 
+#'   internal}
 #' }
+#' 
+#' @importFrom tidyr separate_wider_delim
 #'
 #' @examples
 #' \dontrun{
@@ -42,7 +45,10 @@ list_data <- function(package_name = "appliedepidata") {
   
   # List data in the data directory
   if (dir.exists(data_path)) {
-    data_files <- dir(data_path)
+    data_files <- data.frame(
+      directory = "data", 
+      name = dir(data_path)
+    )
   } else {
     data_files <- NULL
     message("No data directory found in the package.")
@@ -50,7 +56,10 @@ list_data <- function(package_name = "appliedepidata") {
   
   # List data in the inst directory
   if (dir.exists(extdata_path)) {
-    extdata_files <- dir(extdata_path)
+    extdata_files <- data.frame(
+      directory = "extdata",
+      name = dir(extdata_path)
+    )
   } else {
     extdata_files <- NULL
     message("No inst directory found in the package.")
@@ -58,33 +67,35 @@ list_data <- function(package_name = "appliedepidata") {
   
   # List internal data 
   if(nrow(data(package = package_name)$results) > 0) {
-    intdata_files <- data(package = package_name)$results[, "Item"]
-    intdata_files <- paste0(intdata_files, ".rda")
+    intdata_files <- data.frame(
+      directory = "intdata", 
+      name = paste0(
+        data(package = package_name)$results[, "Item"], 
+        ".rda"
+      )
+    )
   } else {
     intdata_files <- NULL
     message("No internal data found in the package")
   }
   
   
-  # combine lists 
-  file_type <- c(rep.int("data", length(data_files)), 
-                 rep.int("extdata", length(extdata_files)), 
-                 rep.int("intdata", length(intdata_files)))
-  file_names <- c(data_files, extdata_files, intdata_files)
-  
-  # put in a dataframe 
-  available_data <- data.frame(
-    directory = file_type, 
-    file = file_names
-  )
+  # combine dataframes 
+  available_data <- rbind(data_files, extdata_files, intdata_files)
   
   # remove binaries listed in data folder (this is for pkgs where data internalised)
-  available_data <- available_data[!(available_data$file %in% c("Rdata.rdb",
+  available_data <- available_data[!(available_data$name %in% c("Rdata.rdb",
                                                                 "Rdata.rds",
                                                                 "Rdata.rdx")), ]
   
   # flag duplicates 
-  available_data$duplicate <- duplicated(available_data$file)
+  available_data$duplicate <- duplicated(available_data$name)
+  
+  # split file name and extension
+  available_data <- tidyr::separate_wider_delim(available_data, 
+                                                name, 
+                                                ".", 
+                                                names = c("name", "extension"))
   
   return(available_data)
 }

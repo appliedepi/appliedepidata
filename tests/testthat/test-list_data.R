@@ -1,26 +1,26 @@
 
 
 
-test_that("list_datasets function returns a dataframe with correct columns", {
+test_that("list_data function returns a dataframe with correct columns", {
   # Run the function
-  result <- list_datasets(package_name = "appliedepidata")
+  result <- list_data(package_name = "appliedepidata")
   
   # Check that the result is a dataframe
   expect_s3_class(result, "data.frame")
   
   # Check for the correct columns
-  expect_true(all(c("directory", "file", "duplicate") %in% colnames(result)))
+  expect_true(all(c("directory", "file", "extension", "duplicate") %in% colnames(result)))
 })
 
 
 
-test_that("list_datasets handles missing directories gracefully", {
+test_that("list_data handles missing directories gracefully", {
   # For a non-existing package
-  expect_error(list_datasets(package_name = "thepotatoeshow"), 
+  expect_error(list_data(package_name = "thepotatoeshow"), 
                "Package not found. Please ensure the package is installed.")
   
   # For a package that might not have some directories
-  result <- list_datasets(package_name = "ggplot2")  # ggplot2 is used as an example
+  result <- list_data(package_name = "ggplot2")  # ggplot2 is used as an example
   expect_s3_class(result, "data.frame")
   
   # Check that 'data' and 'extdata' directories are handled even if they are empty
@@ -28,9 +28,9 @@ test_that("list_datasets handles missing directories gracefully", {
 })
 
 
-# test_that("list_datasets correctly flags duplicates", {
+# test_that("list_data correctly flags duplicates", {
 #   # Use a package with known duplicates
-#   result <- list_datasets(package_name = "appliedepidata")
+#   result <- list_data(package_name = "appliedepidata")
 #   
 #   # Check if duplicates are flagged correctly
 #   expect_true(any(result$duplicate))
@@ -39,9 +39,9 @@ test_that("list_datasets handles missing directories gracefully", {
 
 
 
-test_that("list_datasets returns correct file paths", {
+test_that("list_data returns correct file paths", {
   # Run the function
-  result <- list_datasets(package_name = "palmerpenguins")
+  result <- list_data(package_name = "palmerpenguins")
   
   # Check some expected values
   expected_files <- c("penguins.csv",
@@ -50,13 +50,13 @@ test_that("list_datasets returns correct file paths", {
                       "penguins_raw (penguins).rda"
                       )
   
-  expect_true(all(expected_files %in% result$file))
+  expect_true(all(expected_files %in% paste0(result$file, ".", result$extension)))
 })
 
 
-test_that("list_datasets handles internal data files properly", {
+test_that("list_data handles internal data files properly", {
   # For a package known to have internal data
-  result <- list_datasets(package_name = "appliedepidata")
+  result <- list_data(package_name = "appliedepidata")
   
   # Check that internal data files are present
   expect_true(any(result$directory == "intdata"))

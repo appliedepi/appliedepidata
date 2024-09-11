@@ -1,5 +1,6 @@
-#' Lookup Dataset Information
-#'
+#' @title Lookup Dataset Information
+#' 
+#' @description
 #' This function is an internal function used within the `get_data.R` and 
 #' `save_data.R` functions. 
 #' This function helps retrieve information (from *tableoftables.xlsx*) about 
@@ -7,7 +8,6 @@
 #' `group_identifier`, or `unique_identifier`. It returns the dataset that 
 #' matches the specified criteria or suggests alternatives if mismatches 
 #' are found.
-
 #'
 #' @param name (optional) A string specifying the name of the dataset to search for.
 #' @param language (optional) A string specifying the language of the dataset. 
@@ -65,6 +65,7 @@
 #' # Search by name and group identifier
 #' lookup_dataset(name = "AJS_AmTiman", group_identifier = "acutejaundicesyndrome_outbreak_tcd_2016")
 #' }
+#' @keywords internal
 
 lookup_dataset <- function(name = NULL, 
                            language = NULL, 
