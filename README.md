@@ -29,7 +29,7 @@ pak::pak("appliedepi/appliedepidata")
   make searchable by country, disease, language, name, ID, etc)
   - [ ] needs tests (no point me doing it as I have no idea what am
     doing)
-- [ ] get data (different to saving if just want to use within Rstudio,
+- [ ] get data (different to saving if just want to use within Rstudio)
   - ?necessary - rather than have new users freakout about different
     ways of accessing the data)
 - [ ] download/save dataset locally function (based on *tableoftables*)

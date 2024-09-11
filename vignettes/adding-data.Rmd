@@ -68,25 +68,27 @@ Read this [r packages chapter](https://r-pkgs.org/data.html) for details.
 
 
 ## if a non-R (not .rda) file
-    - name file what want but stick to guidelines described in metadata below
-    - versioning of datasets (and edits thereof, e.g. same data for diff 
-    bits of course)
-    - define overarching source file and resulting child files (as per metadata below)
-    - place file in 'inst/extdata' folder
-      - if adding a shapefile then zip it 
-    - in console run 'usethis::use_data_raw(<name of your file w/out extension>)
-    - read in the file with 'rio' and 'system.file'
-    - make edits as needed
-    - save with usethis::usedata()
-    - add documentation for each data set added (ideally group these within the 
-    same file if part of the same group of datasets)
-      - ideally: data dictionary used to fill in the *man* files for each (link to 
-      function)
-      - probably do the same way [alison horst](https://github.com/lter/lterdatasampler/) does
-      - licensing: while the overall package repo will be GPL3, it is possible that individual datasets will come under a different license (so there needs to be a license section in documentation for each dataset)
+
+- name file what want but stick to guidelines described in metadata below
+- versioning of datasets (and edits thereof, e.g. same data for diff 
+bits of course)
+- define overarching source file and resulting child files (as per metadata below)
+- place file in 'inst/extdata' folder
+ - if adding a shapefile then zip it 
+- in console run 'usethis::use_data_raw(<name of your file w/out extension>)
+- read in the file with 'rio' and 'system.file'
+- make edits as needed
+- save with usethis::usedata()
+- add documentation for each data set added (ideally group these within the 
+same file if part of the same group of datasets)
+ - ideally: data dictionary used to fill in the *man* files for each (link to 
+ function)
+ - probably do the same way [alison horst](https://github.com/lter/lterdatasampler/) does
+- licensing: while the overall package repo will be GPL3, it is possible that individual datasets will come under a different license (so there needs to be a license section in documentation for each dataset)
 
     
 ## if adding an .rda file: 
+
 - link to the appropriate part from non-R onwards where relevant
 
 

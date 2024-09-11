@@ -25,7 +25,7 @@
 #' 
 #' This dataset is English.   
 #' 
-#' This dataset is licensed under [GPL3](https://www.gnu.org/licenses/gpl-3.0.html) 
+#' This dataset is licensed under [CC by-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 #' 
 #' @references {Spina A, Lenglet A, et al. (2017) A large outbreak of Hepatitis E virus genotype 1 infection in an urban setting in Chad likely linked to household level transmission factors, 2016-2017. PLoS ONE 12(11): e0188240} \doi{10.1371/journal.pone.0188240}
 #' 
@@ -183,7 +183,7 @@
 #' 
 #' This dataset is English.   
 #' 
-#' This dataset is licensed under [GPL3](https://www.gnu.org/licenses/gpl-3.0.html) 
+#' This dataset is licensed under [CC by-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 #' 
 #' @references {Spina A, Lenglet A, et al. (2017) A large outbreak of Hepatitis E virus genotype 1 infection in an urban setting in Chad likely linked to household level transmission factors, 2016-2017. PLoS ONE 12(11): e0188240} \doi{10.1371/journal.pone.0188240}
 #' 
@@ -220,7 +220,7 @@
 #' 
 #' This dataset is English.   
 #' 
-#' This dataset is licensed under [GPL3](https://www.gnu.org/licenses/gpl-3.0.html) 
+#' This dataset is licensed under [CC by-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 #' 
 #' @references {Spina A, Lenglet A, et al. (2017) A large outbreak of Hepatitis E virus genotype 1 infection in an urban setting in Chad likely linked to household level transmission factors, 2016-2017. PLoS ONE 12(11): e0188240} \doi{10.1371/journal.pone.0188240}
 #' 
@@ -258,7 +258,7 @@
 #' 
 #' This dataset is English.   
 #' 
-#' This dataset is licensed under [GPL3](https://www.gnu.org/licenses/gpl-3.0.html) 
+#' This dataset is licensed under [CC by-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 #' 
 #' @references {Spina A, Lenglet A, et al. (2017) A large outbreak of Hepatitis E virus genotype 1 infection in an urban setting in Chad likely linked to household level transmission factors, 2016-2017. PLoS ONE 12(11): e0188240} \doi{10.1371/journal.pone.0188240}
 #' 

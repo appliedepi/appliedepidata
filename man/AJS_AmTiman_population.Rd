@@ -21,7 +21,7 @@ This is version 1.0.
 
 This dataset is English.
 
-This dataset is licensed under \href{https://www.gnu.org/licenses/gpl-3.0.html}{GPL3}
+This dataset is licensed under \href{https://creativecommons.org/licenses/by-nc-sa/4.0/}{CC by-NC-SA 4.0}
 }
 \usage{
 AJS_AmTiman_population
