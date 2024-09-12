@@ -3,6 +3,8 @@ template:
   bootstrap: 5
 
 reference: 
+title = ""
+
 - title: Functions
 - contents: 
   - list_data

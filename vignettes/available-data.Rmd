@@ -1,5 +1,5 @@
 ---
-title: "available-data"
+title: "Available data"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{available-data}
@@ -10,7 +10,8 @@ vignette: >
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
-  comment = "#>"
+  comment = "#>", 
+  echo = FALSE
 )
 ```
 
@@ -19,13 +20,11 @@ library(appliedepidata)
 ```
 
 
+You can see all available datasets below. This currently only lists English 
+language names however you can use the `appliedepidata::search_data()` to search
+for data sets in other languages available in the package.
 
-
-# Available datasets 
-
-You can see all available datasets below.
-
-```{r echo=FALSE}
+```{r}
 
 # Load the data
 table_of_tables <- rio::import(system.file("extdata", "tableoftables.xlsx", 

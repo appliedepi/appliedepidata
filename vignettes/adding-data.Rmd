@@ -1,5 +1,5 @@
 ---
-title: "adding-data"
+title: "Adding data"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{adding-data}
@@ -10,7 +10,8 @@ vignette: >
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
-  comment = "#>"
+  comment = "#>", 
+  echo = FALSE
 )
 ```
 
