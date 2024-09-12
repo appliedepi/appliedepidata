@@ -2,7 +2,7 @@
 title: "Adding data"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{adding-data}
+  %\VignetteIndexEntry{Adding data}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
@@ -21,19 +21,36 @@ library(appliedepidata)
 
 
 
-# Adding a new dataset to the package  
+# Guide to contributing new datasets
 
-- guideline for contributing datasets similar to [tidytuesday](https://github.com/rfordatascience/tidytuesday/blob/master/.github/pr_instructions.md)
+## Package folder structure 
+
+To below is a simplified explanation of the 
+[R packages data chapter](https://r-pkgs.org/data.html). For a fuller understanding,
+read that chapter. 
 
 
-# repo folder structure 
-
-Read this [r packages chapter](https://r-pkgs.org/data.html) for details. 
+- The following package folders are important:
+  - **data**: R datasets go in `data` folder
+  - **inst/extdata**: Non-R datasets go in `inst>extdata` folder.  
+  - **internal data**: When you build a package, the `Rda` datasets
+  (from `data` folder) can become "internal" (more efficient for file storage). 
+  These are accessed by calling `package::dataset` (e.g. 
+  `appliedepidata::AJS_AmTiman`. They can also be imported directly from github 
+  using link to the file in data folder e.g. 'rio(<github-raw url>)', or the 
+  `appliedepidata::get_data` or `appliedepidata::save_data` functions. 
+  - **data-raw**: Contains R scripts used for creating the 
+  exported or internal data (e.g. if you have edited a dataset or used {usethis} 
+  to internalise the dataset)
+  - **sysdata**: Not relevant for current package setup. In some setups you are 
+  supposed to put *tableoftables* in sysdata (i.e. just for package usage). 
+  However for our current setup leave in *extdata*. 
 
 
 ```bash
 .
 ├── appliedepidata.Rproj
+├── _pkgdown.yml
 ├── data
 │   └── newdata.rda
 ├── data-raw
@@ -49,57 +66,55 @@ Read this [r packages chapter](https://r-pkgs.org/data.html) for details.
 ```
 
 
+## Adding a file 
+This describes the process for adding a file to the repo. Note that the processes 
+for adding a non-R file (any file that is not `.rda`) and an R file (any file 
+already in`.rda` format) are slightly different. 
+If you are adding a dataset from an existing R package, you can skip to step 3 
+below. 
 
-- folder structure 
-  - **data** R datasets go in data folder
-  - **inst/extdata**Non-R datasets go in inst>extdata
-    - option for adding messy datasets. However this would then not have 
-    an internalised .rda version as described below.  
-  - **internal data** additional complication is that when you build a package, 
-  you can make the Rda datasets (from data folder) "internal" (more efficient 
-  for file storage, as then become part of binary), and these are then access 
-  by doing package::dataset. They can also be imported directly from github 
-  using link to the file in data folder e.g. 'rio(<github-raw url>)'. 
-  - **data-raw** usually contains R scripts which are used for creating the 
-  exported or internal data (e.g. if have edited dataset, or where {usethis}
-  internalises dataset)
-  - **sysdata** probably the *tableoftables* should just stay in *extdata* but
-  alternatively could go in sysdata which is not exported (i.e. just for package
-  usage) 
-
-
-## if a non-R (not .rda) file
-
-- name file what want but stick to guidelines described in metadata below
-- versioning of datasets (and edits thereof, e.g. same data for diff 
-bits of course)
-- define overarching source file and resulting child files (as per metadata below)
-- place file in 'inst/extdata' folder
- - if adding a shapefile then zip it 
-- in console run 'usethis::use_data_raw(<name of your file w/out extension>)
-- read in the file with 'rio' and 'system.file'
-- make edits as needed
-- save with usethis::usedata()
-- add documentation for each data set added (ideally group these within the 
-same file if part of the same group of datasets)
- - ideally: data dictionary used to fill in the *man* files for each (link to 
- function)
- - probably do the same way [alison horst](https://github.com/lter/lterdatasampler/) does
-- licensing: while the overall package repo will be GPL3, it is possible that individual datasets will come under a different license (so there needs to be a license section in documentation for each dataset)
-
-    
-## if adding an .rda file: 
-
-- link to the appropriate part from non-R onwards where relevant
-
-
+1. Name your file appropriately
+  a. You can name it whatever you want, but stick to basic naming conventions.  
+  b. Ensure that there is not already file in *tableoftables.xlsx* named the same. 
+  c. Avoid generic names like: `linelist_cleaned.xlsx` or `survey_data.xlsx`. 
+  d. Use consistent and descriptive names without spaces (e.g., `AJS_AmTiman`,
+  `sitrep_mortality_survey`).
+2. Place your file in the correct folder 
+  a. A *non-R* file (e.g. `xlsx`, `shp`, `zip`) goes in `inst/extdata` folder
+    i.  If adding a shapefile then zip it 
+  b. An *R* file (e.g. `rda`, `rds`) goes in `data` folder
+3. Reproducibly edit dataset and internalise (see `data-raw/AJS_AmTiman.R` for example)
+  a. In your console run `usethis::use_data_raw(<name of your file without extension>)`
+  b. This creates an R script in the `data-raw` folder. 
+  c. Read in the file by defining the path with `system.file`. 
+    i. If you are editing a file already in the package (e.g. shortening the 
+    Ebola linelist for a course), make sure you read in the original dataset here. 
+    Document this properly with {roxygen} and in the metadata as described
+    below. 
+  d. Make any edits necessary to your dataset in a reproducible way. 
+  e. Save and internalise the dataset with `usethis::usedata()`. 
+4. Add documentation for each dataset added 
+  a. This is done in an R script in the `R` folder. 
+  b. Name the script something that will allow reviewers to find it (e.g. `AJS_chad`) and suffix with `_doc` so that it can be differentiated from functions. 
+  c. Place all the documentation for datasets in that group within the same script. 
+  d. Ensure to clearly document the source and license for the dataset. 
+  e. Add in an explanation for each variable, if you have a data dictionary you 
+  use [appliedepidata::create_desc()](https://appliedepi.github.io/appliedepidata/reference/create_desc.html) to help with this. 
+    i. You could also create a data dictionary for use with this function, see 
+    the [data dictionary walk-through]((https://appliedepi.github.io/appliedepidata/articles/data-dictionaries.html).)
+5. Add the datasets to `_pkgdown.yml` 
+  a. Group relevant datasets under the same subtitle (suffix with the language)
+  b. The names here correspond to the name in quotations at the end of your 
+  description file from point 4 above, as well as the name of the file (without
+  file extension). 
+6. Add the dataset to the `tablesoftables.xlsx` as described below. 
 
   
 
-# Data Entry Guide for Dataset Metadata
+# Defining dataset metadata (adding to `tablesoftables.xlsx`)
 
 Below is a table explaining how to fill in each variable in the dataset 
-metadata Excel sheet (1tablesoftables.xlsx). This guide helps ensure 
+metadata Excel sheet (`tablesoftables.xlsx`). This guide helps ensure 
 consistency and completeness when adding new datasets to your collection.
 
 - **name**:  The filename of the dataset as it appears in the `inst/extdata`
