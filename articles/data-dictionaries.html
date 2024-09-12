@@ -65,8 +65,6 @@
 
     
     
-<div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://appliedepi.github.io/appliedepidata/">appliedepidata</a></span><span class="op">)</span></span></code></pre></div>
 <p>This is a brief walk-through of how to create a data dictionary for
 an existing dataset. If you are intending to add this to the package
 then you must follow the <a href="https://appliedepi.github.io/appliedepidata/articles/adding-data.html">guidelines
@@ -77,7 +75,7 @@ dictionary could be used for translating your dataset, by adding columns
 to the excel sheet with the language suffix (e.g. <code>_fr</code>) and
 then translating the content, you could then use {matchmaker} to
 recode.</p>
-<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="co"># Define the path to the Excel file in inst/extdata</span></span>
 <span><span class="va">import_path</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/system.file.html" class="external-link">system.file</a></span><span class="op">(</span><span class="st">"extdata"</span>, <span class="st">"AJS_AmTiman.xlsx"</span>, package <span class="op">=</span> <span class="st">"appliedepidata"</span><span class="op">)</span></span>
 <span></span>
