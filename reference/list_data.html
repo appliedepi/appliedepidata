@@ -59,18 +59,21 @@ for which to list files. Defaults to "appliedepidata".</p></dd>
 </dl></div>
     <div class="section level2">
     <h2 id="value">Value<a class="anchor" aria-label="anchor" href="#value"></a></h2>
-    <p>A data frame with two columns:</p><dl><dt><code>directory</code></dt>
+    <p>A data frame with four columns:</p><dl><dt><code>directory</code></dt>
 <dd><p>The directory (<code>data</code>,<code>extdata</code>, <code>intdata</code>) where the
 file is located.</p></dd>
 
-<dt><code>file</code></dt>
-<dd><p>The name and file extension for each dataset found in
-directories.</p></dd>
+<dt><code>name</code></dt>
+<dd><p>The name for each dataset found in directories.</p></dd>
+
+<dt><code>extension</code></dt>
+<dd><p>The file extension for each dataset found in directories</p></dd>
 
 <dt><code>duplicate</code></dt>
-<dd><p>Logical vector (TRUE/FALSE) if the file name exists
-more than once. Only flags from the second occurrence. This is useful for
-packages which have not been built making .rda files internal</p></dd>
+<dd><p>Logical vector (TRUE/FALSE) if the file name (with
+extension) exists more than once. Only flags from the second occurrence.
+This is useful for packages which have not been built making .rda files
+internal</p></dd>
 
 
 </dl></div>

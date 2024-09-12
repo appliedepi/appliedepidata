@@ -128,22 +128,32 @@ which is not exported (i.e. just for package usage)</li>
 <div class="section level3">
 <h3 id="if-a-non-r-not--rda-file">if a non-R (not .rda) file<a class="anchor" aria-label="anchor" href="#if-a-non-r-not--rda-file"></a>
 </h3>
-<pre><code>- name file what want but stick to guidelines described in metadata below
-- versioning of datasets (and edits thereof, e.g. same data for diff 
-bits of course)
-- define overarching source file and resulting child files (as per metadata below)
-- place file in 'inst/extdata' folder
-  - if adding a shapefile then zip it 
-- in console run 'usethis::use_data_raw(&lt;name of your file w/out extension&gt;)
-- read in the file with 'rio' and 'system.file'
-- make edits as needed
-- save with usethis::usedata()
-- add documentation for each data set added (ideally group these within the 
-same file if part of the same group of datasets)
-  - ideally: data dictionary used to fill in the *man* files for each (link to 
-  function)
-  - probably do the same way [alison horst](https://github.com/lter/lterdatasampler/) does
-  - licensing: while the overall package repo will be GPL3, it is possible that individual datasets will come under a different license (so there needs to be a license section in documentation for each dataset)</code></pre>
+<ul>
+<li>name file what want but stick to guidelines described in metadata
+below</li>
+<li>versioning of datasets (and edits thereof, e.g. same data for diff
+bits of course)</li>
+<li>define overarching source file and resulting child files (as per
+metadata below)</li>
+<li>place file in ‘inst/extdata’ folder</li>
+<li>if adding a shapefile then zip it</li>
+<li>in console run
+’usethis::use_data_raw(<name of your file w extension>)</name>
+</li>
+<li>read in the file with ‘rio’ and ‘system.file’</li>
+<li>make edits as needed</li>
+<li>save with usethis::usedata()</li>
+<li>add documentation for each data set added (ideally group these
+within the same file if part of the same group of datasets)</li>
+<li>ideally: data dictionary used to fill in the <em>man</em> files for
+each (link to function)</li>
+<li>probably do the same way <a href="https://github.com/lter/lterdatasampler/" class="external-link">alison horst</a>
+does</li>
+<li>licensing: while the overall package repo will be GPL3, it is
+possible that individual datasets will come under a different license
+(so there needs to be a license section in documentation for each
+dataset)</li>
+</ul>
 </div>
 <div class="section level3">
 <h3 id="if-adding-an--rda-file">if adding an .rda file:<a class="anchor" aria-label="anchor" href="#if-adding-an--rda-file"></a>
