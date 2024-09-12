@@ -15,10 +15,6 @@ knitr::opts_chunk$set(
 )
 ```
 
-```{r setup}
-library(appliedepidata)
-```
-
 This is a brief walk-through of how to create a data dictionary for an existing 
 dataset. 
 If you are intending to add this to the package then you must follow the 

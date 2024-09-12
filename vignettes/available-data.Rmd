@@ -15,11 +15,6 @@ knitr::opts_chunk$set(
 )
 ```
 
-```{r setup}
-library(appliedepidata)
-```
-
-
 You can see all available datasets below. This currently only lists English 
 language names however you can use the `appliedepidata::search_data()` to search
 for data sets in other languages available in the package.
@@ -47,6 +42,7 @@ output <- table_of_tables |>
 # Create an interactive table with reactable
 reactable::reactable(output, 
           searchable = TRUE, 
+          filterable = TRUE,
           pagination = TRUE, 
           defaultPageSize = 10)
 
