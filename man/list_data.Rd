@@ -15,7 +15,7 @@ A data frame with four columns:
 \describe{
 \item{\code{directory}}{The directory (\code{data},\code{extdata}, \code{intdata}) where the
 file is located.}
-\item{\code{file}}{The name for each dataset found in directories.}
+\item{\code{name}}{The name for each dataset found in directories.}
 \item{\code{extension}}{The file extension for each dataset found in directories}
 \item{\code{duplicate}}{Logical vector (TRUE/FALSE) if the file name (with
 extension) exists more than once. Only flags from the second occurrence.

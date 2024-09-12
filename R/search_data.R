@@ -1,6 +1,5 @@
-#' Search and Filter Datasets Available in appliedepidata
+#' @title Search and Filter Datasets Available in appliedepidata
 #'
-
 #' @details
 #' Launches an interactive Shiny application that allows users to filter and 
 #' search a dataset. 
