@@ -35,8 +35,9 @@
 <li class="nav-item dropdown">
   <button class="nav-link dropdown-toggle" type="button" id="dropdown-articles" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true">Articles</button>
   <ul class="dropdown-menu" aria-labelledby="dropdown-articles">
-<li><a class="dropdown-item" href="articles/adding-data.html">adding-data</a></li>
-    <li><a class="dropdown-item" href="articles/available-data.html">available-data</a></li>
+<li><a class="dropdown-item" href="articles/adding-data.html">Adding data</a></li>
+    <li><a class="dropdown-item" href="articles/available-data.html">Available data</a></li>
+    <li><a class="dropdown-item" href="articles/data-dictionaries.html">Data dictionaries</a></li>
   </ul>
 </li>
       </ul>
@@ -66,53 +67,10 @@
 <span><span class="fu">pak</span><span class="fu">::</span><span class="fu"><a href="https://pak.r-lib.org/reference/pak.html" class="external-link">pak</a></span><span class="op">(</span><span class="st">"appliedepi/appliedepidata"</span><span class="op">)</span></span></code></pre></div>
 </div>
 <div class="section level2">
-<h2 id="stuff-to-consider">stuff to consider<a class="anchor" aria-label="anchor" href="#stuff-to-consider"></a>
+<h2 id="usage">Usage<a class="anchor" aria-label="anchor" href="#usage"></a>
 </h2>
-<div class="section level3">
-<h3 id="functions">functions<a class="anchor" aria-label="anchor" href="#functions"></a>
-</h3>
-<ul class="task-list">
-<li><label><input type="checkbox" checked>list available datasets<br></label></li>
-<li>
-<label><input type="checkbox" checked>search available datasets (wrapper around list/<em>tableoftables</em> to make searchable by country, disease, language, name, ID, etc)</label>
-<ul class="task-list">
-<li><label><input type="checkbox">needs tests (no point me doing it as I have no idea what am doing)</label></li>
-</ul>
-</li>
-<li>
-<label><input type="checkbox">get data (different to saving if just want to use within Rstudio)</label>
-<ul>
-<li>?necessary - rather than have new users freakout about different ways of accessing the data)</li>
-</ul>
-</li>
-<li><label><input type="checkbox">download/save dataset locally function (based on <em>tableoftables</em>)</label></li>
-<li>
-<label><input type="checkbox">data dictionary for a dataset: start with wrapper for <a href="https://github.com/epicentre-msf/datadict" class="external-link">{datadict}</a> as demo, then either consider pulling parts to {epidict} or offer them help to get on CRAN.</label>
-<ul>
-<li>if decide to help w/ {datadict} then {epidict} would just become a fake data generator.</li>
-<li>odk example dictionary from <a href="https://docs.getodk.org/xlsform/" class="external-link">xlsxform</a>
-</li>
-</ul>
-</li>
-<li><label><input type="checkbox" checked>function which uses a data dict to create the description section in roxygen for a dataset</label></li>
-<li><label><input type="checkbox">in phase 2 could build helper functions that create the description file from <em>tableoftables</em> (then the user just needs to edit an excel file)</label></li>
-<li>
-<label><input type="checkbox">unit testing for functions</label>
-<ul>
-<li>?pull snapshots bit from <a href="https://github.com/jennybc/gapminder/" class="external-link">{gapminder}</a> re changes to datasets</li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="section level3">
-<h3 id="documentation">Documentation<a class="anchor" aria-label="anchor" href="#documentation"></a>
-</h3>
-<ul>
-<li>readme/pkgdown table (adapted from <em>tableoftables</em>) listing available datasets, versions, languages, source, and where used (e.g. case study, course, tutorial, epirhandbook)<br>
-</li>
-<li>?pkgdown separated by heading for dictionaries and actual datasets, and cross-links between the two</li>
-</ul>
-</div>
+<p>You can see available datasets in the <a href="https://appliedepi.github.io/appliedepidata/articles/available-data.html">available data table</a> as well as in depth descriptions in the <a href="https://appliedepi.github.io/appliedepidata/reference/index.html#data">reference section</a>. Within RStudio you can use the <a href="https://appliedepi.github.io/appliedepidata/reference/search_data.html">search_data</a> do browse available datasets.</p>
+<p>Using that information you can either load data in to your RStudio environment using <a href="https://appliedepi.github.io/appliedepidata/reference/search_data.html">get_data</a> or save a copy of the data to your computer using <a href="https://appliedepi.github.io/appliedepidata/reference/save_data.html">save_data</a>.</p>
 </div>
 </div>
   </main><aside class="col-md-3"><div class="license">

@@ -5,12 +5,12 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>adding-data • appliedepidata</title>
+<title>Adding data • appliedepidata</title>
 <script src="../deps/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="../deps/bootstrap-5.3.1/bootstrap.min.css" rel="stylesheet">
 <script src="../deps/bootstrap-5.3.1/bootstrap.bundle.min.js"></script><link href="../deps/font-awesome-6.4.2/css/all.min.css" rel="stylesheet">
 <link href="../deps/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet">
-<script src="../deps/headroom-0.11.0/headroom.min.js"></script><script src="../deps/headroom-0.11.0/jQuery.headroom.min.js"></script><script src="../deps/bootstrap-toc-1.0.1/bootstrap-toc.min.js"></script><script src="../deps/clipboard.js-2.0.11/clipboard.min.js"></script><script src="../deps/search-1.0.0/autocomplete.jquery.min.js"></script><script src="../deps/search-1.0.0/fuse.min.js"></script><script src="../deps/search-1.0.0/mark.min.js"></script><!-- pkgdown --><script src="../pkgdown.js"></script><meta property="og:title" content="adding-data">
+<script src="../deps/headroom-0.11.0/headroom.min.js"></script><script src="../deps/headroom-0.11.0/jQuery.headroom.min.js"></script><script src="../deps/bootstrap-toc-1.0.1/bootstrap-toc.min.js"></script><script src="../deps/clipboard.js-2.0.11/clipboard.min.js"></script><script src="../deps/search-1.0.0/autocomplete.jquery.min.js"></script><script src="../deps/search-1.0.0/fuse.min.js"></script><script src="../deps/search-1.0.0/mark.min.js"></script><!-- pkgdown --><script src="../pkgdown.js"></script><meta property="og:title" content="Adding data">
 </head>
 <body>
     <a href="#main" class="visually-hidden-focusable">Skip to contents</a>
@@ -33,8 +33,9 @@
 <li class="active nav-item dropdown">
   <button class="nav-link dropdown-toggle" type="button" id="dropdown-articles" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true">Articles</button>
   <ul class="dropdown-menu" aria-labelledby="dropdown-articles">
-<li><a class="dropdown-item" href="../articles/adding-data.html">adding-data</a></li>
-    <li><a class="dropdown-item" href="../articles/available-data.html">available-data</a></li>
+<li><a class="dropdown-item" href="../articles/adding-data.html">Adding data</a></li>
+    <li><a class="dropdown-item" href="../articles/available-data.html">Available data</a></li>
+    <li><a class="dropdown-item" href="../articles/data-dictionaries.html">Data dictionaries</a></li>
   </ul>
 </li>
       </ul>
@@ -55,7 +56,7 @@
 <div class="row">
   <main id="main" class="col-md-9"><div class="page-header">
 
-      <h1>adding-data</h1>
+      <h1>Adding data</h1>
             
       
 
@@ -64,112 +65,157 @@
 
     
     
-<div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://appliedepi.github.io/appliedepidata/">appliedepidata</a></span><span class="op">)</span></span></code></pre></div>
 <div class="section level2">
-<h2 id="adding-a-new-dataset-to-the-package">Adding a new dataset to the package<a class="anchor" aria-label="anchor" href="#adding-a-new-dataset-to-the-package"></a>
+<h2 id="guide-to-contributing-new-datasets">Guide to contributing new datasets<a class="anchor" aria-label="anchor" href="#guide-to-contributing-new-datasets"></a>
 </h2>
-<ul>
-<li>guideline for contributing datasets similar to <a href="https://github.com/rfordatascience/tidytuesday/blob/master/.github/pr_instructions.md" class="external-link">tidytuesday</a>
-</li>
-</ul>
-</div>
-<div class="section level2">
-<h2 id="repo-folder-structure">repo folder structure<a class="anchor" aria-label="anchor" href="#repo-folder-structure"></a>
-</h2>
-<p>Read this <a href="https://r-pkgs.org/data.html" class="external-link">r packages
-chapter</a> for details.</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" tabindex="-1"></a><span class="bu">.</span></span>
-<span id="cb2-2"><a href="#cb2-2" tabindex="-1"></a><span class="ex">├──</span> appliedepidata.Rproj</span>
-<span id="cb2-3"><a href="#cb2-3" tabindex="-1"></a><span class="ex">├──</span> data</span>
-<span id="cb2-4"><a href="#cb2-4" tabindex="-1"></a><span class="ex">│</span>   └── newdata.rda</span>
-<span id="cb2-5"><a href="#cb2-5" tabindex="-1"></a><span class="ex">├──</span> data-raw</span>
-<span id="cb2-6"><a href="#cb2-6" tabindex="-1"></a><span class="ex">│</span>   └── newdata.R</span>
-<span id="cb2-7"><a href="#cb2-7" tabindex="-1"></a><span class="ex">├──</span> inst</span>
-<span id="cb2-8"><a href="#cb2-8" tabindex="-1"></a><span class="ex">│</span>   └── extdata</span>
-<span id="cb2-9"><a href="#cb2-9" tabindex="-1"></a><span class="ex">│</span>       └── tableoftables.xlsx</span>
-<span id="cb2-10"><a href="#cb2-10" tabindex="-1"></a><span class="ex">│</span>       └── newdata.xlsx</span>
-<span id="cb2-11"><a href="#cb2-11" tabindex="-1"></a><span class="ex">├──</span> R</span>
-<span id="cb2-12"><a href="#cb2-12" tabindex="-1"></a><span class="ex">│</span>   └── newdata_doc.R</span>
-<span id="cb2-13"><a href="#cb2-13" tabindex="-1"></a><span class="ex">└──</span> man</span>
-<span id="cb2-14"><a href="#cb2-14" tabindex="-1"></a>    <span class="ex">└──</span> newdata.Rd</span></code></pre></div>
-<ul>
-<li>folder structure
-<ul>
-<li>
-<strong>data</strong> R datasets go in data folder</li>
-<li>
-<strong>inst/extdata</strong>Non-R datasets go in inst&gt;extdata
-<ul>
-<li>option for adding messy datasets. However this would then not have
-an internalised .rda version as described below.<br>
-</li>
-</ul>
-</li>
-<li>
-<strong>internal data</strong> additional complication is that when
-you build a package, you can make the Rda datasets (from data folder)
-“internal” (more efficient for file storage, as then become part of
-binary), and these are then access by doing package::dataset. They can
-also be imported directly from github using link to the file in data
-folder e.g. ‘rio(<github-raw url>)’.</github-raw>
-</li>
-<li>
-<strong>data-raw</strong> usually contains R scripts which are used
-for creating the exported or internal data (e.g. if have edited dataset,
-or where {usethis} internalises dataset)</li>
-<li>
-<strong>sysdata</strong> probably the <em>tableoftables</em> should
-just stay in <em>extdata</em> but alternatively could go in sysdata
-which is not exported (i.e. just for package usage)</li>
-</ul>
-</li>
-</ul>
 <div class="section level3">
-<h3 id="if-a-non-r-not--rda-file">if a non-R (not .rda) file<a class="anchor" aria-label="anchor" href="#if-a-non-r-not--rda-file"></a>
+<h3 id="package-folder-structure">Package folder structure<a class="anchor" aria-label="anchor" href="#package-folder-structure"></a>
 </h3>
+<p>To below is a simplified explanation of the <a href="https://r-pkgs.org/data.html" class="external-link">R packages data chapter</a>. For a
+fuller understanding, read that chapter.</p>
 <ul>
-<li>name file what want but stick to guidelines described in metadata
-below</li>
-<li>versioning of datasets (and edits thereof, e.g. same data for diff
-bits of course)</li>
-<li>define overarching source file and resulting child files (as per
-metadata below)</li>
-<li>place file in ‘inst/extdata’ folder</li>
-<li>if adding a shapefile then zip it</li>
-<li>in console run
-’usethis::use_data_raw(<name of your file w extension>)</name>
+<li>The following package folders are important:
+<ul>
+<li>
+<strong>data</strong>: R datasets go in <code>data</code>
+folder</li>
+<li>
+<strong>inst/extdata</strong>: Non-R datasets go in
+<code>inst&gt;extdata</code> folder.<br>
 </li>
-<li>read in the file with ‘rio’ and ‘system.file’</li>
-<li>make edits as needed</li>
-<li>save with usethis::usedata()</li>
-<li>add documentation for each data set added (ideally group these
-within the same file if part of the same group of datasets)</li>
-<li>ideally: data dictionary used to fill in the <em>man</em> files for
-each (link to function)</li>
-<li>probably do the same way <a href="https://github.com/lter/lterdatasampler/" class="external-link">alison horst</a>
-does</li>
-<li>licensing: while the overall package repo will be GPL3, it is
-possible that individual datasets will come under a different license
-(so there needs to be a license section in documentation for each
-dataset)</li>
+<li>
+<strong>internal data</strong>: When you build a package, the
+<code>Rda</code> datasets (from <code>data</code> folder) can become
+“internal” (more efficient for file storage). These are accessed by
+calling <code>package::dataset</code> (e.g. 
+<code><a href="../reference/AJS_AmTiman.html">appliedepidata::AJS_AmTiman</a></code>. They can also be imported
+directly from github using link to the file in data folder
+e.g. ‘rio(<github-raw url>)’, or the
+<code><a href="../reference/get_data.html">appliedepidata::get_data</a></code> or
+<code><a href="../reference/save_data.html">appliedepidata::save_data</a></code> functions.</github-raw>
+</li>
+<li>
+<strong>data-raw</strong>: Contains R scripts used for creating the
+exported or internal data (e.g. if you have edited a dataset or used
+{usethis} to internalise the dataset)</li>
+<li>
+<strong>sysdata</strong>: Not relevant for current package setup. In
+some setups you are supposed to put <em>tableoftables</em> in sysdata
+(i.e. just for package usage). However for our current setup leave in
+<em>extdata</em>.</li>
 </ul>
+</li>
+</ul>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" tabindex="-1"></a><span class="bu">.</span></span>
+<span id="cb1-2"><a href="#cb1-2" tabindex="-1"></a><span class="ex">├──</span> appliedepidata.Rproj</span>
+<span id="cb1-3"><a href="#cb1-3" tabindex="-1"></a><span class="ex">├──</span> _pkgdown.yml</span>
+<span id="cb1-4"><a href="#cb1-4" tabindex="-1"></a><span class="ex">├──</span> data</span>
+<span id="cb1-5"><a href="#cb1-5" tabindex="-1"></a><span class="ex">│</span>   └── newdata.rda</span>
+<span id="cb1-6"><a href="#cb1-6" tabindex="-1"></a><span class="ex">├──</span> data-raw</span>
+<span id="cb1-7"><a href="#cb1-7" tabindex="-1"></a><span class="ex">│</span>   └── newdata.R</span>
+<span id="cb1-8"><a href="#cb1-8" tabindex="-1"></a><span class="ex">├──</span> inst</span>
+<span id="cb1-9"><a href="#cb1-9" tabindex="-1"></a><span class="ex">│</span>   └── extdata</span>
+<span id="cb1-10"><a href="#cb1-10" tabindex="-1"></a><span class="ex">│</span>       └── tableoftables.xlsx</span>
+<span id="cb1-11"><a href="#cb1-11" tabindex="-1"></a><span class="ex">│</span>       └── newdata.xlsx</span>
+<span id="cb1-12"><a href="#cb1-12" tabindex="-1"></a><span class="ex">├──</span> R</span>
+<span id="cb1-13"><a href="#cb1-13" tabindex="-1"></a><span class="ex">│</span>   └── newdata_doc.R</span>
+<span id="cb1-14"><a href="#cb1-14" tabindex="-1"></a><span class="ex">└──</span> man</span>
+<span id="cb1-15"><a href="#cb1-15" tabindex="-1"></a>    <span class="ex">└──</span> newdata.Rd</span></code></pre></div>
 </div>
 <div class="section level3">
-<h3 id="if-adding-an--rda-file">if adding an .rda file:<a class="anchor" aria-label="anchor" href="#if-adding-an--rda-file"></a>
+<h3 id="adding-a-file">Adding a file<a class="anchor" aria-label="anchor" href="#adding-a-file"></a>
 </h3>
-<ul>
-<li>link to the appropriate part from non-R onwards where relevant</li>
-</ul>
+<p>This describes the process for adding a file to the repo. Note that
+the processes for adding a non-R file (any file that is not
+<code>.rda</code>) and an R file (any file already in<code>.rda</code>
+format) are slightly different. If you are adding a dataset from an
+existing R package, you can skip to step 3 below.</p>
+<ol style="list-style-type: decimal">
+<li>Name your file appropriately</li>
+</ol>
+<ol style="list-style-type: lower-alpha">
+<li>You can name it whatever you want, but stick to basic naming
+conventions.<br>
+</li>
+<li>Ensure that there is not already file in <em>tableoftables.xlsx</em>
+named the same.</li>
+<li>Avoid generic names like: <code>linelist_cleaned.xlsx</code> or
+<code>survey_data.xlsx</code>.</li>
+<li>Use consistent and descriptive names without spaces (e.g.,
+<code>AJS_AmTiman</code>, <code>sitrep_mortality_survey</code>).</li>
+</ol>
+<ol start="2" style="list-style-type: decimal">
+<li>Place your file in the correct folder</li>
+</ol>
+<ol style="list-style-type: lower-alpha">
+<li>A <em>non-R</em> file (e.g. <code>xlsx</code>, <code>shp</code>,
+<code>zip</code>) goes in <code>inst/extdata</code> folder i. If adding
+a shapefile then zip it</li>
+<li>An <em>R</em> file (e.g. <code>rda</code>, <code>rds</code>) goes in
+<code>data</code> folder</li>
+</ol>
+<ol start="3" style="list-style-type: decimal">
+<li>Reproducibly edit dataset and internalise (see
+<code>data-raw/AJS_AmTiman.R</code> for example)</li>
+</ol>
+<ol style="list-style-type: lower-alpha">
+<li>In your console run
+<code>usethis::use_data_raw(&lt;name of your file without extension&gt;)</code>
+</li>
+<li>This creates an R script in the <code>data-raw</code> folder.</li>
+<li>Read in the file by defining the path with <code>system.file</code>.
+i. If you are editing a file already in the package (e.g. shortening the
+Ebola linelist for a course), make sure you read in the original dataset
+here. Document this properly with {roxygen} and in the metadata as
+described below.</li>
+<li>Make any edits necessary to your dataset in a reproducible way.</li>
+<li>Save and internalise the dataset with
+<code>usethis::usedata()</code>.</li>
+</ol>
+<ol start="4" style="list-style-type: decimal">
+<li>Add documentation for each dataset added</li>
+</ol>
+<ol style="list-style-type: lower-alpha">
+<li>This is done in an R script in the <code>R</code> folder.</li>
+<li>Name the script something that will allow reviewers to find it
+(e.g. <code>AJS_chad</code>) and suffix with <code>_doc</code> so that
+it can be differentiated from functions.</li>
+<li>Place all the documentation for datasets in that group within the
+same script.</li>
+<li>Ensure to clearly document the source and license for the
+dataset.</li>
+<li>Add in an explanation for each variable, if you have a data
+dictionary you use <a href="https://appliedepi.github.io/appliedepidata/reference/create_desc.html">appliedepidata::create_desc()</a>
+to help with this. i. You could also create a data dictionary for use
+with this function, see the <a href="(https://appliedepi.github.io/appliedepidata/articles/data-dictionaries.html).">data
+dictionary walk-through</a>
+</li>
+</ol>
+<ol start="5" style="list-style-type: decimal">
+<li>Add the datasets to <code>_pkgdown.yml</code>
+</li>
+</ol>
+<ol style="list-style-type: lower-alpha">
+<li>Group relevant datasets under the same subtitle (suffix with the
+language)</li>
+<li>The names here correspond to the name in quotations at the end of
+your description file from point 4 above, as well as the name of the
+file (without file extension).</li>
+</ol>
+<ol start="6" style="list-style-type: decimal">
+<li>Add the dataset to the <code>tablesoftables.xlsx</code> as described
+below.</li>
+</ol>
 </div>
 </div>
 <div class="section level2">
-<h2 id="data-entry-guide-for-dataset-metadata">Data Entry Guide for Dataset Metadata<a class="anchor" aria-label="anchor" href="#data-entry-guide-for-dataset-metadata"></a>
+<h2 id="defining-dataset-metadata-adding-to-tablesoftables-xlsx">Defining dataset metadata (adding to
+<code>tablesoftables.xlsx</code>)<a class="anchor" aria-label="anchor" href="#defining-dataset-metadata-adding-to-tablesoftables-xlsx"></a>
 </h2>
 <p>Below is a table explaining how to fill in each variable in the
-dataset metadata Excel sheet (1tablesoftables.xlsx). This guide helps
-ensure consistency and completeness when adding new datasets to your
-collection.</p>
+dataset metadata Excel sheet (<code>tablesoftables.xlsx</code>). This
+guide helps ensure consistency and completeness when adding new datasets
+to your collection.</p>
 <ul>
 <li><p><strong>name</strong>: The filename of the dataset as it appears
 in the <code>inst/extdata</code> directory, <strong>without</strong> the
