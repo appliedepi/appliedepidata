@@ -44,7 +44,3 @@
 #' 
 #' @docType data
 "mpox_aggregate_table"
-
-
-
-
