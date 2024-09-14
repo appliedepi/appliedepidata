@@ -31,3 +31,8 @@ reference:
   - fulton_data
   - fulton_data_clean
   - fulton_population
+  
+- subtitle: Fictional Mpox data from 5 European countries (2022) - English
+  contents:
+  - mpox_linelist
+  - mpox_aggregate_table 
