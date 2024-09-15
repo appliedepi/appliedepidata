@@ -25,3 +25,14 @@ reference:
   contents:
   - mortality_survey_data
   - mortality_survey_dict
+  
+- subtitle: COVID-19 data in Fulton County, USA (2020) - English
+  contents:
+  - fulton_data
+  - fulton_data_clean
+  - fulton_population
+  
+- subtitle: Fictional Mpox data from 5 European countries (2022) - English
+  contents:
+  - mpox_linelist
+  - mpox_aggregate_table 
