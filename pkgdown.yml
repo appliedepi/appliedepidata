@@ -1,11 +1,11 @@
 pandoc: 3.1.11
-pkgdown: 2.1.0
+pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   adding-data: adding-data.html
   available-data: available-data.html
   data-dictionaries: data-dictionaries.html
-last_built: 2024-09-15T21:18Z
+last_built: 2024-09-23T05:41Z
 urls:
   reference: https://appliedepi.github.io/appliedepidata/reference
   article: https://appliedepi.github.io/appliedepidata/articles
