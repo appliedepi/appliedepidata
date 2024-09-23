@@ -21,9 +21,19 @@ for data sets in other languages available in the package.
 
 ```{r}
 
+# define current language of interest 
+curr_lang <- "en"
+
 # Load the data
 table_of_tables <- rio::import(system.file("extdata", "tableoftables.xlsx", 
                                           package = "appliedepidata"))
+
+# Replace the language column with clickable links using the `name` for URLs
+table_of_tables <- table_of_tables |>
+  dplyr::mutate(
+    og_language = language, 
+    language = paste0('<a href="https://appliedepi.github.io/appliedepidata/reference/', 
+                      name, '.html" target="_blank">', language, '</a>'))
 
 
 # Group by unique_identifier, description, and group_identifier to combine languages
@@ -34,16 +44,19 @@ find_langs <- table_of_tables |>
 
 # Join with the original data to retain 'name' and handle suffixes
 output <- table_of_tables |>
-  dplyr::filter(language == "en") |>
+  dplyr::filter(og_language == curr_lang) |>
   dplyr::select(unique_identifier, name, description, group_identifier) |>
   dplyr::left_join(find_langs, by = "unique_identifier") |>
   dplyr::select(name, description, language, group_identifier)
 
 # Create an interactive table with reactable
 reactable::reactable(output, 
-          searchable = TRUE, 
+          searchable = FALSE, 
           filterable = TRUE,
           pagination = TRUE, 
-          defaultPageSize = 10)
+          defaultPageSize = 10, 
+          columns = list(
+            language = reactable::colDef(html = TRUE)  # Enable HTML rendering for links
+          ))
 
 ```
