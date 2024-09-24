@@ -26,11 +26,11 @@ library(appliedepidata)
 
 ## PACKAGE FOLDER STRUCTURE
 
-To below is a simplified explanation of the [R packages data
+### Overview
+
+To diagram and descriptions below are a simplified explanation of the [R packages data
 chapter](https://r-pkgs.org/data.html). For a fuller understanding, read
 that chapter.
-
-### Overview
 
 ``` bash
 .
@@ -73,27 +73,16 @@ that chapter.
 These contain files outputted by running the code in the folders above.
 
 -   **data**: Contains internalised and processed R datasets (.rda
-    files).
+    files). These are created when internalizing the data (running code in data-raw folder), which makes them more efficient for file storage. 
 -   **man**: Contains the R documentation files for package functions
     and datasets (created when running the code in the **R** folder).
     Each .Rd file has information about a specific function or dataset.
 -   **tests**: Contains test files for developer use only.
--   **internal data**: When you build a package, the `Rda` datasets
-    (from `data` folder) can become "internal" (more efficient for file
-    storage). These are accessed by calling `package::dataset` (e.g.
-    `appliedepidata::AJS_AmTiman`. They can also be imported directly
-    from github using link to the file in data folder e.g.
-    'rio(<github-raw url>)', or the `appliedepidata::get_data` or
-    `appliedepidata::save_data` functions.
--   **sysdata**: Not relevant for current package setup. In some setups
-    you are supposed to put *tableoftables* in sysdata (i.e. just for
-    package usage). However for our current setup leave in *extdata*.
+
 
 ## ADDING DATA
 
-This describes the process for adding a file to the repo. Note that the
-processes for adding a non-R file (any file that is not `.rda`) and an R
-file (any file already in`.rda` format) are slightly different.
+This describes the process for adding a file to the repo. Note that any original datasets need to be added to the inst/exta folder, even if already in .rda format. 
 
 If you are adding a dataset from an existing R package, you can skip to
 step 3 below.
@@ -119,11 +108,8 @@ step 3 below.
 
 2.  **Place your file in the correct folder**
 
-    A. A *non-rda* file (e.g. `xlsx`, `shp`, `zip`, `rds`) goes in
-    `inst/extdata` folder. This is what will be downloaded when running
-    the save_data() function. i. If adding a shapefile then zip it
-
-    B. An *rda* file goes in `data` folder
+    A. Add into `inst/extdata` folder. This is what will be downloaded when running
+    the save_data() function. If a shapefile, zip first. 
 
 3.  **Build the package with the added data**
 
@@ -147,6 +133,8 @@ step 3 below.
     `system.file()`, as below. Necessary edits to the dataset should
     also go here. Then run this script to internalise the data, and
     close.
+    
+    D. NOTE that if you want to process the raw data to create a dataset that should also be accessible to users (e.g. via the `get_data()` or `save_data()` functions), make sure that the processed data also gets saved into inst/extdata as version 2. Make sure you internalise (with use_data) both versions of the data. 
 
 ```{r, eval=FALSE}
   
