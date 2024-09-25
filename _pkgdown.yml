@@ -36,3 +36,7 @@ reference:
   contents:
   - mpox_linelist
   - mpox_aggregate_table 
+  
+- subtitle: Fictional linelist data from Salmonella outbreak in Stegen, Germany (1998) - English
+  contents:
+  - stegentira_data
