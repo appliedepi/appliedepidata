@@ -37,7 +37,7 @@ that chapter.
 ├── appliedepidata.Rproj
 ├── _pkgdown.yml
 ├── data
-│   └── internaliseddata.rda
+│   └── newdata.rda (note: internalised)
 ├── data-raw
 │   └── newdata.R
 ├── inst
@@ -116,7 +116,7 @@ step 3 below.
     A. Press Ctrl + Shift + B to build the package with the newly added
     data. This will mean the data is recognized for the next step.
 
-<!-- -->
+
 
 4.  **Reproducibly edit dataset and internalize** (see
     `data-raw/AJS_AmTiman.R` for example)
@@ -177,7 +177,7 @@ usethis::use_data(examplename_linelist, overwrite = TRUE)
     This will be an .Rd file in the `man` folder, with file name
     corresponding with the dataset name (e.g. `examplename_linelist.Rd`)
 
-<!-- -->
+
 
 6.  **Add the datasets to `_pkgdown.yml`**
 

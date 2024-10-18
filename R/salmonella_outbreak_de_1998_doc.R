@@ -19,8 +19,7 @@
 #' 
 #' This dataset is licensed under [GPL3](https://www.gnu.org/licenses/gpl-3.0.html) 
 #' 
-#' @format 
-#' Linelist with 291 rows and 20 columns
+#' @format A data frame with 291 rows and 20 columns
 #' 
 #' @docType data
 "stegentira_data"
