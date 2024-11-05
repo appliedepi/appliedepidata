@@ -40,3 +40,8 @@ reference:
 - subtitle: Fictional linelist data from Salmonella outbreak in Stegen, Germany (1998) - English
   contents:
   - stegentira_data
+
+- subtitle: Fictional linelist data from Ebola outbreak in Sierra Leone (2014) - English
+  contents:
+  - ebola_linelist_20141201
+  
