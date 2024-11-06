@@ -34,6 +34,6 @@ This is fictional case-linelist which contains de-indentified individual level d
 on clinical outcome, demographics and region.
 }
 \references{
-{WHO Ebola Response Team. 2014. Ebola virus disease in West Africa–the first 9 months of the epidemic and forward projections. The New England journal of medicine 371:1481–1495} \doi{10.1056/NEJMoa1411100}'
+{WHO Ebola Response Team. 2014. Ebola virus disease in West Africa–the first 9 months of the epidemic and forward projections. The New England journal of medicine 371:1481–1495} \doi{10.1056/NEJMoa1411100}
 }
 \keyword{datasets}

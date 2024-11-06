@@ -50,3 +50,12 @@ reference:
   - linelist_raw
   - linelist_cleaned_excel
   - linelist_cleaned_rds
+  - hospital_linelists
+  - linelist_cleaned_with_adm3
+  - cleaning_dict
+  - sle_adm3
+  - sle_admpop_adm3_2020
+  - epinow_res
+  - epinow_res_small
+  - generation_time
+  - incubation_period
