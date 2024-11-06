@@ -41,6 +41,10 @@ reference:
   contents:
   - stegentira_data
   
-- subtitle: Influenza A H7N9 data in China 2013 - English 
+- subtitle: Influenza A H7N9 data in China (2013) - English 
   contents: 
   - fluH7N9_China_2013
+  
+- subtitle: Fictional linelist data from Ebola outbreak in Sierra Leone (2014) - English
+  contents: 
+  - linelist_raw
