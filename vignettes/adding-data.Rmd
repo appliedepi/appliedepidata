@@ -28,7 +28,7 @@ library(appliedepidata)
 
 ### Overview
 
-To diagram and descriptions below are a simplified explanation of the [R packages data
+The diagram and descriptions below are a simplified explanation of the [R packages data
 chapter](https://r-pkgs.org/data.html). For a fuller understanding, read
 that chapter.
 
