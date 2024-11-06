@@ -40,3 +40,7 @@ reference:
 - subtitle: Fictional linelist data from Salmonella outbreak in Stegen, Germany (1998) - English
   contents:
   - stegentira_data
+  
+- subtitle: Influenza A H7N9 data in China 2013 - English 
+  contents: 
+  - fluH7N9_China_2013
