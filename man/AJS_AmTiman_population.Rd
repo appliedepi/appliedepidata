@@ -6,10 +6,6 @@
 \title{Population data from an outbreak of Acute Jaundice Syndrome (AJS) in Chad 2016}
 \format{
 A data frame with 648 rows and 3 columns:
-\describe{
-\item{variable1}{explanation of a variable}
-\item{variable2}{more explanation of variables}
-}
 }
 \source{
 This data was collected as part of Doctors Without Borders (MSF) outbreak

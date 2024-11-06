@@ -34,7 +34,7 @@
 #' West African Ebola outbreak of 2014
 #'
 #' @description
-#' Excel and associated R dataset with cleaned version of fictional Ebola Virus Disease data simulating 
+#' Excel file with cleaned version of fictional Ebola Virus Disease data simulating 
 #' properties from the West African Ebola outbreak of 2014
 #'  
 #' @details
@@ -46,7 +46,7 @@
 #' 
 #' The original dataset can be accessed using `get_data("linelist_raw")`
 #' 
-#' This is version 2.0 (excel) and version 3.0 (Rds).  
+#' This is version 2.0.  
 #' 
 #' This dataset is English.   
 #' 
@@ -56,4 +56,34 @@
 #' @format A data frame with 5888 rows and 30 columns
 #' 
 #' @docType data
-"linelist_cleaned"
+"linelist_cleaned_excel"
+
+
+
+#' @title Cleaned fictional Ebola Virus Disease data simulating properties from the 
+#' West African Ebola outbreak of 2014
+#'
+#' @description
+#' R-dataset file with cleaned version of fictional Ebola Virus Disease data simulating 
+#' properties from the West African Ebola outbreak of 2014
+#'  
+#' @details
+#' This is fictional case-linelist which contains de-indentified individual level data 
+#' on clinical outcome, demographics and region.
+#'  
+#' @source This data is a cleaned version of \link{linelist_raw}, which is cleaned
+#' using code in the [epiRhandbook cleaning chapter](https://epirhandbook.com/en/new_pages/cleaning.html).
+#' 
+#' The original dataset can be accessed using `get_data("linelist_raw")`
+#' 
+#' This is version 3.0.  
+#' 
+#' This dataset is English.   
+#' 
+#' This dataset is licensed under [MIT](https://opensource.org/license/MIT) 
+#' 
+#' @references {WHO Ebola Response Team. 2014. Ebola virus disease in West Africa–the first 9 months of the epidemic and forward projections. The New England journal of medicine 371:1481–1495} \doi{10.1056/NEJMoa1411100}' 
+#' @format A data frame with 5888 rows and 30 columns
+#' 
+#' @docType data
+"linelist_cleaned_rds"

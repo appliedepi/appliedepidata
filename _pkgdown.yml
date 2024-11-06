@@ -48,3 +48,5 @@ reference:
 - subtitle: Fictional linelist data from Ebola outbreak in Sierra Leone (2014) - English
   contents: 
   - linelist_raw
+  - linelist_cleaned_excel
+  - linelist_cleaned_rds
