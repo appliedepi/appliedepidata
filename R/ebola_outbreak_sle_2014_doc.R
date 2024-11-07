@@ -14,7 +14,8 @@
 #' West African Ebola outbreak of 2014-2015 (see {outbreaks} package documentation 
 #' for details). 
 #' 
-#' The original dataset can be accessed using outbreaks::ebola_sim 
+#' The original dataset can be accessed using outbreaks::ebola_sim. Within this 
+#' package the original dataset is linelist_raw.xlsx. 
 #' 
 #' This is version 1.0.  
 #' 
@@ -44,7 +45,7 @@
 #' @source This data is a cleaned version of \link{linelist_raw}, which is cleaned
 #' using code in the [epiRhandbook cleaning chapter](https://epirhandbook.com/en/new_pages/cleaning.html).
 #' 
-#' The original dataset can be accessed using `get_data("linelist_raw")`
+#' The original dataset is linelist_cleaned_excel.xlsx
 #' 
 #' This is version 2.0.  
 #' 
@@ -74,7 +75,7 @@
 #' @source This data is a cleaned version of \link{linelist_raw}, which is cleaned
 #' using code in the [epiRhandbook cleaning chapter](https://epirhandbook.com/en/new_pages/cleaning.html).
 #' 
-#' The original dataset can be accessed using `get_data("linelist_raw")`
+#' The original dataset is linelist_cleaned_rds.rds
 #' 
 #' This is version 3.0.  
 #' 
@@ -103,7 +104,7 @@
 #' @source This data is a subset version of \link{linelist_cleaned_excel}, which is cleaned
 #' using code in the [epiRhandbook cleaning chapter](https://epirhandbook.com/en/new_pages/cleaning.html).
 #' 
-#' The original dataset can be accessed using `get_data("linelist_cleaned_excel")`
+#' The original dataset is hospital_linelist.xlsx
 #' 
 #' This is version 4.0.  
 #' 
@@ -133,7 +134,7 @@
 #' @source This data is a cleaned version of \link{linelist_cleaned_rds}, which is cleaned
 #' using code in the [epiRhandbook cleaning chapter](https://epirhandbook.com/en/new_pages/cleaning.html).
 #' 
-#' The original dataset can be accessed using `get_data("linelist_cleaned_rds")`
+#' The original dataset is linelist_cleaned_with_adm3.rds
 #' 
 #' This is version 4.0.  
 #' 
@@ -161,7 +162,7 @@
 #' @source This has been created as an example for use with  \link{linelist_raw}, 
 #' which is cleaned using code in the [epiRhandbook cleaning chapter](https://epirhandbook.com/en/new_pages/cleaning.html).
 #' 
-#' The original dataset can be accessed using `get_data("linelist_raw")`
+#' The original dataset is cleaning_dict.csv
 #' 
 #' This is version 1.0.  
 #' 
@@ -188,9 +189,11 @@
 #' Admin4 : Data provided by OCHA, attribute fields and geometries have been 
 #' checked by UNMEER IM (Ghana) Will be replaced if/when official Government data is provided
 #'  
-#' @source This shapefile was downloaded from [Humanitarian Data Exchange](https://data.humdata.org/dataset/cod-ab-sle)
+#' @source This shapefile was downloaded from 
+#' [Humanitarian Data Exchange](https://data.humdata.org/dataset/cod-ab-sle). 
+#' No edits were made to this. 
 #' 
-#' This is the original dataset and was not edited (other than renaming)
+#' This is the original dataset is sle_adm3.shp
 #' 
 #' This is version 1.0.  
 #' 
@@ -214,9 +217,11 @@
 #' This population data can be used with \link{linelist_cleaned_with_adm3} and 
 #' \link{sle_adm3}.
 #'  
-#' @source This population data was downloaded from [Humanitarian Data Exchange](https://data.humdata.org/dataset/cod-ps-sle)
+#' @source This population data was downloaded from 
+#' [Humanitarian Data Exchange](https://data.humdata.org/dataset/cod-ps-sle)
+#' No edits were made to this. 
 #' 
-#' This is the original dataset and was not edited (other than renaming)
+#' This is the original dataset is sle_admpop_adm3_2020.csv
 #' 
 #' This is version 1.0.  
 #' 
@@ -229,30 +234,6 @@
 #' @docType data
 "sle_admpop_adm3_2020"
 
-
-#' @title Population data at admin level 3 for Sierra Leone from Humanitarian Data Exchange
-#'
-#' @description
-#' Population data at admin level 3 for Sierra Leone from Humanitarian Data Exchange
-#' 
-#' @details
-#' This population data can be used with \link{linelist_cleaned_with_adm3} and 
-#' \link{sle_adm3}.
-#'  
-#' @source This population data was downloaded from [Humanitarian Data Exchange](https://data.humdata.org/dataset/cod-ps-sle)
-#' 
-#' This is the original dataset and was not edited (other than renaming)
-#' 
-#' This is version 1.0.  
-#' 
-#' This dataset is English.   
-#' 
-#' This dataset is licensed under [CC by-IGO](https://data.humdata.org/faqs/licenses) 
-#' 
-#' @format A shapefile with 167 rows and 20 columns
-#' 
-#' @docType data
-"sle_admpop_adm3_2020"
 
 
 
@@ -266,7 +247,8 @@
 #'  
 #' @source This is direct output from use with \link{linelist_cleaned_rds}. 
 #' 
-#' This is the original dataset. 
+#' The original datasets are epinow_res.rds, epinow_res_small.rds, 
+#' generation_time.rds and incubation_period.rds
 #' 
 #' This is version 1.0.  
 #' 
@@ -279,7 +261,7 @@
 #' @docType data
 "epinow_res"
 #' @rdname epinow_res
-"epinow_res"
+"epinow_res_small"
 #' @rdname epinow_res
 "generation_time"
 #' @rdname epinow_res

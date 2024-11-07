@@ -12,7 +12,7 @@ A data frame with 5888 rows and 30 columns
 This data is a cleaned version of \link{linelist_raw}, which is cleaned
 using code in the \href{https://epirhandbook.com/en/new_pages/cleaning.html}{epiRhandbook cleaning chapter}.
 
-The original dataset can be accessed using \code{get_data("linelist_raw")}
+The original dataset is linelist_cleaned_excel.xlsx
 
 This is version 2.0.
 

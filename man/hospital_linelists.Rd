@@ -12,7 +12,7 @@ A data frame with 454 rows and 30 columns
 This data is a subset version of \link{linelist_cleaned_excel}, which is cleaned
 using code in the \href{https://epirhandbook.com/en/new_pages/cleaning.html}{epiRhandbook cleaning chapter}.
 
-The original dataset can be accessed using \code{get_data("linelist_cleaned_excel")}
+The original dataset is hospital_linelist.xlsx
 
 This is version 4.0.
 

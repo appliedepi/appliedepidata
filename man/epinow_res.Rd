@@ -3,6 +3,7 @@
 \docType{data}
 \name{epinow_res}
 \alias{epinow_res}
+\alias{epinow_res_small}
 \alias{generation_time}
 \alias{incubation_period}
 \title{Outputs from {epinow2} based on fictional Ebola Virus Disease data simulating properties from the West African Ebola outbreak of 2014}
@@ -18,7 +19,8 @@ An object of class \code{list} of length 5.
 \source{
 This is direct output from use with \link{linelist_cleaned_rds}.
 
-This is the original dataset.
+The original datasets are epinow_res.rds, epinow_res_small.rds,
+generation_time.rds and incubation_period.rds
 
 This is version 1.0.
 
@@ -29,7 +31,7 @@ This dataset is licensed under \href{https://opensource.org/license/MIT}{MIT}
 \usage{
 epinow_res
 
-epinow_res
+epinow_res_small
 
 generation_time
 

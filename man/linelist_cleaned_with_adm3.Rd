@@ -12,7 +12,7 @@ A data frame with 454 rows and 30 columns
 This data is a cleaned version of \link{linelist_cleaned_rds}, which is cleaned
 using code in the \href{https://epirhandbook.com/en/new_pages/cleaning.html}{epiRhandbook cleaning chapter}.
 
-The original dataset can be accessed using \code{get_data("linelist_cleaned_rds")}
+The original dataset is linelist_cleaned_with_adm3.rds
 
 This is version 4.0.
 

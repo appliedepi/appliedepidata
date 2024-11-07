@@ -12,7 +12,7 @@ A data frame with 9 rows and 3 columns
 This has been created as an example for use with  \link{linelist_raw},
 which is cleaned using code in the \href{https://epirhandbook.com/en/new_pages/cleaning.html}{epiRhandbook cleaning chapter}.
 
-The original dataset can be accessed using \code{get_data("linelist_raw")}
+The original dataset is cleaning_dict.csv
 
 This is version 1.0.
 

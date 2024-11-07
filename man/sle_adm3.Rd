@@ -8,9 +8,11 @@
 A shapefile with 167 rows and 20 columns
 }
 \source{
-This shapefile was downloaded from \href{https://data.humdata.org/dataset/cod-ab-sle}{Humanitarian Data Exchange}
+This shapefile was downloaded from
+\href{https://data.humdata.org/dataset/cod-ab-sle}{Humanitarian Data Exchange}.
+No edits were made to this.
 
-This is the original dataset and was not edited (other than renaming)
+This is the original dataset is sle_adm3.shp
 
 This is version 1.0.
 

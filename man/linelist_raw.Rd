@@ -14,7 +14,8 @@ The data was originally simulated to match properties of the
 West African Ebola outbreak of 2014-2015 (see {outbreaks} package documentation
 for details).
 
-The original dataset can be accessed using outbreaks::ebola_sim
+The original dataset can be accessed using outbreaks::ebola_sim. Within this
+package the original dataset is linelist_raw.xlsx.
 
 This is version 1.0.
 

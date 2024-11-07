@@ -13,7 +13,8 @@
 #' reports and research articles. Transfer to R and documentation by Simon 
 #' Frost (sdwfrost@gmail.com).
 #' 
-#' The original dataset can be accessed using outbreaks::fluH7N9_China_2013 
+#' The original dataset can be accessed using outbreaks::fluH7N9_China_2013. Within
+#' this package the original dataset is fluH7N9_China_2013.csv
 #' 
 #' This is version 1.0.  
 #' 

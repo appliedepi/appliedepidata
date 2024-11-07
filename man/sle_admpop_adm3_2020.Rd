@@ -6,23 +6,13 @@
 \title{Population data at admin level 3 for Sierra Leone from Humanitarian Data Exchange}
 \format{
 A shapefile with 167 rows and 20 columns
-
-A shapefile with 167 rows and 20 columns
 }
 \source{
-This population data was downloaded from \href{https://data.humdata.org/dataset/cod-ps-sle}{Humanitarian Data Exchange}
+This population data was downloaded from
+\href{https://data.humdata.org/dataset/cod-ps-sle}{Humanitarian Data Exchange}
+No edits were made to this.
 
-This is the original dataset and was not edited (other than renaming)
-
-This is version 1.0.
-
-This dataset is English.
-
-This dataset is licensed under \href{https://data.humdata.org/faqs/licenses}{CC by-IGO}
-
-This population data was downloaded from \href{https://data.humdata.org/dataset/cod-ps-sle}{Humanitarian Data Exchange}
-
-This is the original dataset and was not edited (other than renaming)
+This is the original dataset is sle_admpop_adm3_2020.csv
 
 This is version 1.0.
 
@@ -32,18 +22,11 @@ This dataset is licensed under \href{https://data.humdata.org/faqs/licenses}{CC 
 }
 \usage{
 sle_admpop_adm3_2020
-
-sle_admpop_adm3_2020
 }
 \description{
 Population data at admin level 3 for Sierra Leone from Humanitarian Data Exchange
-
-Population data at admin level 3 for Sierra Leone from Humanitarian Data Exchange
 }
 \details{
-This population data can be used with \link{linelist_cleaned_with_adm3} and
-\link{sle_adm3}.
-
 This population data can be used with \link{linelist_cleaned_with_adm3} and
 \link{sle_adm3}.
 }
