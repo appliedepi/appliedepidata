@@ -66,3 +66,8 @@ reference:
   - contacts_clean
   - followups_clean
   - relationships_clean
+  
+- subtitle: Fictional counts of malaria cases from Mozambique (2019) - English 
+  contents: 
+  - district_weekly_count_data
+  - malaria_facility_count_data
