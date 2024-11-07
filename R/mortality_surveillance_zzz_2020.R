@@ -23,9 +23,9 @@
 #' @rdname country_demographics
 "country_demographics_2"
 #' @rdname country_demographics
-"deaths_countryA.csv"
+"deaths_countryA"
 #' @rdname country_demographics
-"deaths_countryB.csv"
+"deaths_countryB"
 
 
 #' @title World “standard population” by sex
