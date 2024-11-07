@@ -61,6 +61,7 @@ reference:
   - incubation_period
   
 - subtitle: Fictional case data for a generic disease to demonstrate contact tracing (2020) - English
+  contents: 
   - cases_clean
   - contacts_clean
   - followups_clean
