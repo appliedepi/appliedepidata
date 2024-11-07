@@ -71,3 +71,14 @@ reference:
   contents: 
   - district_weekly_count_data
   - malaria_facility_count_data
+  
+- subtitle: Next generation sequencing data of Shigella surveillance samples from Belgium (2013-2019) - English
+  contents: 
+  - Shigella_tree
+  - sample_data_Shigella_tree
+  - Shigella_subtree_2
+  
+- subtitle: Fictional country demographic and mortality data to demonstrate standardisation (2020) - English
+  contents: 
+  - country_demographics
+  - world_standard_population_by_sex
