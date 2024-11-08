@@ -82,3 +82,13 @@ reference:
   contents: 
   - country_demographics
   - world_standard_population_by_sex
+  
+- subtitle: Other fictional example data 
+  contents: 
+  - likert_data
+  
+- subtitle: Fictional data for a mortality survey
+  contents: 
+  - survey_data
+  - survey_dict
+  - population
