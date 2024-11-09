@@ -87,8 +87,14 @@ reference:
   contents: 
   - likert_data
   
-- subtitle: Fictional data for a mortality survey
+- subtitle: Fictional data for a mortality survey - English
   contents: 
   - survey_data
   - survey_dict
   - population
+
+
+- subtitle: Campylobacter surveillance data from Germany (2001-2011) - English
+  contents: 
+  - campylobacter_germany
+  - germany_weather
