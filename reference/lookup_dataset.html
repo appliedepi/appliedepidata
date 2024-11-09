@@ -66,6 +66,7 @@ are found.</p>
 <span>  name <span class="op">=</span> <span class="cn">NULL</span>,</span>
 <span>  language <span class="op">=</span> <span class="cn">NULL</span>,</span>
 <span>  group_identifier <span class="op">=</span> <span class="cn">NULL</span>,</span>
+<span>  usage <span class="op">=</span> <span class="cn">NULL</span>,</span>
 <span>  unique_identifier <span class="op">=</span> <span class="cn">NULL</span></span>
 <span><span class="op">)</span></span></code></pre></div>
     </div>
@@ -88,6 +89,12 @@ will filter datasets based on this language.</p></dd>
 <dd><p>(optional) A string identifying a group of related
 datasets. If provided, the function will return all datasets within the group
 unless further criteria are given.</p></dd>
+
+
+<dt id="arg-usage">usage<a class="anchor" aria-label="anchor" href="#arg-usage"></a></dt>
+<dd><p>(optional) A string representing where the datasets are used.
+If provided, the function will return all datasets within the group unless
+further criteria are given.</p></dd>
 
 
 <dt id="arg-unique-identifier">unique_identifier<a class="anchor" aria-label="anchor" href="#arg-unique-identifier"></a></dt>
@@ -115,6 +122,9 @@ on <code>language</code> or <code>group_identifier</code> (if specified).</p></l
 based on the same <code>unique_identifier</code>.</p></li>
 </ul></li>
 <li><p><strong>Searching by <code>group_identifier</code>:</strong></p><ul><li><p>If a <code>group_identifier</code> is provided, the function returns all datasets
+within the group unless further refinement by <code>language</code> is necessary.</p></li>
+</ul></li>
+<li><p><strong>Searching by <code>usage</code>:</strong></p><ul><li><p>If a <code>usage</code> is provided, the function returns all datasets
 within the group unless further refinement by <code>language</code> is necessary.</p></li>
 </ul></li>
 <li><p><strong>Searching by <code>unique_identifier</code>:</strong></p><ul><li><p>If a <code>unique_identifier</code> is provided, the function will attempt to find

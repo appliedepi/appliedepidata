@@ -69,6 +69,7 @@ loading.</p>
 <span>  name <span class="op">=</span> <span class="cn">NULL</span>,</span>
 <span>  language <span class="op">=</span> <span class="cn">NULL</span>,</span>
 <span>  group_identifier <span class="op">=</span> <span class="cn">NULL</span>,</span>
+<span>  usage <span class="op">=</span> <span class="cn">NULL</span>,</span>
 <span>  unique_identifier <span class="op">=</span> <span class="cn">NULL</span></span>
 <span><span class="op">)</span></span></code></pre></div>
     </div>
@@ -91,6 +92,12 @@ will filter datasets based on this language.</p></dd>
 <dd><p>(optional) A string identifying a group of related
 datasets. If provided, the function will return all datasets within the group
 unless further criteria are given.</p></dd>
+
+
+<dt id="arg-usage">usage<a class="anchor" aria-label="anchor" href="#arg-usage"></a></dt>
+<dd><p>(optional) A string representing where the datasets are used.
+If provided, the function will return all datasets within the group unless
+further criteria are given.</p></dd>
 
 
 <dt id="arg-unique-identifier">unique_identifier<a class="anchor" aria-label="anchor" href="#arg-unique-identifier"></a></dt>
@@ -116,6 +123,12 @@ environment clutter during the loading process.</p></li>
 <li><p><strong>Post-Processing Based on Object Type:</strong> Once the dataset is loaded,
 the function checks the type of object and handles it accordingly:</p><ul><li><p><strong>Data frames</strong> are directly assigned to the global environment without
 any further processing.</p></li>
+<li><p><strong>Phylo objects</strong> (<code>phylo</code> class) are directly assigned to the global
+environment without any further processing.</p></li>
+<li><p><strong>Stars objects</strong> (<code>stars</code> class) are directly assigned to the global
+environment without any further processing.</p></li>
+<li><p><strong>Epinow objects</strong> (<code>epinow</code> class) are directly assigned to the global
+environment without any further processing.</p></li>
 <li><p><strong>Spatial objects</strong> (<code>sf</code> class) are processed using <code><a href="https://r-spatial.github.io/sf/reference/st_as_sf.html" class="external-link">sf::st_as_sf()</a></code> to
 ensure correct handling of spatial data, and then assigned to the global
 environment.</p></li>
