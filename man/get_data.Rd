@@ -58,6 +58,10 @@ the function checks the type of object and handles it accordingly:
 \itemize{
 \item \strong{Data frames} are directly assigned to the global environment without
 any further processing.
+\item \strong{Phylo objects} (\code{phylo} class) are directly assigned to the global
+environment without any further processing.
+\item \strong{Stars objects} (\code{stars} class) are directly assigned to the global
+environment without any further processing.
 \item \strong{Spatial objects} (\code{sf} class) are processed using \code{sf::st_as_sf()} to
 ensure correct handling of spatial data, and then assigned to the global
 environment.
