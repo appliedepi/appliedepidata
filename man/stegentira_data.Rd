@@ -5,7 +5,7 @@
 \alias{stegentira_data}
 \title{Linelist for fictionalized salmonella outbreak in Stegen, Germany}
 \format{
-Linelist with 291 rows and 20 columns
+A data frame with 291 rows and 20 columns
 }
 \source{
 This case study was first designed by Alain Moren and Gilles Desve for EPIET. It is based on an investigation conducted by Anja Hauri, RKI, Berlin, 1998.

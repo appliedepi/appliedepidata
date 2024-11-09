@@ -18,6 +18,9 @@
 #' @param group_identifier (optional) A string identifying a group of related 
 #' datasets. If provided, the function will return all datasets within the group 
 #' unless further criteria are given.
+#' @param usage (optional) A string representing where the datasets are used. 
+#' If provided, the function will return all datasets within the group unless 
+#' further criteria are given. 
 #' @param unique_identifier (optional) A string representing the unique identifier 
 #' for a dataset. 
 #' 
@@ -36,6 +39,12 @@
 #'    the function checks the type of object and handles it accordingly:
 #'    - **Data frames** are directly assigned to the global environment without 
 #'      any further processing.
+#'    - **Phylo objects** (`phylo` class) are directly assigned to the global 
+#'      environment without any further processing. 
+#'    - **Stars objects** (`stars` class) are directly assigned to the global 
+#'      environment without any further processing.  
+#'    - **Epinow objects** (`epinow` class) are directly assigned to the global 
+#'      environment without any further processing.  
 #'    - **Spatial objects** (`sf` class) are processed using `sf::st_as_sf()` to 
 #'      ensure correct handling of spatial data, and then assigned to the global 
 #'      environment.
@@ -71,12 +80,14 @@
 get_data <- function(name = NULL, 
                      language = NULL, 
                      group_identifier = NULL, 
+                     usage = NULL,
                      unique_identifier = NULL) {
   
   # Step 1: Lookup dataset information based on provided criteria
   dataset_info <- lookup_dataset(name = name, 
                                  language = language, 
                                  group_identifier = group_identifier, 
+                                 usage = usage,
                                  unique_identifier = unique_identifier)
   
   # Step 2: Loop through each dataset found and load the corresponding .rda file
@@ -93,8 +104,12 @@ get_data <- function(name = NULL,
       loaded_object <- get(dataset_name, envir = temp_env)
       
       # Step 3: Post-process the loaded dataset
-      if (is.data.frame(loaded_object)) {
-        # If it's a regular data frame, assign it directly
+      if (is.data.frame(loaded_object) | 
+          inherits(loaded_object, "phylo") |
+          inherits(loaded_object, "stars") |
+          inherits(loaded_object, "epinow") | 
+          dataset_info$name[i] %in% c("incubation_period", "generation_time")) {
+        # If it's a regular data frame or a specific object, assign it directly
         assign(dataset_info$name[i], loaded_object, envir = .GlobalEnv)
       } else if (inherits(loaded_object, "sf")) {
         # If it's an sf (spatial) object, ensure it's converted properly

@@ -16,6 +16,9 @@
 #' @param group_identifier (optional) A string identifying a group of related 
 #' datasets. If provided, the function will return all datasets within the group 
 #' unless further criteria are given.
+#' @param usage (optional) A string representing where the datasets are used. 
+#' If provided, the function will return all datasets within the group unless 
+#' further criteria are given. 
 #' @param unique_identifier (optional) A string representing the unique identifier 
 #' for a dataset. 
 #'
@@ -38,7 +41,11 @@
 #'    - If a `group_identifier` is provided, the function returns all datasets 
 #'    within the group unless further refinement by `language` is necessary.
 #'
-#' 4. **Searching by `unique_identifier`:** 
+#' 4. **Searching by `usage`:** 
+#'    - If a `usage` is provided, the function returns all datasets 
+#'    within the group unless further refinement by `language` is necessary.
+#'
+#' 5. **Searching by `unique_identifier`:** 
 #'    - If a `unique_identifier` is provided, the function will attempt to find 
 #'    a dataset by that identifier and apply further filtering by `language` 
 #'    or `name` if needed.
@@ -70,6 +77,7 @@
 lookup_dataset <- function(name = NULL, 
                            language = NULL, 
                            group_identifier = NULL, 
+                           usage = NULL,
                            unique_identifier = NULL) {
   
   # Load the dataset lookup table
@@ -231,7 +239,38 @@ lookup_dataset <- function(name = NULL,
       stop("Please specify a language, multiple found for this group")
     }
     
-    # Check if both `group_identifier` and `language` are specified
+    # if both `group_identifier` and `language` are specified - return the language
+    if (!is.null(language)) {
+      dataset_info <- dataset_info %>%
+        dplyr::filter(language == !!language)
+    }
+    
+    # If multiple datasets are found, return them all 
+    # (for potential batch processing)
+    if (nrow(dataset_info) >= 1) {
+      return(dataset_info)
+    }
+  }
+  
+  
+  ###### USAGE
+  # If `usage` is provided, filter all datasets where `usage` contains the pattern
+  if (!is.null(usage)) {
+    dataset_info <- table_of_tables %>%
+      dplyr::filter(grepl(!!usage, usage))
+    
+    if (nrow(dataset_info) == 0) {
+      stop("No datasets found matching the specified 'usage' pattern.")
+    }
+    
+    # If no language specified and there are multiple options, prompt for language
+    if (nrow(dataset_info) > 1 & 
+        is.null(language) & 
+        length(unique(dataset_info$language)) > 1) {
+      stop("Please specify a language, multiple found for this usage pattern.")
+    }
+    
+    # If both `usage` and `language` are specified, filter by `language`
     if (!is.null(language)) {
       dataset_info <- dataset_info %>%
         dplyr::filter(language == !!language)

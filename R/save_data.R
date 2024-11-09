@@ -14,6 +14,9 @@
 #' @param group_identifier (optional) A string identifying a group of related 
 #' datasets. If provided, the function will return all datasets within the group 
 #' unless further criteria are given.
+#' @param usage (optional) A string representing where the datasets are used. 
+#' If provided, the function will return all datasets within the group unless 
+#' further criteria are given. 
 #' @param unique_identifier (optional) A string representing the unique identifier 
 #' for a dataset. 
 #' @param path (optional) A string specifying the directory where the dataset 
@@ -26,8 +29,8 @@
 #' The function follows these steps:
 #' 
 #' 1. **Dataset Lookup**: It looks up dataset information using `lookup_dataset` 
-#' based on the provided search criteria (`name`, `language`, `group_identifier`, 
-#' or `unique_identifier`).
+#' based on the provided search criteria (`name`, `language`, `group_identifier`,
+#' `usage` or `unique_identifier`).
 #' 2. **File Existence Check**: It checks if all required dataset files exist 
 #' using the `list_data` function. If any files are missing, an error message 
 #' lists them.
@@ -58,6 +61,7 @@
 save_data <- function(name = NULL, 
                       language = NULL, 
                       group_identifier = NULL, 
+                      usage = NULL,
                       unique_identifier = NULL, 
                       path = rstudioapi::selectDirectory()){
 
@@ -68,6 +72,7 @@ save_data <- function(name = NULL,
   dataset_info <- lookup_dataset(name = name, 
                                  language = language, 
                                  group_identifier = group_identifier, 
+                                 usage = usage, 
                                  unique_identifier = unique_identifier)
   
   files_to_copy <- paste0(dataset_info$name, ".", dataset_info$extension)

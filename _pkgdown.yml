@@ -40,3 +40,61 @@ reference:
 - subtitle: Fictional linelist data from Salmonella outbreak in Stegen, Germany (1998) - English
   contents:
   - stegentira_data
+  
+- subtitle: Influenza A H7N9 data in China (2013) - English 
+  contents: 
+  - fluH7N9_China_2013
+  
+- subtitle: Fictional linelist data from Ebola outbreak in Sierra Leone (2014) - English
+  contents: 
+  - linelist_raw
+  - linelist_cleaned_excel
+  - linelist_cleaned_rds
+  - hospital_linelists
+  - linelist_cleaned_with_adm3
+  - cleaning_dict
+  - sle_adm3
+  - sle_admpop_adm3_2020
+  - epinow_res
+  - epinow_res_small
+  - generation_time
+  - incubation_period
+  
+- subtitle: Fictional case data for a generic disease to demonstrate contact tracing (2020) - English
+  contents: 
+  - cases_clean
+  - contacts_clean
+  - followups_clean
+  - relationships_clean
+  
+- subtitle: Fictional counts of malaria cases from Mozambique (2019) - English 
+  contents: 
+  - district_weekly_count_data
+  - malaria_facility_count_data
+  
+- subtitle: Next generation sequencing data of Shigella surveillance samples from Belgium (2013-2019) - English
+  contents: 
+  - Shigella_tree
+  - sample_data_Shigella_tree
+  - Shigella_subtree_2
+  
+- subtitle: Fictional country demographic and mortality data to demonstrate standardisation (2020) - English
+  contents: 
+  - country_demographics
+  - world_standard_population_by_sex
+  
+- subtitle: Other fictional example data 
+  contents: 
+  - likert_data
+  
+- subtitle: Fictional data for a mortality survey - English
+  contents: 
+  - survey_data
+  - survey_dict
+  - population
+
+
+- subtitle: Campylobacter surveillance data from Germany (2001-2011) - English
+  contents: 
+  - campylobacter_germany
+  - germany_weather

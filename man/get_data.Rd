@@ -8,6 +8,7 @@ get_data(
   name = NULL,
   language = NULL,
   group_identifier = NULL,
+  usage = NULL,
   unique_identifier = NULL
 )
 }
@@ -21,6 +22,10 @@ will filter datasets based on this language.}
 \item{group_identifier}{(optional) A string identifying a group of related
 datasets. If provided, the function will return all datasets within the group
 unless further criteria are given.}
+
+\item{usage}{(optional) A string representing where the datasets are used.
+If provided, the function will return all datasets within the group unless
+further criteria are given.}
 
 \item{unique_identifier}{(optional) A string representing the unique identifier
 for a dataset.}
@@ -58,6 +63,12 @@ the function checks the type of object and handles it accordingly:
 \itemize{
 \item \strong{Data frames} are directly assigned to the global environment without
 any further processing.
+\item \strong{Phylo objects} (\code{phylo} class) are directly assigned to the global
+environment without any further processing.
+\item \strong{Stars objects} (\code{stars} class) are directly assigned to the global
+environment without any further processing.
+\item \strong{Epinow objects} (\code{epinow} class) are directly assigned to the global
+environment without any further processing.
 \item \strong{Spatial objects} (\code{sf} class) are processed using \code{sf::st_as_sf()} to
 ensure correct handling of spatial data, and then assigned to the global
 environment.

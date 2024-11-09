@@ -8,6 +8,7 @@ lookup_dataset(
   name = NULL,
   language = NULL,
   group_identifier = NULL,
+  usage = NULL,
   unique_identifier = NULL
 )
 }
@@ -21,6 +22,10 @@ will filter datasets based on this language.}
 \item{group_identifier}{(optional) A string identifying a group of related
 datasets. If provided, the function will return all datasets within the group
 unless further criteria are given.}
+
+\item{usage}{(optional) A string representing where the datasets are used.
+If provided, the function will return all datasets within the group unless
+further criteria are given.}
 
 \item{unique_identifier}{(optional) A string representing the unique identifier
 for a dataset.}
@@ -60,6 +65,11 @@ based on the same \code{unique_identifier}.
 \item \strong{Searching by \code{group_identifier}:}
 \itemize{
 \item If a \code{group_identifier} is provided, the function returns all datasets
+within the group unless further refinement by \code{language} is necessary.
+}
+\item \strong{Searching by \code{usage}:}
+\itemize{
+\item If a \code{usage} is provided, the function returns all datasets
 within the group unless further refinement by \code{language} is necessary.
 }
 \item \strong{Searching by \code{unique_identifier}:}
