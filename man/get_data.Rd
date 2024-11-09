@@ -67,6 +67,8 @@ any further processing.
 environment without any further processing.
 \item \strong{Stars objects} (\code{stars} class) are directly assigned to the global
 environment without any further processing.
+\item \strong{Epinow objects} (\code{epinow} class) are directly assigned to the global
+environment without any further processing.
 \item \strong{Spatial objects} (\code{sf} class) are processed using \code{sf::st_as_sf()} to
 ensure correct handling of spatial data, and then assigned to the global
 environment.

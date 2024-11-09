@@ -43,6 +43,8 @@
 #'      environment without any further processing. 
 #'    - **Stars objects** (`stars` class) are directly assigned to the global 
 #'      environment without any further processing.  
+#'    - **Epinow objects** (`epinow` class) are directly assigned to the global 
+#'      environment without any further processing.  
 #'    - **Spatial objects** (`sf` class) are processed using `sf::st_as_sf()` to 
 #'      ensure correct handling of spatial data, and then assigned to the global 
 #'      environment.
@@ -104,8 +106,10 @@ get_data <- function(name = NULL,
       # Step 3: Post-process the loaded dataset
       if (is.data.frame(loaded_object) | 
           inherits(loaded_object, "phylo") |
-          inherits(loaded_object, "stars")) {
-        # If it's a regular data frame or a phylo object, assign it directly
+          inherits(loaded_object, "stars") |
+          inherits(loaded_object, "epinow") | 
+          dataset_info$name[i] %in% c("incubation_period", "generation_time")) {
+        # If it's a regular data frame or a specific object, assign it directly
         assign(dataset_info$name[i], loaded_object, envir = .GlobalEnv)
       } else if (inherits(loaded_object, "sf")) {
         # If it's an sf (spatial) object, ensure it's converted properly
