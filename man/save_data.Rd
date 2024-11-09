@@ -8,6 +8,7 @@ save_data(
   name = NULL,
   language = NULL,
   group_identifier = NULL,
+  usage = NULL,
   unique_identifier = NULL,
   path = rstudioapi::selectDirectory()
 )
@@ -22,6 +23,10 @@ will filter datasets based on this language.}
 \item{group_identifier}{(optional) A string identifying a group of related
 datasets. If provided, the function will return all datasets within the group
 unless further criteria are given.}
+
+\item{usage}{(optional) A string representing where the datasets are used.
+If provided, the function will return all datasets within the group unless
+further criteria are given.}
 
 \item{unique_identifier}{(optional) A string representing the unique identifier
 for a dataset.}
@@ -48,7 +53,7 @@ The function follows these steps:
 \enumerate{
 \item \strong{Dataset Lookup}: It looks up dataset information using \code{lookup_dataset}
 based on the provided search criteria (\code{name}, \code{language}, \code{group_identifier},
-or \code{unique_identifier}).
+\code{usage} or \code{unique_identifier}).
 \item \strong{File Existence Check}: It checks if all required dataset files exist
 using the \code{list_data} function. If any files are missing, an error message
 lists them.

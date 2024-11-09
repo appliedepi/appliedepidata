@@ -18,6 +18,9 @@
 #' @param group_identifier (optional) A string identifying a group of related 
 #' datasets. If provided, the function will return all datasets within the group 
 #' unless further criteria are given.
+#' @param usage (optional) A string representing where the datasets are used. 
+#' If provided, the function will return all datasets within the group unless 
+#' further criteria are given. 
 #' @param unique_identifier (optional) A string representing the unique identifier 
 #' for a dataset. 
 #' 
@@ -75,12 +78,14 @@
 get_data <- function(name = NULL, 
                      language = NULL, 
                      group_identifier = NULL, 
+                     usage = NULL,
                      unique_identifier = NULL) {
   
   # Step 1: Lookup dataset information based on provided criteria
   dataset_info <- lookup_dataset(name = name, 
                                  language = language, 
                                  group_identifier = group_identifier, 
+                                 usage = usage,
                                  unique_identifier = unique_identifier)
   
   # Step 2: Loop through each dataset found and load the corresponding .rda file
