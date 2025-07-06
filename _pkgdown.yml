@@ -21,6 +21,11 @@ reference:
   - Blocksshape
   - Quartiersshape
   
+- subtitle: Multidisease lab and surveillance data, Feveria (2024) - English
+  contents:
+  - multidisease_tests
+  - multidisease_notifications
+  
 - subtitle: Sitrep example datasets - English
   contents:
   - mortality_survey_data
