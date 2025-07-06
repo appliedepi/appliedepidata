@@ -6,5 +6,4 @@ file_path <- system.file("extdata", "multidisease_tests.csv", package = "applied
 # Read in the Excel file using rio
 multidisease_tests <- rio::import(file_path)
 
-# Interalise the data
 usethis::use_data(multidisease_tests, overwrite = TRUE)
