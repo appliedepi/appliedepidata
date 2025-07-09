@@ -1,0 +1,1315 @@
+laboratory_name,notification_id,sample_id,date_test,test,target,value
+Kasara University Hospital,0ca093,3c514a41,2024-08-26,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,3a6ba0,66a3b88b,2024-12-28,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,043228,d2271be0,2024-06-25,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,56dab6,f6b9c8ef,2024-08-02,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,85a239,a8d5227e,2024-06-03,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,939d4c,8e7107fb,2024-08-18,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,7b613c,977b1fa1,2024-01-16,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,1f749c,b1bc8113,2024-08-09,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,bfd95b,612c5e71,2024-08-18,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,2f9a1b,ccef58ec,2024-07-04,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,3fdd51,ac3856fd,2024-06-26,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,e5dd12,b2f089b6,2024-04-26,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,e02bb0,91e629d7,2024-06-23,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,d6077b,378cd968,2024-08-05,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,f99902,3644f768,2024-08-21,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,48ac3c,36c5b754,2024-06-23,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,0d3410,14225fbb,2024-08-16,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,3c67d5,322f08ad,2024-08-04,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,3024d2,bd28a502,2024-06-28,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,9f54bb,12c17646,2024-07-26,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,10a545,5cfc4141,2024-07-19,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,43e92b,64b5996b,2024-07-02,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,e29f9a,54d9a80c,2024-01-27,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,dfde8c,c64de7e5,2024-08-01,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,a68be0,1cd313c8,2024-11-18,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,8b55c4,1a52432e,2024-08-27,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,b555f1,c26e7d94,2024-03-10,IgM ELISA,Yellow Fever IgM,P
+Kasara University Hospital,8e9480,b7675fa2,2024-03-16,IgM ELISA,Yellow Fever IgM,P
+Kasara University Hospital,006f52,b41ab18c,2024-03-12,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,18e5f8,4b62dc89,2024-03-21,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,20bd1d,071255c1,2024-03-17,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,ca437c,ef01eec0,2024-03-15,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,70a5ff,e4643cec,2024-03-21,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,02469c,619867cc,2024-03-20,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,524407,38b53831,2024-03-23,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,75b7aa,8bae09a9,2024-03-22,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,492a1a,70b4e3e3,2024-07-18,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,656e04,686afdc3,2024-07-14,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,f84322,2883180d,2024-07-17,IgM ELISA,Yellow Fever IgM,I
+Feveria General Hospital,8f1812,20a1769b,2024-07-20,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,5098a6,718edec8,2024-08-01,IgM ELISA,Yellow Fever IgM,I
+Feveria General Hospital,951b47,f294cc24,2024-07-30,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,3f6df3,12dd34a1,2024-07-26,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,78f1ef,96c15ff4,2024-08-02,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,c61678,7b5d2266,2024-07-28,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,c060ed,d65d9a89,2024-07-31,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,02b161,63c13a3c,2024-07-30,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,ba3be2,6d1a611a,2024-08-12,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,d86c08,347b45d6,2024-08-04,IgM ELISA,Yellow Fever IgM,P
+Kasara University Hospital,6b2dbf,89e7d578,2024-08-10,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,ace95b,fe0270b4,2024-08-05,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,daee98,bc16346a,2024-08-08,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,644d51,a39a18f0,2024-08-13,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,b0a428,7f8557d7,2024-08-05,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,a4d318,228cc703,2024-08-14,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,c5f65e,056ae2a1,2024-08-09,IgM ELISA,Yellow Fever IgM,P
+Kasara University Hospital,e0cb28,e9b6e9cc,2024-08-14,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,577fea,d63b21f5,2024-08-17,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,aa8fc9,bc197281,2024-08-17,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,26a22f,445a51c9,2024-08-20,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,66004a,440cafc9,2024-08-19,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,9371c2,7f7cbc77,2024-08-23,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,66c60a,c2486697,2024-08-23,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,46c2c0,5bdc02dc,2024-08-22,IgM ELISA,Yellow Fever IgM,P
+Kasara University Hospital,e65aa4,8560bc0e,2024-08-19,IgM ELISA,Yellow Fever IgM,P
+Kasara University Hospital,0c4af7,ca4ca673,2024-08-21,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,f857ba,abbc837e,2024-08-21,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,049819,39a0b5a8,2024-08-22,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,9016ed,e7b6dae1,2024-08-23,IgM ELISA,Yellow Fever IgM,I
+Feveria General Hospital,473600,3e8b5bfa,2024-08-21,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,f21708,48b00313,2024-06-07,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,f21708,48b00313,2024-06-07,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,f21708,48b00313,2024-06-07,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,6a47a3,ca5e865b,2024-06-15,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,6a47a3,ca5e865b,2024-06-15,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,6a47a3,ca5e865b,2024-06-15,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,3bb418,e2a40669,2024-06-15,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,3bb418,e2a40669,2024-06-15,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,3bb418,e2a40669,2024-06-15,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,cb0bf7,87f92fc3,2024-06-15,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,cb0bf7,87f92fc3,2024-06-15,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,cb0bf7,87f92fc3,2024-06-15,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,68caf7,39104e73,2024-06-27,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,68caf7,39104e73,2024-06-27,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,68caf7,39104e73,2024-06-27,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,12699c,3910e692,2024-06-20,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,12699c,3910e692,2024-06-20,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,12699c,3910e692,2024-06-20,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,f42f62,38b3666a,2024-06-28,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,f42f62,38b3666a,2024-06-28,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,f42f62,38b3666a,2024-06-28,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,1eaa8e,1e36e63b,2024-06-27,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,1eaa8e,1e36e63b,2024-06-27,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,1eaa8e,1e36e63b,2024-06-27,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,c163c3,86144553,2024-06-29,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,c163c3,86144553,2024-06-29,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,c163c3,86144553,2024-06-29,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,fe80e1,231aa84d,2024-06-29,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,fe80e1,231aa84d,2024-06-29,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,fe80e1,231aa84d,2024-06-29,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,0b0e41,7fd1df57,2024-06-28,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,0b0e41,7fd1df57,2024-06-28,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,0b0e41,7fd1df57,2024-06-28,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,bd6056,53940426,2024-07-06,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,bd6056,53940426,2024-07-06,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,bd6056,53940426,2024-07-06,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,3c5d6d,99183f60,2024-07-07,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,3c5d6d,99183f60,2024-07-07,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,3c5d6d,99183f60,2024-07-07,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,4ac4a6,592804ec,2024-02-22,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,4ac4a6,592804ec,2024-02-22,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,4ac4a6,592804ec,2024-02-22,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,0e9a36,6014609c,2024-02-24,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,0e9a36,6014609c,2024-02-24,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,0e9a36,6014609c,2024-02-24,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,924d78,69d1f086,2024-03-06,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,924d78,69d1f086,2024-03-06,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,924d78,69d1f086,2024-03-06,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,1310dd,4dc1e87a,2024-02-28,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,1310dd,4dc1e87a,2024-02-28,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,1310dd,4dc1e87a,2024-02-28,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,b0889c,41848983,2024-02-26,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,b0889c,41848983,2024-02-26,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,b0889c,41848983,2024-02-26,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,b81d08,9df6dfb3,2024-03-02,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,b81d08,9df6dfb3,2024-03-02,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,b81d08,9df6dfb3,2024-03-02,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,c78b2f,55c2aa17,2024-03-08,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,c78b2f,55c2aa17,2024-03-08,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,c78b2f,55c2aa17,2024-03-08,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,bc695d,a7b61df2,2024-03-07,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,bc695d,a7b61df2,2024-03-07,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,bc695d,a7b61df2,2024-03-07,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,7302b1,d1e14a0a,2024-03-12,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,7302b1,d1e14a0a,2024-03-12,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,7302b1,d1e14a0a,2024-03-12,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,660871,f96d9eec,2024-03-08,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,660871,f96d9eec,2024-03-08,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,660871,f96d9eec,2024-03-08,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,f69b18,f8e3320c,2024-03-14,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,f69b18,f8e3320c,2024-03-14,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,f69b18,f8e3320c,2024-03-14,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,d69382,04782639,2024-03-17,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,d69382,04782639,2024-03-17,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,d69382,04782639,2024-03-17,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,0e8743,b96a6133,2024-03-16,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,0e8743,b96a6133,2024-03-16,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,0e8743,b96a6133,2024-03-16,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,e2b6f7,817b6c2d,2024-03-15,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,e2b6f7,817b6c2d,2024-03-15,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,e2b6f7,817b6c2d,2024-03-15,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,3dbe7e,6b81d98c,2024-03-16,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,3dbe7e,6b81d98c,2024-03-16,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,3dbe7e,6b81d98c,2024-03-16,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,e4e886,15f4f875,2024-03-22,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,e4e886,15f4f875,2024-03-22,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,e4e886,15f4f875,2024-03-22,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,a5d83a,cf1b049e,2024-03-14,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,a5d83a,cf1b049e,2024-03-14,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,a5d83a,cf1b049e,2024-03-14,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,2de9da,f290d156,2024-03-18,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,2de9da,f290d156,2024-03-18,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,2de9da,f290d156,2024-03-18,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,bcba49,9a033657,2024-01-19,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,bcba49,9a033657,2024-01-19,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,bcba49,9a033657,2024-01-19,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,681011,08de063f,2024-01-21,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,681011,08de063f,2024-01-21,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,681011,08de063f,2024-01-21,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,0abeae,8bc08488,2024-01-26,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,0abeae,8bc08488,2024-01-26,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,0abeae,8bc08488,2024-01-26,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,c4c20d,0110abcd,2024-01-31,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,c4c20d,0110abcd,2024-01-31,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,c4c20d,0110abcd,2024-01-31,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,a693e0,80b343ea,2024-02-06,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,a693e0,80b343ea,2024-02-06,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,a693e0,80b343ea,2024-02-06,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,ff72ab,b712aee3,2024-02-07,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,ff72ab,b712aee3,2024-02-07,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,ff72ab,b712aee3,2024-02-07,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,285f02,33f0cc95,2024-02-02,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,285f02,33f0cc95,2024-02-02,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,285f02,33f0cc95,2024-02-02,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,d05d31,81ae873c,2024-02-03,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,d05d31,81ae873c,2024-02-03,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,d05d31,81ae873c,2024-02-03,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,235302,ccb03295,2024-02-01,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,235302,ccb03295,2024-02-01,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,235302,ccb03295,2024-02-01,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,3a0c08,f2bc0112,2024-02-02,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,3a0c08,f2bc0112,2024-02-02,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,3a0c08,f2bc0112,2024-02-02,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,780680,e0cc6eb2,2024-02-11,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,780680,e0cc6eb2,2024-02-11,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,780680,e0cc6eb2,2024-02-11,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,e99d96,3909740f,2024-02-06,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,e99d96,3909740f,2024-02-06,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,e99d96,3909740f,2024-02-06,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,550007,59405640,2024-02-05,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,550007,59405640,2024-02-05,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,550007,59405640,2024-02-05,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,5cf91e,05d4d7be,2024-02-09,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,5cf91e,05d4d7be,2024-02-09,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,5cf91e,05d4d7be,2024-02-09,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,7fbd65,72c76d2d,2024-02-06,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,7fbd65,72c76d2d,2024-02-06,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,7fbd65,72c76d2d,2024-02-06,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,d6baaf,f08c5e2b,2024-01-31,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,d6baaf,f08c5e2b,2024-01-31,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,d6baaf,f08c5e2b,2024-01-31,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,1b055d,8108cdee,2024-02-14,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,1b055d,8108cdee,2024-02-14,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,1b055d,8108cdee,2024-02-14,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,064bf9,22efff69,2024-02-09,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,064bf9,22efff69,2024-02-09,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,064bf9,22efff69,2024-02-09,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,3184f5,cfc2855a,2024-02-13,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,3184f5,cfc2855a,2024-02-13,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,3184f5,cfc2855a,2024-02-13,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,79f881,116512af,2024-02-16,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,79f881,116512af,2024-02-16,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,79f881,116512af,2024-02-16,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,6445db,6b296d34,2024-02-06,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,6445db,6b296d34,2024-02-06,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,6445db,6b296d34,2024-02-06,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,88f191,60c10d96,2024-02-17,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,88f191,60c10d96,2024-02-17,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,88f191,60c10d96,2024-02-17,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,169a66,e870ddcb,2024-02-10,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,169a66,e870ddcb,2024-02-10,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,169a66,e870ddcb,2024-02-10,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,60b34a,1b0d13b5,2024-02-15,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,60b34a,1b0d13b5,2024-02-15,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,60b34a,1b0d13b5,2024-02-15,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,d3f2ed,92550461,2024-02-03,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,d3f2ed,92550461,2024-02-03,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,d3f2ed,92550461,2024-02-03,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,019045,f3e6abc8,2024-02-05,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,019045,f3e6abc8,2024-02-05,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,019045,f3e6abc8,2024-02-05,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,f3a2d5,ee5745bb,2024-02-05,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,f3a2d5,ee5745bb,2024-02-05,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,f3a2d5,ee5745bb,2024-02-05,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,b9d3c0,f2e7e685,2024-02-14,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,b9d3c0,f2e7e685,2024-02-14,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,b9d3c0,f2e7e685,2024-02-14,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,669e2f,d8edc302,2024-02-16,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,669e2f,d8edc302,2024-02-16,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,669e2f,d8edc302,2024-02-16,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,0adc3b,ab4e2e1d,2024-02-10,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,0adc3b,ab4e2e1d,2024-02-10,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,0adc3b,ab4e2e1d,2024-02-10,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,0e395c,90f8c9ae,2024-02-22,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,0e395c,90f8c9ae,2024-02-22,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,0e395c,90f8c9ae,2024-02-22,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,e6fb5a,68fb4b06,2024-02-13,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,e6fb5a,68fb4b06,2024-02-13,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,e6fb5a,68fb4b06,2024-02-13,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,67a608,825b5477,2024-07-04,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,67a608,825b5477,2024-07-04,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,67a608,825b5477,2024-07-04,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,e823f1,6af53c37,2024-07-11,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,e823f1,6af53c37,2024-07-11,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,e823f1,6af53c37,2024-07-11,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,eb097b,33365161,2024-07-03,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,eb097b,33365161,2024-07-03,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,eb097b,33365161,2024-07-03,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,4db568,8343bb54,2024-07-19,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,4db568,8343bb54,2024-07-19,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,4db568,8343bb54,2024-07-19,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,be72a9,882f71a1,2024-07-12,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,be72a9,882f71a1,2024-07-12,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,be72a9,882f71a1,2024-07-12,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,bbae79,aa5c9058,2024-07-11,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,bbae79,aa5c9058,2024-07-11,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,bbae79,aa5c9058,2024-07-11,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,431fb8,462fe457,2024-07-11,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,431fb8,462fe457,2024-07-11,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,431fb8,462fe457,2024-07-11,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,fa715c,6cdcc989,2024-07-14,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,fa715c,6cdcc989,2024-07-14,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,fa715c,6cdcc989,2024-07-14,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,c058db,a3d84c05,2024-07-12,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,c058db,a3d84c05,2024-07-12,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,c058db,a3d84c05,2024-07-12,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,0dbca5,8d83166f,2024-07-17,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,0dbca5,8d83166f,2024-07-17,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,0dbca5,8d83166f,2024-07-17,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,e56e55,d71119b8,2024-07-27,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,e56e55,d71119b8,2024-07-27,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,e56e55,d71119b8,2024-07-27,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,b40b08,933b0d58,2024-07-21,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,b40b08,933b0d58,2024-07-21,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,b40b08,933b0d58,2024-07-21,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,d9f9a1,4d505f2d,2024-07-11,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,d9f9a1,4d505f2d,2024-07-11,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,d9f9a1,4d505f2d,2024-07-11,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,4c5537,718157b7,2024-07-18,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,4c5537,718157b7,2024-07-18,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,4c5537,718157b7,2024-07-18,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,555d23,1dc11137,2024-07-17,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,555d23,1dc11137,2024-07-17,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,555d23,1dc11137,2024-07-17,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,131222,6a1aee6d,2024-07-23,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,131222,6a1aee6d,2024-07-23,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,131222,6a1aee6d,2024-07-23,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,ec79ff,caf6b8b8,2024-07-14,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,ec79ff,caf6b8b8,2024-07-14,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,ec79ff,caf6b8b8,2024-07-14,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,acacda,a51cf9e1,2024-07-12,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,acacda,a51cf9e1,2024-07-12,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,acacda,a51cf9e1,2024-07-12,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,397138,72fc7e1d,2024-07-24,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,397138,72fc7e1d,2024-07-24,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,397138,72fc7e1d,2024-07-24,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,c4b02c,247a6eda,2024-07-22,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,c4b02c,247a6eda,2024-07-22,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,c4b02c,247a6eda,2024-07-22,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,76eba7,fa404570,2024-07-30,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,76eba7,fa404570,2024-07-30,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,76eba7,fa404570,2024-07-30,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,489016,22ff71d5,2024-07-24,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,489016,22ff71d5,2024-07-24,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,489016,22ff71d5,2024-07-24,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,32f6ef,b8337923,2024-07-18,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,32f6ef,b8337923,2024-07-18,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,32f6ef,b8337923,2024-07-18,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,48d904,3ef29221,2024-07-17,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,48d904,3ef29221,2024-07-17,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,48d904,3ef29221,2024-07-17,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,d38394,b9a122b4,2024-07-25,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,d38394,b9a122b4,2024-07-25,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,d38394,b9a122b4,2024-07-25,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,dc5b43,71ee75ed,2024-07-31,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,dc5b43,71ee75ed,2024-07-31,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,dc5b43,71ee75ed,2024-07-31,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,df0960,0abf7e6f,2024-08-04,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,df0960,0abf7e6f,2024-08-04,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,df0960,0abf7e6f,2024-08-04,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,c6852a,b29382e2,2024-07-28,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,c6852a,b29382e2,2024-07-28,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,c6852a,b29382e2,2024-07-28,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,7b29a8,e92911b7,2024-07-17,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,7b29a8,e92911b7,2024-07-17,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,7b29a8,e92911b7,2024-07-17,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,170034,e914eeb7,2024-07-20,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,170034,e914eeb7,2024-07-20,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,170034,e914eeb7,2024-07-20,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,8d5ece,6d62f4de,2024-08-06,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,8d5ece,6d62f4de,2024-08-06,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,8d5ece,6d62f4de,2024-08-06,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,dfb980,558bcb29,2024-08-05,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,dfb980,558bcb29,2024-08-05,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,dfb980,558bcb29,2024-08-05,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,af257d,35d66464,2024-08-08,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,af257d,35d66464,2024-08-08,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,af257d,35d66464,2024-08-08,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,348877,fd2d00d4,2024-08-02,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,348877,fd2d00d4,2024-08-02,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,348877,fd2d00d4,2024-08-02,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,d1eb04,9b07527d,2024-03-11,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,d1eb04,9b07527d,2024-03-11,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,d1eb04,9b07527d,2024-03-11,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,28fd40,00b30781,2024-03-14,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,28fd40,00b30781,2024-03-14,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,28fd40,00b30781,2024-03-14,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,70f0f0,cb03d832,2024-03-18,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,70f0f0,cb03d832,2024-03-18,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,70f0f0,cb03d832,2024-03-18,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,9591e9,27b5c735,2024-03-14,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,9591e9,27b5c735,2024-03-14,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,9591e9,27b5c735,2024-03-14,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,d5980c,beecf331,2024-03-16,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,d5980c,beecf331,2024-03-16,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,d5980c,beecf331,2024-03-16,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,e64888,7d4e2235,2024-03-11,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,e64888,7d4e2235,2024-03-11,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,e64888,7d4e2235,2024-03-11,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,d4e165,b61bcf07,2024-03-06,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,d4e165,b61bcf07,2024-03-06,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,d4e165,b61bcf07,2024-03-06,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,915372,5214d8f3,2024-03-23,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,915372,5214d8f3,2024-03-23,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,915372,5214d8f3,2024-03-23,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,a13421,dde03ed7,2024-03-13,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,a13421,dde03ed7,2024-03-13,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,a13421,dde03ed7,2024-03-13,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,d0cd86,ba112bd8,2024-03-13,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,d0cd86,ba112bd8,2024-03-13,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,d0cd86,ba112bd8,2024-03-13,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,3e4b4e,2627b97f,2024-03-14,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,3e4b4e,2627b97f,2024-03-14,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,3e4b4e,2627b97f,2024-03-14,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,388cd9,13587a4e,2024-03-16,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,388cd9,13587a4e,2024-03-16,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,388cd9,13587a4e,2024-03-16,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,38c53e,0c3cd1c2,2024-09-15,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,38c53e,0c3cd1c2,2024-09-15,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,38c53e,0c3cd1c2,2024-09-15,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,5b2a4c,5e3115a6,2024-09-18,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,5b2a4c,5e3115a6,2024-09-18,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,5b2a4c,5e3115a6,2024-09-18,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,673ffd,4d76e249,2024-09-17,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,673ffd,4d76e249,2024-09-17,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,673ffd,4d76e249,2024-09-17,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,e09b30,b3bf1993,2024-09-23,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,e09b30,b3bf1993,2024-09-23,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,e09b30,b3bf1993,2024-09-23,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,123d68,4474b6cd,2024-09-20,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,123d68,4474b6cd,2024-09-20,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,123d68,4474b6cd,2024-09-20,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,a7d20c,744e35b7,2024-09-29,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,a7d20c,744e35b7,2024-09-29,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,a7d20c,744e35b7,2024-09-29,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,52a4ab,298196c6,2024-09-28,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,52a4ab,298196c6,2024-09-28,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,52a4ab,298196c6,2024-09-28,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,6f873d,646f687a,2024-07-04,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,6f873d,646f687a,2024-07-04,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,6f873d,646f687a,2024-07-04,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,d7db3d,234d142a,2024-07-11,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,d7db3d,234d142a,2024-07-11,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,d7db3d,234d142a,2024-07-11,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,1e2728,4ab7338b,2024-07-06,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,1e2728,4ab7338b,2024-07-06,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,1e2728,4ab7338b,2024-07-06,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,0c3b4d,d9fff618,2024-07-18,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,0c3b4d,d9fff618,2024-07-18,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,0c3b4d,d9fff618,2024-07-18,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,f124c2,36ad9183,2024-07-15,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,f124c2,36ad9183,2024-07-15,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,f124c2,36ad9183,2024-07-15,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,b4a9c8,88e7b5c2,2024-07-06,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,b4a9c8,88e7b5c2,2024-07-06,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,b4a9c8,88e7b5c2,2024-07-06,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,8d8b81,c4c13629,2024-07-26,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,8d8b81,c4c13629,2024-07-26,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,8d8b81,c4c13629,2024-07-26,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,606465,f32fa16d,2024-07-19,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,606465,f32fa16d,2024-07-19,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,606465,f32fa16d,2024-07-19,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,caf67d,012fb1ee,2024-07-30,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,caf67d,012fb1ee,2024-07-30,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,caf67d,012fb1ee,2024-07-30,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,e347bf,13495f7d,2024-07-22,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,e347bf,13495f7d,2024-07-22,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,e347bf,13495f7d,2024-07-22,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,05deb8,5868bded,2024-07-31,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,05deb8,5868bded,2024-07-31,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,05deb8,5868bded,2024-07-31,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,4639cc,4c447780,2024-07-19,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,4639cc,4c447780,2024-07-19,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,4639cc,4c447780,2024-07-19,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,4ea6e5,62f1f7b5,2024-07-13,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,4ea6e5,62f1f7b5,2024-07-13,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,4ea6e5,62f1f7b5,2024-07-13,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,a62176,d58e65d6,2024-08-03,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,a62176,d58e65d6,2024-08-03,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,a62176,d58e65d6,2024-08-03,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,a19c58,92ebeb1b,2024-07-24,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,a19c58,92ebeb1b,2024-07-24,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,a19c58,92ebeb1b,2024-07-24,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,f72124,29f0f73f,2024-07-23,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,f72124,29f0f73f,2024-07-23,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,f72124,29f0f73f,2024-07-23,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,caebee,80ff61e6,2024-07-26,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,caebee,80ff61e6,2024-07-26,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,caebee,80ff61e6,2024-07-26,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,a00ef1,4eb8e86a,2024-07-30,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,a00ef1,4eb8e86a,2024-07-30,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,a00ef1,4eb8e86a,2024-07-30,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,b4acf5,b2a8f546,2024-08-07,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,b4acf5,b2a8f546,2024-08-07,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,b4acf5,b2a8f546,2024-08-07,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,c106c9,0173140d,2024-08-04,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,c106c9,0173140d,2024-08-04,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,c106c9,0173140d,2024-08-04,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,9c9cd0,ea68922c,2024-08-09,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,9c9cd0,ea68922c,2024-08-09,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,9c9cd0,ea68922c,2024-08-09,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,74c328,247a6450,2024-08-12,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,74c328,247a6450,2024-08-12,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,74c328,247a6450,2024-08-12,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,8538f5,ac032374,2024-08-18,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,8538f5,ac032374,2024-08-18,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,8538f5,ac032374,2024-08-18,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,5dc8b4,925a8326,2024-08-11,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,5dc8b4,925a8326,2024-08-11,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,5dc8b4,925a8326,2024-08-11,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,b29ab1,ea5e8e8a,2024-08-11,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,b29ab1,ea5e8e8a,2024-08-11,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,b29ab1,ea5e8e8a,2024-08-11,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,8932ca,99e61c17,2024-08-17,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,8932ca,99e61c17,2024-08-17,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,8932ca,99e61c17,2024-08-17,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,3eaa1c,d0b3d3c3,2024-08-21,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,3eaa1c,d0b3d3c3,2024-08-21,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,3eaa1c,d0b3d3c3,2024-08-21,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,dcb0f3,6c386253,2024-08-21,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,dcb0f3,6c386253,2024-08-21,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,dcb0f3,6c386253,2024-08-21,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,5646f8,8ef8a4b6,2024-08-26,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,5646f8,8ef8a4b6,2024-08-26,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,5646f8,8ef8a4b6,2024-08-26,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,f5aa6a,bf628488,2024-08-23,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,f5aa6a,bf628488,2024-08-23,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,f5aa6a,bf628488,2024-08-23,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,5f8b24,d5826e15,2024-08-29,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,5f8b24,d5826e15,2024-08-29,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,5f8b24,d5826e15,2024-08-29,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,a6dddb,ec8b8717,2024-08-24,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,a6dddb,ec8b8717,2024-08-24,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,a6dddb,ec8b8717,2024-08-24,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,ddad1f,c196a30d,2024-08-05,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,ddad1f,c196a30d,2024-08-05,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,ddad1f,c196a30d,2024-08-05,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,a0f4e4,4ba62ea3,2024-08-08,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,a0f4e4,4ba62ea3,2024-08-08,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,a0f4e4,4ba62ea3,2024-08-08,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,b8228f,c5a8b853,2024-08-15,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,b8228f,c5a8b853,2024-08-15,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,b8228f,c5a8b853,2024-08-15,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,aa8bbf,fd6f80b7,2024-08-19,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,aa8bbf,fd6f80b7,2024-08-19,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,aa8bbf,fd6f80b7,2024-08-19,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,3b2d6e,bfd09120,2024-08-26,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,3b2d6e,bfd09120,2024-08-26,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,3b2d6e,bfd09120,2024-08-26,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,3c880d,f766f645,2024-08-31,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,3c880d,f766f645,2024-08-31,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,3c880d,f766f645,2024-08-31,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,fb1246,20b2af77,2024-08-23,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,fb1246,20b2af77,2024-08-23,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,fb1246,20b2af77,2024-08-23,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,237ad2,d015a298,2024-09-06,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,237ad2,d015a298,2024-09-06,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,237ad2,d015a298,2024-09-06,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,250437,2a642ef3,2024-11-08,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,250437,2a642ef3,2024-11-08,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,250437,2a642ef3,2024-11-08,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,3b09db,8b36ff91,2024-11-11,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,3b09db,8b36ff91,2024-11-11,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,3b09db,8b36ff91,2024-11-11,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,3b3364,bd017229,2024-11-13,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,3b3364,bd017229,2024-11-13,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,3b3364,bd017229,2024-11-13,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,cff63d,cb26177c,2024-11-13,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,cff63d,cb26177c,2024-11-13,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,cff63d,cb26177c,2024-11-13,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,1cb601,1aa49a70,2024-11-08,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,1cb601,1aa49a70,2024-11-08,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,1cb601,1aa49a70,2024-11-08,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,f3201e,b793ac9d,2024-11-14,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,f3201e,b793ac9d,2024-11-14,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,f3201e,b793ac9d,2024-11-14,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,06dc70,0656fc92,2024-11-10,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,06dc70,0656fc92,2024-11-10,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,06dc70,0656fc92,2024-11-10,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,aefa9c,1cb1f258,2024-11-10,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,aefa9c,1cb1f258,2024-11-10,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,aefa9c,1cb1f258,2024-11-10,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,feceac,82e33e6e,2024-11-14,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,feceac,82e33e6e,2024-11-14,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,feceac,82e33e6e,2024-11-14,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,f0f239,0479157f,2024-11-21,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,f0f239,0479157f,2024-11-21,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,f0f239,0479157f,2024-11-21,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,e5af6f,c34b117e,2024-11-18,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,e5af6f,c34b117e,2024-11-18,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,e5af6f,c34b117e,2024-11-18,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,e523c6,ca81b17b,2024-06-04,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,e523c6,ca81b17b,2024-06-04,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,e523c6,ca81b17b,2024-06-04,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,05ef38,96eb03cb,2024-06-06,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,05ef38,96eb03cb,2024-06-06,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,05ef38,96eb03cb,2024-06-06,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,3f0a12,031cc41b,2024-06-11,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,3f0a12,031cc41b,2024-06-11,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,3f0a12,031cc41b,2024-06-11,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,1363a5,b42b335b,2024-06-14,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,1363a5,b42b335b,2024-06-14,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,1363a5,b42b335b,2024-06-14,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,65f930,3f947d96,2024-06-22,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,65f930,3f947d96,2024-06-22,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,65f930,3f947d96,2024-06-22,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,133e93,9f7e7ce3,2024-06-16,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,133e93,9f7e7ce3,2024-06-16,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,133e93,9f7e7ce3,2024-06-16,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,081651,acd369cb,2024-06-13,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,081651,acd369cb,2024-06-13,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,081651,acd369cb,2024-06-13,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,0513df,470185d0,2024-06-12,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,0513df,470185d0,2024-06-12,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,0513df,470185d0,2024-06-12,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,9083ed,231164c6,2024-06-27,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,9083ed,231164c6,2024-06-27,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,9083ed,231164c6,2024-06-27,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,6b58ff,50864748,2024-06-26,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,6b58ff,50864748,2024-06-26,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,6b58ff,50864748,2024-06-26,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,b65d4c,a7879cb9,2024-06-12,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,b65d4c,a7879cb9,2024-06-12,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,b65d4c,a7879cb9,2024-06-12,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,26f0b8,cc2ac461,2024-06-19,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,26f0b8,cc2ac461,2024-06-19,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,26f0b8,cc2ac461,2024-06-19,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,2c99e9,b63a6400,2024-06-25,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,2c99e9,b63a6400,2024-06-25,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,2c99e9,b63a6400,2024-06-25,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,d7d17d,5bb76857,2024-06-25,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,d7d17d,5bb76857,2024-06-25,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,d7d17d,5bb76857,2024-06-25,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,9b2326,56076dd6,2024-06-27,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,9b2326,56076dd6,2024-06-27,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,9b2326,56076dd6,2024-06-27,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,b5c851,7f9592b6,2024-06-28,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,b5c851,7f9592b6,2024-06-28,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,b5c851,7f9592b6,2024-06-28,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,a77605,2f276450,2024-06-25,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,a77605,2f276450,2024-06-25,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,a77605,2f276450,2024-06-25,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,d411ed,2607a330,2024-04-11,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,d411ed,2607a330,2024-04-11,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,d411ed,2607a330,2024-04-11,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,21aca9,28906a80,2024-04-18,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,21aca9,28906a80,2024-04-18,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,21aca9,28906a80,2024-04-18,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,30b7e6,6896d627,2024-04-22,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,30b7e6,6896d627,2024-04-22,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,30b7e6,6896d627,2024-04-22,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,8db1d9,82b033b5,2024-04-24,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,8db1d9,82b033b5,2024-04-24,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,8db1d9,82b033b5,2024-04-24,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,381510,57222661,2024-04-28,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,381510,57222661,2024-04-28,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,381510,57222661,2024-04-28,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,93e02f,2baeca83,2024-04-29,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,93e02f,2baeca83,2024-04-29,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,93e02f,2baeca83,2024-04-29,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,367387,20ab6a99,2024-04-20,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,367387,20ab6a99,2024-04-20,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,367387,20ab6a99,2024-04-20,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,cac924,14919e02,2024-04-24,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,cac924,14919e02,2024-04-24,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,cac924,14919e02,2024-04-24,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,b39d23,bf16fab7,2024-05-01,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,b39d23,bf16fab7,2024-05-01,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,b39d23,bf16fab7,2024-05-01,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,6bade3,80cdd005,2024-04-26,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,6bade3,80cdd005,2024-04-26,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,6bade3,80cdd005,2024-04-26,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,71e52c,74c06a72,2024-04-27,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,71e52c,74c06a72,2024-04-27,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,71e52c,74c06a72,2024-04-27,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,2946c8,287e5835,2024-04-28,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,2946c8,287e5835,2024-04-28,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,2946c8,287e5835,2024-04-28,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,384bf3,16868e21,2024-05-02,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,384bf3,16868e21,2024-05-02,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,384bf3,16868e21,2024-05-02,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,9a2e9e,609190c5,2024-05-03,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,9a2e9e,609190c5,2024-05-03,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,9a2e9e,609190c5,2024-05-03,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,8ec3c6,e05cdaca,2024-05-04,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,8ec3c6,e05cdaca,2024-05-04,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,8ec3c6,e05cdaca,2024-05-04,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,b1de50,ffaf6509,2024-05-05,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,b1de50,ffaf6509,2024-05-05,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,b1de50,ffaf6509,2024-05-05,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,489af9,04120714,2024-05-09,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,489af9,04120714,2024-05-09,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,489af9,04120714,2024-05-09,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,d6ecca,b3ff37b5,2024-05-10,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,d6ecca,b3ff37b5,2024-05-10,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,d6ecca,b3ff37b5,2024-05-10,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,e04d55,966e0558,2024-05-07,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,e04d55,966e0558,2024-05-07,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,e04d55,966e0558,2024-05-07,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,929714,cc8f412a,2024-07-16,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,929714,cc8f412a,2024-07-16,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,929714,cc8f412a,2024-07-16,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,d4d67d,c8d484ea,2024-07-17,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,d4d67d,c8d484ea,2024-07-17,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,d4d67d,c8d484ea,2024-07-17,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,f9af18,a7425644,2024-07-13,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,f9af18,a7425644,2024-07-13,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,f9af18,a7425644,2024-07-13,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,236ea7,ada5a4a9,2024-07-25,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,236ea7,ada5a4a9,2024-07-25,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,236ea7,ada5a4a9,2024-07-25,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,6c654c,78f62846,2024-08-07,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,6c654c,78f62846,2024-08-07,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,6c654c,78f62846,2024-08-07,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,3c7ae0,a2633997,2024-07-30,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Kasara University Hospital,3c7ae0,a2633997,2024-07-30,Dengue NS1/IgG/IgM,Dengue IgG,N
+Kasara University Hospital,3c7ae0,a2633997,2024-07-30,Dengue NS1/IgG/IgM,Dengue IgM,P
+Feveria General Hospital,cd2aa5,e6c4c360,2024-08-10,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Feveria General Hospital,cd2aa5,e6c4c360,2024-08-10,Dengue NS1/IgG/IgM,Dengue IgG,N
+Feveria General Hospital,cd2aa5,e6c4c360,2024-08-10,Dengue NS1/IgG/IgM,Dengue IgM,P
+Kasara University Hospital,0ed3c7,db3484ad,2024-08-10,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,0ed3c7,db3484ad,2024-08-10,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,0ed3c7,db3484ad,2024-08-10,Dengue NS1/IgG/IgM,Dengue IgM,N
+Kasara University Hospital,5619c9,000e8eee,2024-08-07,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Kasara University Hospital,5619c9,000e8eee,2024-08-07,Dengue NS1/IgG/IgM,Dengue IgG,P
+Kasara University Hospital,5619c9,000e8eee,2024-08-07,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,b7d3b0,c9ae0db6,2024-08-14,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,b7d3b0,c9ae0db6,2024-08-14,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,b7d3b0,c9ae0db6,2024-08-14,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,700a01,9e376ffc,2024-08-18,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,700a01,9e376ffc,2024-08-18,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,700a01,9e376ffc,2024-08-18,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,6341c0,d51df57c,2024-08-12,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Feveria General Hospital,6341c0,d51df57c,2024-08-12,Dengue NS1/IgG/IgM,Dengue IgG,P
+Feveria General Hospital,6341c0,d51df57c,2024-08-12,Dengue NS1/IgG/IgM,Dengue IgM,N
+Feveria General Hospital,923f76,6c345f9e,2024-01-10,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,5a562a,ca4630ee,2024-01-11,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,7c4005,96656419,2024-01-17,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,7b613c,3544cd27,2024-01-09,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,c9811d,fb503260,2024-01-10,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,e29f9a,7bbc6ece,2024-01-20,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,b7a09d,89ef07fb,2024-01-13,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,8ae840,5a9ab6a9,2024-01-20,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,b6a187,1188b77e,2024-01-19,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,19dd70,9a4c1c57,2024-01-30,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,c1e0a7,e3284b5e,2024-02-01,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,4884b1,a546caf4,2024-02-08,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,605377,5e5fce2f,2024-02-10,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,6d0b09,46a82449,2024-02-18,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,5eaf6e,888dda0f,2024-02-24,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,781f25,1941c697,2024-02-23,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,37bd3e,4e7b2486,2024-03-03,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,5dc682,72d1a952,2024-03-06,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,60beb1,640f44ea,2024-02-29,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,2b1c1a,115675c6,2024-03-14,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,1470bf,c3a52a88,2024-03-24,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,6d80be,b5834d7f,2024-07-18,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,d9cfec,72bbfe07,2024-08-08,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,651199,396a80a2,2024-07-27,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,eb865d,e45de38b,2024-08-13,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,452113,91bdd333,2024-08-09,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,fb90a0,87aafbc6,2024-08-13,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,8b55c4,73b3ac74,2024-08-20,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,8d288e,d1529d4e,2024-08-24,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,d63a01,95e3c9e1,2024-09-02,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,b8a157,c7707a9e,2024-09-08,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,83ac01,4128d116,2024-09-18,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,a7e73a,7ebcee22,2024-09-02,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,08a0b3,b495056a,2024-02-21,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,09c47f,026fd740,2024-02-14,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,576202,b6524f2b,2024-02-24,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,23fb00,5c725510,2024-03-01,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,d39d06,2487a0d4,2024-03-01,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,93c0dd,0961f599,2024-02-28,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,76ece4,3e12835d,2024-02-29,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,165809,14a64d61,2024-02-21,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,3deb54,d92b7819,2024-02-12,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,ebe3f8,b90ae96d,2024-02-17,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,e31ce3,8c03fbaa,2024-02-24,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,d717b0,23b7088b,2024-03-06,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,c7ebbf,56578a86,2024-03-11,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,9d8bee,2bd2d5eb,2024-03-27,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,0f9ee5,dd64868d,2024-03-02,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,617b13,122f3969,2024-03-11,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,870578,10442bae,2024-02-20,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,83432d,7c2b0336,2024-03-04,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,0ee2a5,3d31e48f,2024-02-23,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,af92fd,d4486201,2024-03-08,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,b2f09d,778295c7,2024-04-13,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,6ea65a,6603b4ad,2024-03-24,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,598cbb,d5baf3c5,2024-03-16,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,804a1e,23ee2633,2024-03-22,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,64cd66,d054283a,2024-02-29,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,f2641b,2bf329c7,2024-03-20,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,97b942,7075e14e,2024-03-06,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,5974fc,2e66aa17,2024-03-30,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,9707e2,89299f98,2024-04-21,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,e5dd12,15d07214,2024-04-19,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,f70e94,6bc84f2c,2024-05-11,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,1d3442,af528729,2024-05-07,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,113551,bf2f1637,2024-06-13,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,213380,05625b27,2024-05-17,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,9dd1ff,c35ef8cf,2024-06-14,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,54a5ec,c93ea4eb,2024-07-04,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,6bf66b,a5393661,2024-06-19,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,62dc4b,73150539,2024-06-02,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,969c2f,0ecfa44a,2024-05-29,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,ef161c,423fcf2b,2024-05-31,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,ae76fc,4b10a94e,2024-06-20,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,5d795f,8de608bf,2024-06-21,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,05189d,119d46ce,2024-06-19,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,1e0113,597cc557,2024-07-06,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,f1cef6,4e7d7417,2024-07-04,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,5f9bf2,38568849,2024-06-05,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,fd9808,d38406e7,2024-07-23,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,93839a,5bcfc6ec,2024-07-11,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,aac6c5,e946dc20,2024-07-11,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,232861,902847c6,2024-07-05,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,489907,62a92936,2024-07-13,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,9f806c,a45080b3,2024-07-12,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,101195,84a42eca,2024-06-23,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,2ad411,7c4b08b7,2024-06-14,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,e27bad,7feeee72,2024-06-14,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,c27381,a481d16e,2024-06-10,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,fe2cff,1252b847,2024-08-05,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,d21160,b293e03a,2024-08-07,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,62dc2d,c165aff6,2024-07-20,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,8b96f4,e3c4f507,2024-07-19,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,1986db,bf59a019,2024-07-19,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,5d6e35,1805495d,2024-07-20,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,a6871f,8d1aed53,2024-07-10,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,057077,35bbf236,2024-07-10,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,658dbf,94c0f37c,2024-06-26,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,2b501b,e1dde0cb,2024-06-29,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,93a0d9,895560b5,2024-06-11,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,e02bb0,b23af771,2024-06-16,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,b90316,b93a6242,2024-07-02,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,dfde8c,aeee797d,2024-07-25,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,e6f8bc,29031a48,2024-08-10,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,ca0fb0,a7dfed3c,2024-08-02,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,913446,a69b7ecf,2024-08-02,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,ba06fe,f8c05323,2024-08-09,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,41a32a,e7a90191,2024-08-10,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,b89d63,eef4bfdd,2024-08-16,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,410fa8,9aa82962,2024-08-10,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,b5f9ba,e09c6fef,2024-09-06,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,21d5e1,9247daec,2024-08-23,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,77b388,a414d9a7,2024-09-04,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,2e64d3,19494c28,2024-08-22,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,534ef9,00b56d18,2024-09-20,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,17452b,2afdf5d5,2024-06-05,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,3024d2,d625e204,2024-06-21,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,752206,92b6f228,2024-06-27,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,7657ba,27507f9d,2024-06-22,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,381a12,ae46ac73,2024-06-30,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,66c087,59a6ec57,2024-07-11,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,f02cef,25801b1a,2024-06-27,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,51d32e,8700a222,2024-06-23,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,502931,80f0dfb2,2024-07-20,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,2c6560,e70a0be0,2024-07-11,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,639d35,7a01f085,2024-07-18,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,2f9a1b,3aff5beb,2024-06-27,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,7b0903,eb41655f,2024-07-03,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,07405f,3aabcc69,2024-07-02,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,84e119,4aae59e2,2024-06-29,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,e7a739,f017ae1f,2024-07-25,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,110ffa,54c627a8,2024-07-11,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,d0a798,c9e3f75d,2024-07-11,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,272d19,8ceff0f2,2024-07-22,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,857656,4f3d65d3,2024-07-21,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,10a545,6b1777b3,2024-07-12,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,fa1206,95ae7a70,2024-07-12,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,d7f4af,238ca0d5,2024-07-10,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,787fa9,3091d1a1,2024-08-03,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,4b18bc,e27cd44c,2024-07-14,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,e2207e,d2f9fc7e,2024-07-16,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,29374c,21f99e14,2024-07-21,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,1c808a,0afa508f,2024-07-09,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,337beb,f05482ff,2024-07-14,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,2ba1c6,78b021a2,2024-07-23,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,5f1544,f8157728,2024-08-07,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,eb381a,66eb5b30,2024-08-06,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,036d68,bab53189,2024-08-18,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,9b36d1,52a4ac8f,2024-07-26,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,494b91,467d63c8,2024-08-02,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,c09912,e379452d,2024-07-26,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,e02148,16fd6644,2024-07-20,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,374b3c,bc236295,2024-07-27,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,999a65,812c9fa0,2024-07-18,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,2431ae,8b459d66,2024-07-29,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,a5f348,6c354881,2024-08-03,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,88791e,517f60f7,2024-08-01,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,b9911e,2bdf9bf8,2024-07-24,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,b48c8a,6a2a461b,2024-07-23,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,285646,9ee035de,2024-07-26,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,2f964f,e78786b8,2024-07-13,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,9fa767,f106cba4,2024-08-08,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,5f5f17,cfd98919,2024-07-17,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,2b7947,93bf3a28,2024-08-11,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,6125e8,4e36539f,2024-07-26,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,50cc8c,f8f69f52,2024-08-13,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,296de5,c85e6c47,2024-09-10,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,4e0cdb,fc7717ad,2024-09-20,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,48cd30,a9a71657,2024-11-09,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,54e25d,c34e1171,2024-11-07,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,85b379,4e78e4ba,2024-11-20,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,e6d5f0,2a603f51,2024-11-23,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,447d62,c5da81a1,2024-12-01,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,e98dc3,1f06482a,2024-12-21,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,56f33e,0387a088,2024-12-26,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,b02c40,52ba933a,2024-12-19,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,d2eb1f,2b76d108,2024-11-03,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,6d786c,97820714,2024-11-12,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,34d805,97a8c94b,2024-11-15,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,88273f,9416fa96,2024-11-21,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,e3b323,cf7027c2,2024-11-18,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,3c11db,ee55e654,2024-11-15,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,a68be0,8328ab45,2024-11-11,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,495f04,f986cfde,2024-11-28,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,f3264c,0d167898,2024-11-28,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,0a1863,01938ee7,2024-11-28,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,55db58,c6dc9a98,2024-11-29,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,1b0b7c,da72c0cb,2024-12-12,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,2c89ec,08e145dd,2024-12-04,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,e66ba7,6a34e1d6,2024-12-14,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,d4e40d,ce233d94,2024-12-06,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,ede060,40cbc3ad,2024-12-22,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,d55d3c,3d9b34cf,2024-12-11,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,3718e1,2dd2f19f,2024-12-06,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,ec89fe,de400250,2024-12-12,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,46dcb7,220c254c,2024-12-28,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,3e718d,77e18468,2024-12-13,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,966a87,fa4510d8,2024-12-24,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,0e50a6,3ebc7380,2024-11-24,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,08b5c6,2e3784e3,2024-12-13,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,8efaec,da7980e1,2024-12-09,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,176e96,090f7d31,2024-12-21,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,d0e94e,41d73504,2024-12-19,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,515c16,49919760,2024-12-25,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,3666ed,3a8615fc,2024-07-17,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,74d2ad,b11e03f6,2024-07-27,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,168c69,b3337999,2024-07-29,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,d29b50,43e48e5d,2024-08-03,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,f28179,e928a440,2024-08-31,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,ecdb52,ef702c72,2024-08-02,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,fc5b7d,7a0164e9,2024-09-10,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,c97a58,8cf8b6b2,2024-08-07,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,ecbc38,6b83ea75,2024-09-12,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,92896f,675c774c,2024-09-27,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,6d73a4,785d9f40,2024-10-09,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,6726ab,a690e6d9,2024-10-01,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,90f0b1,fa3920a6,2024-10-13,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,11fbba,30069afc,2024-10-25,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,69bf48,2170b43d,2024-10-26,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,7a4c29,0a24eabf,2024-10-04,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,6336fc,26805901,2024-10-19,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,ca16cc,8204eebc,2024-10-19,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,75a5cd,157461cc,2024-10-22,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,acd22c,378af9ab,2024-11-23,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,de0517,50cc6f88,2024-10-20,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,af211a,6985ce6b,2024-10-27,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,b28163,58831007,2024-07-24,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,629dc3,ebca3808,2024-08-01,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,19515e,f335c993,2024-08-05,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,8df2b5,5a30dd40,2024-07-26,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,9d1ce9,e786c230,2024-08-12,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,b5a5c9,d06ddfd7,2024-08-05,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,d75532,4d0c5dd8,2024-08-03,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,a2172d,6f740bad,2024-08-09,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,be88f5,d6cd8658,2024-07-28,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,2348ad,353c8108,2024-08-02,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,98854d,58fc0acd,2024-07-31,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,00399b,fa733332,2024-08-14,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,793e85,5bf9fe71,2024-08-15,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,1a8c48,11a46646,2024-08-11,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,a8be7b,b37cb5ed,2024-08-09,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,e50aa4,9b551097,2024-08-20,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,802b33,9b865852,2024-08-15,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,8452d3,0814b505,2024-08-10,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,f4d3d6,45465a92,2024-08-11,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,172ade,de5b377b,2024-08-01,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,370a28,67eb2ac9,2024-08-13,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,0ca093,782add62,2024-08-19,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,2a9d75,e574bf40,2024-08-16,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,07db51,d8ce2238,2024-08-29,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,0abfc7,d0b6c724,2024-08-24,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,e7e79e,c1def8c1,2024-08-26,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,e04b05,bddcbf6c,2024-08-22,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,9006dc,3147d208,2024-08-14,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,662498,0e95ea44,2024-08-07,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,f054e1,d07297e1,2024-08-15,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,711eca,bae4af8b,2024-08-18,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,57eee7,5aad604b,2024-08-22,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,a69008,b4976a35,2024-08-12,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,4b41bc,806a6282,2024-08-10,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,022205,27783683,2024-08-19,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,347b99,3f55fa4e,2024-08-07,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,27b0c6,7366a3fe,2024-08-18,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,6d6dc1,74707c73,2024-08-17,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,1c2f9c,a010fbf2,2024-08-14,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,d3d40c,3b14a17f,2024-07-11,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,4c691f,eb055fdb,2024-07-24,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,de5635,1e2f438a,2024-08-01,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,bc6e76,4a535206,2024-07-21,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,2aa1d8,966040a6,2024-08-09,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,0d3410,86ff8c82,2024-08-09,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,af08e7,96e5d5e4,2024-08-08,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,33e31a,dfbacfbb,2024-08-13,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,5522b6,5ced3413,2024-01-05,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,177074,cf966903,2024-01-16,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,0443d8,a001aa88,2024-01-09,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,e4fd59,1f9fb756,2024-01-20,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,e98bc5,ae4e8d3c,2024-01-20,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,9a7e2b,4a58ff5e,2024-01-09,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,f30804,2a395e89,2024-01-17,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,02cb9e,b9b07273,2024-01-30,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,5db3c2,2324bb15,2024-01-20,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,ebcf47,2e9d31a5,2024-07-17,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,4f79f4,e50e8812,2024-07-24,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,8bbef1,c5274f55,2024-08-02,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,b17a88,052c924a,2024-07-29,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,fd341d,1ce8afd0,2024-07-18,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,3a8672,9047f8b1,2024-08-02,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,1f749c,e1356273,2024-08-02,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,3f1c05,6eb29ee2,2024-07-28,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,3efc0b,c531ee59,2024-08-03,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,fd6394,dfe427b4,2024-08-10,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,5e5e48,dd0634fc,2024-08-15,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,d9eb37,7dca1871,2024-08-20,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,52ab47,2e5f5781,2024-08-10,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,feb7bd,e1156c03,2024-08-13,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,ee395a,dd7a9798,2024-08-14,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,043f70,0e473765,2024-08-24,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,36bc6e,ad6425d1,2024-08-17,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,d65ddd,9da5bd78,2024-08-20,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,8d555a,355294bf,2024-08-22,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,217ea8,e84c2e16,2024-08-28,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,ecbc45,dfbeac12,2024-09-14,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,0bdc5e,fd563dd2,2024-09-17,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,b70637,d5ae0e69,2024-09-24,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,f54a23,70f085aa,2024-09-20,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,3db431,863e39c3,2024-09-17,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,f9becf,7c74e2f2,2024-09-24,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,fdfc81,fc43ed7b,2024-10-19,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,36f0e9,c5bcfc63,2024-10-07,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,436876,e3cc28ab,2024-09-29,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,4ed590,94820870,2024-10-14,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,cebb88,779cc190,2024-10-01,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,f907bd,954ac645,2024-11-09,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,648bd2,34db23cd,2024-11-03,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,853bca,ed842276,2024-10-25,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,b39b78,ae07d033,2024-11-09,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,954d6f,26950481,2024-11-10,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,1525b9,a689d2b9,2024-11-11,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,946d7f,f4797a49,2024-04-22,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,1cce56,acc86bc3,2024-05-02,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,b602de,9d4be34e,2024-04-18,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,96aafa,7f9ff57f,2024-05-23,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,f7b613,4d5fb19c,2024-05-15,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,cc7a97,b669ca01,2024-05-22,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,1ab239,d39dcc7e,2024-05-25,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,05fd3d,8ac3e8eb,2024-06-01,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,70850c,94b00233,2024-04-19,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,d86011,82de3e2d,2024-04-20,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,46c1b3,4ca45c5b,2024-04-24,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,88b17e,ab72b30d,2024-04-20,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,76b3ed,94ded2af,2024-05-09,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,428ef0,a8f976ed,2024-05-03,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,774ed2,836f0ebf,2024-05-09,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,7d82de,7aab40c6,2024-05-10,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,470a75,826cda92,2024-05-16,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,6a992d,c62c82cd,2024-05-20,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,30c659,5ee16ed8,2024-05-19,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,604bd0,715c6ee7,2024-06-10,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,3f90c1,0764d95a,2024-05-20,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,7cef6f,c14a2a20,2024-06-15,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,48ac3c,07add683,2024-06-16,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,99b345,ecefe09a,2024-07-13,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,4d126e,1230d874,2024-08-22,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,365bdf,f1fa9564,2024-09-06,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,a0c6a5,9330e143,2024-09-16,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,fed351,24e2e758,2024-09-25,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,a2c3ce,a66f6a8f,2024-10-03,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,e55895,79c06b82,2024-10-13,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,e15b53,8de7ad45,2024-10-14,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,7455fb,0eaf18a0,2024-10-22,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,6b67aa,9ec93fc8,2024-05-28,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,df893c,16f1f60c,2024-06-05,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,b58063,66b68fc5,2024-05-27,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,db7923,1181a9b9,2024-06-17,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,a05825,5fa2687b,2024-06-01,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,c22374,bf3c7764,2024-06-02,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,9c5dc9,f0c2e719,2024-06-26,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,a3b7a7,c6294a19,2024-06-21,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,9a2d9a,029a1286,2024-06-01,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,85a239,042a7c2f,2024-05-27,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,aae10f,74b62e96,2024-06-09,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,005c85,6c9c8346,2024-06-07,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,9914ea,df5900f4,2024-06-07,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,439d00,20260f57,2024-07-05,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,acadd3,727e932f,2024-07-05,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,f86152,1fe183ff,2024-06-28,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,906537,c573ce5c,2024-06-23,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,7b8398,0c1dcfd6,2024-06-18,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,85792e,fd572b25,2024-07-02,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,1aba03,2f3b6b42,2024-07-02,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,02d0b9,f72f5a95,2024-06-14,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,ee7b3d,559ddf59,2024-06-18,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,b2d374,74515c4e,2024-06-22,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,2fb1ac,746bdf2a,2024-07-02,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,043228,27c37cd8,2024-06-18,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,cff5e9,82780569,2024-07-19,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,bab2bc,accdc444,2024-07-10,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,6cbc59,e07ef53e,2024-07-05,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,938e0f,ef90acc0,2024-06-30,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,48aa8a,461584ba,2024-06-24,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,4dcbef,ed6fd6d3,2024-06-30,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,d7c22b,7d8f0b69,2024-07-14,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,28c72e,3c3db4f7,2024-07-10,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,f49b70,a07c4feb,2024-07-02,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,e07a8d,c6ff9b98,2024-06-30,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,a6a44f,e605c432,2024-07-09,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,bf779e,c4590c0d,2024-07-11,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,744474,bf9cd25a,2024-07-12,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,d62be8,63870dda,2024-06-25,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,17b456,30f85c81,2024-07-15,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,63745b,d6db0a33,2024-07-01,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,3838fc,c3c41132,2024-07-12,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,692896,b305e46e,2024-07-08,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,445fee,bd1861a3,2024-06-14,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,edae97,345501ab,2024-07-03,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,45e7fb,ce007efe,2024-07-06,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,27b53c,0684e062,2024-06-29,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,b9d6b7,41ab2c82,2024-07-06,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,cf2f4b,fecce562,2024-07-01,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,dcc043,39312782,2024-07-06,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,aa17ef,913684d6,2024-07-07,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,7e155a,59f0882d,2024-07-01,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,43e92b,a066a664,2024-06-25,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,3fdd51,ed82c4af,2024-06-19,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,b92c40,fee9e7e6,2024-06-15,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,35145b,2a6238e5,2024-06-22,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,dc824e,11b32b45,2024-06-20,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,d726ea,456828ff,2024-09-16,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,6b03f6,9281471f,2024-09-11,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,50ecfd,aeb96d0a,2024-10-23,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,fd96f2,f58fd6d0,2024-10-14,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,258dbf,a432f733,2024-09-21,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,6ac6f2,528fa4a1,2024-10-17,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,e98ce9,a99bc831,2024-10-18,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,555671,60601b8a,2024-10-23,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,bccf48,1307b8c7,2024-12-23,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,dfd716,3ef9b224,2024-11-26,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,2539b0,5788c28c,2024-12-10,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,593f34,89cbae61,2024-12-07,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,3a6ba0,b41d7baf,2024-12-21,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,a014cb,2570756e,2024-07-20,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,d6077b,cf2fbb73,2024-07-29,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,fc7c80,a4a3aac7,2024-07-19,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,993d7d,fe9cc0c1,2024-07-24,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,687591,0a80d1f4,2024-07-26,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,bea308,bafef2cf,2024-07-31,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,3cf60a,9417f0c7,2024-07-26,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,a7686c,ece26bd2,2024-08-03,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,939d4c,ec76281d,2024-08-11,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,336521,7ba17bb6,2024-08-10,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,51015f,3a7b0649,2024-08-15,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,b55e73,b28a5866,2024-08-20,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,9113f5,5a44f012,2024-08-10,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,f23b4c,88f93179,2024-08-23,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,3f4a7e,8880cd85,2024-08-27,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,da5ade,174c3003,2024-09-03,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,1baf79,94f785b9,2024-08-19,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,b2dd6e,549686e2,2024-08-22,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,d7ed14,131ff552,2024-08-29,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,5e61ce,a80ed7e6,2024-09-06,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,9aab30,6a0a3684,2024-09-12,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,6abe2e,baeb9e93,2024-09-05,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,d0f15e,1b18df3e,2024-09-17,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,af5ce1,6dcf4ebb,2024-09-03,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,4a7d22,36bdc590,2024-09-17,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,eb7361,b8d8862d,2024-10-12,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,11458e,8044f22a,2024-10-21,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,9f54bb,cc5ff964,2024-07-19,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,de775a,1b8ad0dc,2024-07-27,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,fcee63,7e8e7e55,2024-07-25,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,3a560d,7f9c9abc,2024-07-31,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,3c67d5,5e519c3e,2024-07-28,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,f99902,4f86979e,2024-08-14,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,bfd95b,fbb73922,2024-08-11,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,b3af52,775f2acf,2024-07-11,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,56dab6,414d3057,2024-07-26,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,ad70f1,001e1878,2024-07-23,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,be6873,1a898afb,2024-08-03,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,fc169b,5893c50f,2024-07-29,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,30ffff,bdc6a9fd,2024-08-07,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,ac943f,3d3e539e,2024-08-09,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,a45d44,8cbc8690,2024-08-13,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,8f1567,a2b11001,2024-08-08,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,be12b1,c3836495,2024-08-20,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,c1000a,955bdb62,2024-08-17,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,fd4c3c,255d7a1f,2024-08-21,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,505a0e,5083f614,2024-08-21,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,e2bc95,a8ae6045,2024-09-04,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,6297f8,c3c125c4,2024-08-30,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,5da953,124ec57a,2024-10-17,Whole Blood Microscopy,Plasmodium,P
+Kasara University Hospital,9923b3,a00debe5,2024-09-04,Whole Blood Microscopy,Plasmodium,P
+Feveria General Hospital,d73444,654a10de,2024-10-19,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,8a8a8a,5e98fe8c,2024-09-06,Whole Blood Microscopy,Plasmodium,I
+Kasara University Hospital,a5bcb8,ad610930,2024-10-03,Whole Blood Microscopy,Plasmodium,N
+Feveria General Hospital,053591,6753fe76,2024-10-25,Whole Blood Microscopy,Plasmodium,N
+Kasara University Hospital,9195be,7897b7ff,2024-09-21,Whole Blood Microscopy,Plasmodium,I
+Feveria General Hospital,893b4d,24f5d647,2024-03-11,IgM ELISA,Yellow Fever IgM,I
+Feveria General Hospital,837ad9,77bb1297,2024-03-16,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,38e446,661fa56c,2024-03-12,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,aa5382,20c25cbd,2024-03-20,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,4f4397,1a1cfbeb,2024-03-14,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,a2ba65,d190a31e,2024-03-21,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,654a17,8b1da278,2024-03-22,IgM ELISA,Yellow Fever IgM,P
+Kasara University Hospital,688bfe,ca760f1b,2024-03-23,IgM ELISA,Yellow Fever IgM,I
+Kasara University Hospital,cb13f8,5894f3b5,2024-03-21,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,3ed9d8,d6ab5d8b,2024-07-07,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,500cee,d77aa243,2024-07-15,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,90550f,be46c91c,2024-07-13,IgM ELISA,Yellow Fever IgM,I
+Feveria General Hospital,a1ca45,2e6b0558,2024-07-23,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,95a2d9,42f73e9f,2024-07-22,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,d6747f,725fed0f,2024-07-26,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,4589ad,c828dafc,2024-08-02,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,10e439,ff870612,2024-08-01,IgM ELISA,Yellow Fever IgM,I
+Feveria General Hospital,01b19d,ebed2af4,2024-07-28,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,c07736,b6c48e24,2024-08-01,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,72e137,248f639b,2024-07-31,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,01e281,dc43c8d3,2024-08-02,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,6edce7,34c9e8b1,2024-07-31,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,16512f,23ac376f,2024-08-11,IgM ELISA,Yellow Fever IgM,P
+Kasara University Hospital,2de739,c4205384,2024-08-05,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,dbc23b,f95dd37b,2024-08-09,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,f9de79,67c158e3,2024-08-07,IgM ELISA,Yellow Fever IgM,P
+Kasara University Hospital,9756cd,64915987,2024-08-09,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,d2e956,9904b763,2024-08-07,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,92490d,ccded431,2024-08-12,IgM ELISA,Yellow Fever IgM,I
+Kasara University Hospital,7c835f,6c6596ca,2024-08-15,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,f8c3f8,f551c680,2024-08-13,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,568483,146001ed,2024-08-11,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,dd1fb8,fa6dbe81,2024-08-16,IgM ELISA,Yellow Fever IgM,P
+Kasara University Hospital,f89a5a,e6c4fef0,2024-08-18,IgM ELISA,Yellow Fever IgM,P
+Feveria General Hospital,8e0196,ea3e0c5a,2024-08-18,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,5e621e,27aedd54,2024-08-20,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,444108,e194b26d,2024-08-27,IgM ELISA,Yellow Fever IgM,P
+Kasara University Hospital,d53235,394cea9e,2024-08-20,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,95a2e2,ae1090c9,2024-08-17,IgM ELISA,Yellow Fever IgM,I
+Feveria General Hospital,38e7a7,c1e08494,2024-08-25,IgM ELISA,Yellow Fever IgM,N
+Kasara University Hospital,68fb64,f8b6730a,2024-08-19,IgM ELISA,Yellow Fever IgM,I
+Kasara University Hospital,902b3d,995e0b64,2024-08-24,IgM ELISA,Yellow Fever IgM,P
+Kasara University Hospital,6ce9d2,edf77541,2024-08-21,IgM ELISA,Yellow Fever IgM,P
+Kasara University Hospital,5d713f,c10654ac,2024-08-22,IgM ELISA,Yellow Fever IgM,N
+Feveria General Hospital,4f4fa9,bc3616b8,2024-06-04,Stool Culture,V. cholerae bacteria,I
+Feveria General Hospital,6990f8,bbdf0ae8,2024-06-05,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,a0e59e,e8b53814,2024-06-05,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,6445a7,dcd57ef5,2024-06-10,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,36967d,41788ca2,2024-06-06,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,72cfcd,6fd8859f,2024-06-15,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,b3c73d,a15a7343,2024-06-16,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,5404f0,53cf5d7a,2024-06-13,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,a90adb,4b4f77d5,2024-06-21,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,80070d,d596ca17,2024-07-09,Stool Culture,V. cholerae bacteria,N
+Feveria General Hospital,743f24,cd992c61,2024-07-07,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,217425,657b8a09,2024-07-02,Stool Culture,V. cholerae bacteria,I
+Feveria General Hospital,2f9ce4,1f6964ef,2024-07-14,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,6bf94d,b13a0827,2024-07-05,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,e534d7,bf08de62,2024-07-16,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,1a7fc3,564eb97b,2024-07-13,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,0f5755,56c1224f,2024-07-17,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,32d67a,4c23b110,2024-07-16,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,b323a0,3564eb85,2024-07-20,Stool Culture,V. cholerae bacteria,I
+Feveria General Hospital,0fbf20,005f39af,2024-07-17,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,1c9109,1153cf40,2024-07-21,Stool Culture,V. cholerae bacteria,N
+Feveria General Hospital,39230a,8e7e5fe6,2024-07-20,Stool Culture,V. cholerae bacteria,I
+Feveria General Hospital,4351d2,d60d640c,2024-07-27,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,8b93b0,3a6ba50a,2024-07-28,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,e28335,c2252c01,2024-07-24,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,2973b6,e7b5e36e,2024-07-28,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,8eb134,bae7f932,2024-07-30,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,d7f9d9,ed2c9ca5,2024-07-30,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,57abd4,95c59fb0,2024-07-31,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,b310d2,59748b15,2024-08-08,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,a46125,a8c835fc,2024-09-14,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,7d5583,1fb60620,2024-09-12,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,7ffaee,843de9b5,2024-09-12,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,a36466,056e980c,2024-09-13,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,a60899,ad683367,2024-09-12,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,395cf3,7773d259,2024-09-11,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,93821e,e8b9ce9f,2024-09-16,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,ca2700,98a0890d,2024-09-16,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,00cbbb,3219f3ad,2024-09-20,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,f10634,ed54745f,2024-09-18,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,2a99de,4cd08ec8,2024-09-21,Stool Culture,V. cholerae bacteria,I
+Feveria General Hospital,448fbc,81da5421,2024-09-16,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,efe815,d4e71e94,2024-09-18,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,df08a8,10d1ccb9,2024-09-23,Stool Culture,V. cholerae bacteria,PO1
+Feveria General Hospital,61a88b,2b5e7475,2024-09-24,Stool Culture,V. cholerae bacteria,PO139
+Feveria General Hospital,cb3ab5,25e8739d,2024-04-19,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,bd1e14,a66dba2b,2024-05-01,Blood culture,S. Typhi bacteria,I
+Feveria General Hospital,4df59b,f6d99f8b,2024-05-03,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,6730d5,85764b9d,2024-05-04,Blood culture,S. Typhi bacteria,P
+Feveria General Hospital,576488,1ae915a4,2024-05-07,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,e70609,64bf18c5,2024-05-12,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,f21061,7deded65,2024-06-11,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,4104b4,c1226ede,2024-06-13,Blood culture,S. Typhi bacteria,P
+Feveria General Hospital,ef55b3,330c2521,2024-05-28,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,97b45b,9ee01710,2024-05-18,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,77006e,4c6cb0f2,2024-06-10,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,55afee,0bfd4a0e,2024-06-11,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,ddec13,8cd7dc1c,2024-05-28,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,ab9bd1,bde251da,2024-06-09,Blood culture,S. Typhi bacteria,P
+Feveria General Hospital,2f1c19,3a8abdc4,2024-06-18,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,ef067b,3a52e19c,2024-06-19,Blood culture,S. Typhi bacteria,P
+Feveria General Hospital,4a29f7,e3972e16,2024-07-01,Blood culture,S. Typhi bacteria,I
+Feveria General Hospital,908550,be0ffc5b,2024-06-30,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,33fdee,383d62d7,2024-07-15,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,ac7596,09339287,2024-07-02,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,07483f,6aab9ceb,2024-07-10,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,156c3c,bf4de2a0,2024-07-07,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,562174,228f725d,2024-07-23,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,821e05,26905fcd,2024-07-15,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,4fd539,572ea25e,2024-07-25,Blood culture,S. Typhi bacteria,P
+Feveria General Hospital,146fdd,f3cce3de,2024-07-24,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,38c466,b7e80a65,2024-07-25,Blood culture,S. Typhi bacteria,P
+Feveria General Hospital,f265dd,064284cd,2024-10-19,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,3525b1,fbd6fb02,2024-11-01,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,b5d2c7,c7143644,2024-11-10,Blood culture,S. Typhi bacteria,P
+Feveria General Hospital,c0e993,f9dfae01,2024-12-01,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,3a88d2,28ba139b,2024-12-12,Blood culture,S. Typhi bacteria,N
+Feveria General Hospital,5df948,86d9b689,2024-11-30,Blood culture,S. Typhi bacteria,N
