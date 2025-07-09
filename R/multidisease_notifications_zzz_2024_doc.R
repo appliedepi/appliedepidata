@@ -4,9 +4,13 @@
 #' Notifiable disease surveillance data for malaria, dengue, typhoid, yellow fever, and cholera. Reported in fictional country Feveria in 2024.  
 #'  
 #' @details
-#' Fictional country surveillance data for the case study "Linking and analysing notifiable disease surveillance data and laboratory data in R"
-#'  
-#' @source This data was created for training purposes
+#' This is a linelist with fictional notification-level data from the imaginary country Feveria, with clinical and epidemiological information for
+#' suspected cases of malaria, dengue, typhoid, yellow fever, and cholera. 
+#' The data is intended for use as part of the case study "Linking and analyzing notifiable disease surveillance data and laboratory data in R"
+#' alongside \link{multidisease_tests} (laboratory test results for notifications in Feveria). 
+#' 
+#' 
+#' @source Fictional data created by Applied Epi for training purposes
 #' 
 #' This is version 1.0.  
 #' 
@@ -14,7 +18,7 @@
 #' 
 #' This dataset is licensed under [CC by-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 #' 
-#' @format Dataframes
+#' @format A dataframe with 987 rows and 12 columns. 
 #' 
 #' @docType data
 "multidisease_notifications"
