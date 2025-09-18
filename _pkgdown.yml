@@ -5,7 +5,7 @@ template:
 reference: 
 
 - title: Functions
-- contents: 
+  contents: 
   - list_data
   - search_data
   - get_data 
@@ -31,12 +31,12 @@ reference:
   - multi_maladies_tests
   - multi_maladies_notifications
   
-  - subtitle: Multidisease lab and surveillance data, Feveria (2024) - Spanish
+- subtitle: Multidisease lab and surveillance data, Feveria (2024) - Spanish
   contents:
   - pruebas_multienfermedad
   - notificaciones_multienfermedad
   
-  - subtitle: Multidisease lab and surveillance data, Feveria (2024) - Portuguese
+- subtitle: Multidisease lab and surveillance data, Feveria (2024) - Portuguese
   contents:
   - testes_multidoencas
   - notificacoes_multidoencas
@@ -118,4 +118,3 @@ reference:
   contents: 
   - campylobacter_germany
   - germany_weather
-  
