@@ -212,4 +212,3 @@
 #' @docType data
 "pruebas_multienfermedad"
 
-devtools::document()
