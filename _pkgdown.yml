@@ -5,7 +5,7 @@ template:
 reference: 
 
 - title: Functions
-- contents: 
+  contents: 
   - list_data
   - search_data
   - get_data 
@@ -25,6 +25,21 @@ reference:
   contents:
   - multidisease_tests
   - multidisease_notifications
+  
+- subtitle: Multidisease lab and surveillance data, Feveria (2024) - French
+  contents:
+  - multi_maladies_tests
+  - multi_maladies_notifications
+  
+- subtitle: Multidisease lab and surveillance data, Feveria (2024) - Spanish
+  contents:
+  - pruebas_multienfermedad
+  - notificaciones_multienfermedad
+  
+- subtitle: Multidisease lab and surveillance data, Feveria (2024) - Portuguese
+  contents:
+  - testes_multidoencas
+  - notificacoes_multidoencas
   
 - subtitle: Sitrep example datasets - English
   contents:
