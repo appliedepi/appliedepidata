@@ -1,5 +1,7 @@
 ## code to prepare `notificacoes_multidoencas` dataset goes here
 
+## This is a tranlsated dataset - see the code for creating it in 'data-raw/multidisease_notifications.R'
+
 # This creates an .rda format of the notificacoes_multidoencas.xlxs file
 
 # Define the path to the Excel file in inst/extdata
