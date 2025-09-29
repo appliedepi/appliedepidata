@@ -79,7 +79,6 @@ These contain files outputted by running the code in the folders above.
     Each .Rd file has information about a specific function or dataset.
 -   **tests**: Contains test files for developer use only.
 
-
 ## ADDING DATA
 
 This describes the process for adding a file to the repo. Note that any original datasets need to be added to the inst/exta folder, even if already in .rda format. 
@@ -136,7 +135,7 @@ step 3 below.
     
     D. NOTE that if you want to process the raw data to create a dataset that should also be accessible to users (e.g. via the `get_data()` or `save_data()` functions), make sure that the processed data also gets saved into inst/extdata as version 2. Make sure you internalise (with use_data) both versions of the data. 
 
-```{r, eval=FALSE}
+```{r, eval=FALSE, echo=TRUE}
   
 ## code to prepare `examplename_linelist` dataset goes here
 
@@ -147,8 +146,6 @@ file_path <- system.file("extdata", "<examplename_linelist.xlsx>", package = "ap
 examplename_linelist <- rio::import(file_path)
 
 # Other code for editing the file can go here
-
-
 
 
 # Save the data as an internal .rda file in the data/ directory
@@ -173,7 +170,7 @@ usethis::use_data(examplename_linelist, overwrite = TRUE)
     each dataset description (under @docType). E.g.
     `examplename_linelist`.
 
-    D. Run devtools::document() to create the actual R documentation.
+    D. Run `devtools::document()` in the console to create the actual R documentation.
     This will be an .Rd file in the `man` folder, with file name
     corresponding with the dataset name (e.g. `examplename_linelist.Rd`)
 
@@ -188,10 +185,10 @@ usethis::use_data(examplename_linelist, overwrite = TRUE)
     the name of the dataset without extension, e.g
     "examplename_linelist".
 
-    C. Make sure to have correct indentation and use of dashes. See
+    C. Make sure to have correct indentation, use of dashes and lines between entries. See
     prior examples in the file.
 
-## ADDING DATASET METADATA (adding to `tablesoftables.xlsx`)
+## ADDING DATASET METADATA (adding to `tablesoftables.xlsx` in `inst/extdata` folder)
 
 Below is a table explaining how to fill in each variable in the dataset
 metadata Excel sheet (`tablesoftables.xlsx`). This guide helps ensure
