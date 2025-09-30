@@ -201,6 +201,23 @@ sure that the processed data also gets saved into inst/extdata as
 version 2. Make sure you internalise (with use_data) both versions of
 the data.</p>
 </li>
+</ol>
+<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span>  </span>
+<span><span class="co">## code to prepare `examplename_linelist` dataset goes here</span></span>
+<span></span>
+<span><span class="co"># Define the path to the Excel file in inst/extdata</span></span>
+<span><span class="va">file_path</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/system.file.html" class="external-link">system.file</a></span><span class="op">(</span><span class="st">"extdata"</span>, <span class="st">"&lt;examplename_linelist.xlsx&gt;"</span>, package <span class="op">=</span> <span class="st">"appliedepidata"</span><span class="op">)</span></span>
+<span></span>
+<span><span class="co"># Read in the Excel file using rio</span></span>
+<span><span class="va">examplename_linelist</span> <span class="op">&lt;-</span> <span class="fu">rio</span><span class="fu">::</span><span class="fu"><a href="http://gesistsa.github.io/rio/reference/import.html" class="external-link">import</a></span><span class="op">(</span><span class="va">file_path</span><span class="op">)</span></span>
+<span></span>
+<span><span class="co"># Other code for editing the file can go here</span></span>
+<span></span>
+<span></span>
+<span><span class="co"># Save the data as an internal .rda file in the data/ directory</span></span>
+<span><span class="fu">usethis</span><span class="fu">::</span><span class="fu"><a href="https://usethis.r-lib.org/reference/use_data.html" class="external-link">use_data</a></span><span class="op">(</span><span class="va">examplename_linelist</span>, overwrite <span class="op">=</span> <span class="cn">TRUE</span><span class="op">)</span></span></code></pre></div>
+<ol start="5" style="list-style-type: decimal">
 <li><p><strong>Add the dataset to the <code>tablesoftables.xlsx</code>
 as described below.</strong></p></li>
 <li>
@@ -214,9 +231,9 @@ dataset.</p>
 <p>C. Ensure to put the correct name of the dataset at the bottom of
 each dataset description (under <span class="citation">@docType</span>).
 E.g. <code>examplename_linelist</code>.</p>
-<p>D. Run devtools::document() to create the actual R documentation.
-This will be an .Rd file in the <code>man</code> folder, with file name
-corresponding with the dataset name
+<p>D. Run <code>devtools::document()</code> in the console to create the
+actual R documentation. This will be an .Rd file in the <code>man</code>
+folder, with file name corresponding with the dataset name
 (e.g. <code>examplename_linelist.Rd</code>)</p>
 </li>
 <li>
@@ -227,14 +244,14 @@ brackets and language at the end</p>
 <p>B. Contents: List the datasets. Again, the names here correspond to
 the name of the dataset without extension, e.g
 “examplename_linelist”.</p>
-<p>C. Make sure to have correct indentation and use of dashes. See prior
-examples in the file.</p>
+<p>C. Make sure to have correct indentation, use of dashes and lines
+between entries. See prior examples in the file.</p>
 </li>
 </ol>
 </div>
 <div class="section level3">
-<h3 id="adding-dataset-metadata-adding-to-tablesoftables-xlsx">ADDING DATASET METADATA (adding to
-<code>tablesoftables.xlsx</code>)<a class="anchor" aria-label="anchor" href="#adding-dataset-metadata-adding-to-tablesoftables-xlsx"></a>
+<h3 id="adding-dataset-metadata-adding-to-tablesoftables-xlsx-in-instextdata-folder">ADDING DATASET METADATA (adding to <code>tablesoftables.xlsx</code>
+in <code>inst/extdata</code> folder)<a class="anchor" aria-label="anchor" href="#adding-dataset-metadata-adding-to-tablesoftables-xlsx-in-instextdata-folder"></a>
 </h3>
 <p>Below is a table explaining how to fill in each variable in the
 dataset metadata Excel sheet (<code>tablesoftables.xlsx</code>). This
