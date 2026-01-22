@@ -1,0 +1,199 @@
+# Package index
+
+## Functions
+
+- [`list_data()`](https://appliedepi.github.io/appliedepidata/reference/list_data.md)
+  : List Datasets in a Package
+- [`search_data()`](https://appliedepi.github.io/appliedepidata/reference/search_data.md)
+  : Search and Filter Datasets Available in appliedepidata
+- [`get_data()`](https://appliedepi.github.io/appliedepidata/reference/get_data.md)
+  : Retrieve and Load Datasets
+- [`save_data()`](https://appliedepi.github.io/appliedepidata/reference/save_data.md)
+  : Save Data Files to a Specified Directory
+- [`create_desc()`](https://appliedepi.github.io/appliedepidata/reference/create_desc.md)
+  : Create Description of Variables for Roxygen Documentation
+
+## Data
+
+### AJS in Am Timan, Chad (2016) - English
+
+- [`AJS_AmTiman`](https://appliedepi.github.io/appliedepidata/reference/AJS_AmTiman.md)
+  : Linelist data from an outbreak of Acute Jaundice Syndrome (AJS) in
+  Chad 2016
+
+- [`AJS_AmTiman_population`](https://appliedepi.github.io/appliedepidata/reference/AJS_AmTiman_population.md)
+  : Population data from an outbreak of Acute Jaundice Syndrome (AJS) in
+  Chad 2016
+
+- [`Blocksshape`](https://appliedepi.github.io/appliedepidata/reference/Blocksshape.md)
+  : Shapefile of housing blocks from an outbreak of Acute Jaundice
+  Syndrome (AJS) in Chad 2016
+
+- [`Quartiersshape`](https://appliedepi.github.io/appliedepidata/reference/Quartiersshape.md)
+  :
+
+  Shapefile of neighbourhoods (*fr*: quartiers) from an outbreak of
+  Acute Jaundice Syndrome (AJS) in Chad 2016
+
+### Multidisease lab and surveillance data, Feveria (2024) - English
+
+- [`multidisease_tests`](https://appliedepi.github.io/appliedepidata/reference/multidisease_tests.md)
+  : Test results for notifiable disease surveillance cases in Feveria in
+  2024
+- [`multidisease_notifications`](https://appliedepi.github.io/appliedepidata/reference/multidisease_notifications.md)
+  : Notifiable disease surveillance data from Feveria in 2024
+
+### Multidisease lab and surveillance data, Feveria (2024) - French
+
+- [`multi_maladies_tests`](https://appliedepi.github.io/appliedepidata/reference/multi_maladies_tests.md)
+  : Test results for notifiable disease surveillance cases in Feveria in
+  2024 \\French\\
+- [`multi_maladies_notifications`](https://appliedepi.github.io/appliedepidata/reference/multi_maladies_notifications.md)
+  : Notifiable disease surveillance data from Feveria in 2024 \\French\\
+
+### Multidisease lab and surveillance data, Feveria (2024) - Spanish
+
+- [`pruebas_multienfermedad`](https://appliedepi.github.io/appliedepidata/reference/pruebas_multienfermedad.md)
+  : Test results for notifiable disease surveillance cases in Feveria in
+  2024 \\Spanish\\
+- [`notificaciones_multienfermedad`](https://appliedepi.github.io/appliedepidata/reference/notificaciones_multienfermedad.md)
+  : Notifiable disease surveillance data from Feveria in 2024
+  \\Spanish\\
+
+### Multidisease lab and surveillance data, Feveria (2024) - Portuguese
+
+- [`testes_multidoencas`](https://appliedepi.github.io/appliedepidata/reference/testes_multidoencas.md)
+  : Test results for notifiable disease surveillance cases in Feveria in
+  2024 \\Portuguese\\
+- [`notificacoes_multidoencas`](https://appliedepi.github.io/appliedepidata/reference/notificacoes_multidoencas.md)
+  : Notifiable disease surveillance data from Feveria in 2024
+  \\Portuguese\\
+
+### Sitrep example datasets - English
+
+- [`mortality_survey_data`](https://appliedepi.github.io/appliedepidata/reference/mortality_survey_data.md)
+  : Fake data for a mortality survey
+- [`mortality_survey_dict`](https://appliedepi.github.io/appliedepidata/reference/mortality_survey_dict.md)
+  : Fake data dictionary for a mortality survey
+
+### COVID-19 data in Fulton County, USA (2020) - English
+
+- [`fulton_data`](https://appliedepi.github.io/appliedepidata/reference/fulton_data.md)
+  : Anonymized COVID-19 linelist data from Fulton County (USA), 2020
+- [`fulton_data_clean`](https://appliedepi.github.io/appliedepidata/reference/fulton_data_clean.md)
+  : Clean anonymized COVID-19 linelist data from Fulton County (USA),
+  2020
+- [`fulton_population`](https://appliedepi.github.io/appliedepidata/reference/fulton_population.md)
+  : Zip-code population data Fulton County (USA), 2020
+
+### Fictional Mpox data from 5 European countries (2022) - English
+
+- [`mpox_linelist`](https://appliedepi.github.io/appliedepidata/reference/mpox_linelist.md)
+  : Fictional mpox linelist data from five European countries, 2022
+- [`mpox_aggregate_table`](https://appliedepi.github.io/appliedepidata/reference/mpox_aggregate_table.md)
+  : Fictional cumulative mpox case totals from five European countries,
+  2022
+
+### Fictional linelist data from Salmonella outbreak in Stegen, Germany (1998) - English
+
+- [`stegentira_data`](https://appliedepi.github.io/appliedepidata/reference/stegentira_data.md)
+  : Linelist for fictionalized salmonella outbreak in Stegen, Germany
+
+### Influenza A H7N9 data in China (2013) - English
+
+- [`fluH7N9_China_2013`](https://appliedepi.github.io/appliedepidata/reference/fluH7N9_China_2013.md)
+  : Linelist data from an outbreak of influenza A H7N9 in China 2013.
+
+### Fictional linelist data from Ebola outbreak in Sierra Leone (2014) - English
+
+- [`linelist_raw`](https://appliedepi.github.io/appliedepidata/reference/linelist_raw.md)
+  : Fictional Ebola Virus Disease data simulating properties from the
+  West African Ebola outbreak of 2014
+- [`linelist_cleaned_excel`](https://appliedepi.github.io/appliedepidata/reference/linelist_cleaned_excel.md)
+  : Cleaned fictional Ebola Virus Disease data simulating properties
+  from the West African Ebola outbreak of 2014
+- [`linelist_cleaned_rds`](https://appliedepi.github.io/appliedepidata/reference/linelist_cleaned_rds.md)
+  : Cleaned fictional Ebola Virus Disease data simulating properties
+  from the West African Ebola outbreak of 2014
+- [`hospital_linelists`](https://appliedepi.github.io/appliedepidata/reference/hospital_linelists.md)
+  : Subset of cleaned fictional Ebola Virus Disease data simulating
+  properties from the West African Ebola outbreak of 2014
+- [`linelist_cleaned_with_adm3`](https://appliedepi.github.io/appliedepidata/reference/linelist_cleaned_with_adm3.md)
+  : Subset with additional spatial data of cleaned fictional Ebola Virus
+  Disease data simulating properties from the West African Ebola
+  outbreak of 2014
+- [`cleaning_dict`](https://appliedepi.github.io/appliedepidata/reference/cleaning_dict.md)
+  : Example data dictionary for fictional Ebola Virus Disease data
+  simulating properties from the West African Ebola outbreak of 2014
+- [`sle_adm3`](https://appliedepi.github.io/appliedepidata/reference/sle_adm3.md)
+  : Shapefile at admin 3 level for Sierra Leone from Humanitarian Data
+  Exchange
+- [`sle_admpop_adm3_2020`](https://appliedepi.github.io/appliedepidata/reference/sle_admpop_adm3_2020.md)
+  : Population data at admin level 3 for Sierra Leone from Humanitarian
+  Data Exchange
+- [`epinow_res`](https://appliedepi.github.io/appliedepidata/reference/epinow_res.md)
+  [`epinow_res_small`](https://appliedepi.github.io/appliedepidata/reference/epinow_res.md)
+  [`generation_time`](https://appliedepi.github.io/appliedepidata/reference/epinow_res.md)
+  [`incubation_period`](https://appliedepi.github.io/appliedepidata/reference/epinow_res.md)
+  : Outputs from epinow2 based on fictional Ebola Virus Disease data
+  simulating properties from the West African Ebola outbreak of 2014
+
+### Fictional case data for a generic disease to demonstrate contact tracing (2020) - English
+
+- [`cases_clean`](https://appliedepi.github.io/appliedepidata/reference/cases_clean.md)
+  [`contacts_clean`](https://appliedepi.github.io/appliedepidata/reference/cases_clean.md)
+  [`followups_clean`](https://appliedepi.github.io/appliedepidata/reference/cases_clean.md)
+  [`relationships_clean`](https://appliedepi.github.io/appliedepidata/reference/cases_clean.md)
+  : Fictional case data for a generic disease to demonstrate contact
+  tracing
+
+### Fictional counts of malaria cases from Mozambique (2019) - English
+
+- [`district_weekly_count_data`](https://appliedepi.github.io/appliedepidata/reference/district_weekly_count_data.md)
+  : Fictional counts of malaria cases from Mozambique in 2019
+- [`malaria_facility_count_data`](https://appliedepi.github.io/appliedepidata/reference/malaria_facility_count_data.md)
+  : Fictional counts of malaria cases from Mozambique in 2019
+
+### Next generation sequencing data of Shigella surveillance samples from Belgium (2013-2019) - English
+
+- [`Shigella_tree`](https://appliedepi.github.io/appliedepidata/reference/Shigella_tree.md)
+  : Next generation sequencing data of Shigella surveillance samples
+  from Belgium 2013-2019
+- [`sample_data_Shigella_tree`](https://appliedepi.github.io/appliedepidata/reference/sample_data_Shigella_tree.md)
+  : Linelist data to accompany next generation sequencing data of
+  Shigella surveillance samples from Belgium 2013-2019
+- [`Shigella_subtree_2`](https://appliedepi.github.io/appliedepidata/reference/Shigella_subtree_2.md)
+  : Phylogenetic tree produced from next generation sequencing data of
+  Shigella surveillance samples from Belgium 2013-2019
+
+### Fictional country demographic and mortality data to demonstrate standardisation (2020) - English
+
+- [`country_demographics`](https://appliedepi.github.io/appliedepidata/reference/country_demographics.md)
+  [`country_demographics_2`](https://appliedepi.github.io/appliedepidata/reference/country_demographics.md)
+  [`deaths_countryA`](https://appliedepi.github.io/appliedepidata/reference/country_demographics.md)
+  [`deaths_countryB`](https://appliedepi.github.io/appliedepidata/reference/country_demographics.md)
+  : Fictional country demographic and mortality data to demonstrate
+  standardisation
+- [`world_standard_population_by_sex`](https://appliedepi.github.io/appliedepidata/reference/world_standard_population_by_sex.md)
+  : World “standard population” by sex
+
+### Other fictional example data
+
+- [`likert_data`](https://appliedepi.github.io/appliedepidata/reference/likert_data.md)
+  : Fictional likert data for demonstration purposes
+
+### Fictional data for a mortality survey - English
+
+- [`survey_data`](https://appliedepi.github.io/appliedepidata/reference/survey_data.md)
+  : Fake data for a mortality survey
+- [`survey_dict`](https://appliedepi.github.io/appliedepidata/reference/survey_dict.md)
+  : Fake data dictionary for a mortality survey
+- [`population`](https://appliedepi.github.io/appliedepidata/reference/population.md)
+  : Fake population data for a mortality survey
+
+### Campylobacter surveillance data from Germany (2001-2011) - English
+
+- [`campylobacter_germany`](https://appliedepi.github.io/appliedepidata/reference/campylobacter_germany.md)
+  : Linelist data of Campylobacter surveillance in Germany 2001-2011.
+- [`germany_weather`](https://appliedepi.github.io/appliedepidata/reference/germany_weather.md)
+  : Weather data for Germany from 2001-2011

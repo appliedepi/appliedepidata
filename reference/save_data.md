@@ -1,0 +1,95 @@
+# Save Data Files to a Specified Directory
+
+The `save_data` function saves dataset files (and unzips them if
+necessary) based on search criteria such as dataset `name`, `language`,
+`group_identifier`, or `unique_identifier`. It checks for the existence
+of the required files, and if all files exist, they are either copied or
+unzipped into the specified directory.
+
+## Usage
+
+``` r
+save_data(
+  name = NULL,
+  language = NULL,
+  group_identifier = NULL,
+  usage = NULL,
+  unique_identifier = NULL,
+  path = rstudioapi::selectDirectory()
+)
+```
+
+## Arguments
+
+- name:
+
+  (optional) A string specifying the name of the dataset to save.
+
+- language:
+
+  (optional) A string specifying the language of the dataset. If used
+  with `name`, `group_identifier`, or `unique_identifier`, the function
+  will filter datasets based on this language.
+
+- group_identifier:
+
+  (optional) A string identifying a group of related datasets. If
+  provided, the function will return all datasets within the group
+  unless further criteria are given.
+
+- usage:
+
+  (optional) A string representing where the datasets are used. If
+  provided, the function will return all datasets within the group
+  unless further criteria are given.
+
+- unique_identifier:
+
+  (optional) A string representing the unique identifier for a dataset.
+
+- path:
+
+  (optional) A string specifying the directory where the dataset files
+  will be saved. If not provided, the function will prompt the user to
+  select a directory via the
+  [`rstudioapi::selectDirectory()`](https://rstudio.github.io/rstudioapi/reference/file-dialogs.html)
+  function.
+
+## Value
+
+No return value. The function saves the specified dataset files to the
+chosen directory. A success or failure message is printed upon
+completion.
+
+## Details
+
+The function assumes that the dataset files are available in the
+"extdata" directory of the `appliedepidata` package. The function
+follows these steps:
+
+1.  **Dataset Lookup**: It looks up dataset information using
+    `lookup_dataset` based on the provided search criteria (`name`,
+    `language`, `group_identifier`, `usage` or `unique_identifier`).
+
+2.  **File Existence Check**: It checks if all required dataset files
+    exist using the `list_data` function. If any files are missing, an
+    error message lists them.
+
+3.  **File Copying and Unzipping**: If all files are found, the function
+    copies the files to the specified directory. If the files are zipped
+    (`.zip`), they are unzipped before being saved.
+
+## Examples
+
+``` r
+if (FALSE) { # \dontrun{
+# Save a dataset by name to a chosen directory
+save_data(name = "AJS_AmTiman", path = "/path/to/save/directory")
+
+# Save a dataset by group identifier and language
+save_data(group_identifier = "acutejaundicesyndrome_outbreak_tcd_2016", language = "fr")
+
+# Save a dataset by unique identifier
+save_data(unique_identifier = "acutejaundicesyndrome_outbreak_tcd_2016_linelist_1_1_outbreak_2016")
+} # }
+```

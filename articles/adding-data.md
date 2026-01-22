@@ -1,0 +1,281 @@
+# Adding data
+
+## Guide to contributing new datasets
+
+### PACKAGE FOLDER STRUCTURE
+
+#### Overview
+
+The diagram and descriptions below are a simplified explanation of the
+[R packages data chapter](https://r-pkgs.org/data.html). For a fuller
+understanding, read that chapter.
+
+``` bash
+.
+├── appliedepidata.Rproj
+├── _pkgdown.yml
+├── data
+│   └── newdata.rda (note: internalised)
+├── data-raw
+│   └── newdata.R
+├── inst
+│   └── extdata
+│       └── tableoftables.xlsx
+│       └── newdata.xlsx
+├── R
+│   └── newdata_doc.R
+└── man
+    └── newdata.Rd
+```
+
+#### Folders you will edit
+
+- **inst/extdata**: Newly added datasets go in here in their original
+  filetype, e.g. .xlsx, .csv, but also .rds files. These files will be
+  downloaded with the
+  [`save_data()`](https://appliedepi.github.io/appliedepidata/reference/save_data.md)
+  function.  
+- **data-raw**: Contains R scripts used for processing and internalizing
+  datasets (making them more efficient for storage), i.e. for turning
+  newly added datasets in `inst/extdata` to .rda files
+- **R**: Contains R scripts in Roxygen2 format which define the
+  functions and datasets. When run this creates the R documentation
+  files (.Rd files) which are saved in the **man** folder. Multiple
+  datasets can be defined in one script, which is sensible as some are
+  grouped together (e.g. part of the same outbreak)
+- **vignettes**: Contains detailed instructions on how to use particular
+  functions. They complement the function-level documentation in the
+  **man** folder by giving broader explanation.
+
+#### Folders you will not edit
+
+These contain files outputted by running the code in the folders above.
+
+- **data**: Contains internalised and processed R datasets (.rda files).
+  These are created when internalizing the data (running code in
+  data-raw folder), which makes them more efficient for file storage.
+- **man**: Contains the R documentation files for package functions and
+  datasets (created when running the code in the **R** folder). Each .Rd
+  file has information about a specific function or dataset.
+- **tests**: Contains test files for developer use only.
+
+### ADDING DATA
+
+This describes the process for adding a file to the repo. Note that any
+original datasets need to be added to the inst/exta folder, even if
+already in .rda format.
+
+If you are adding a dataset from an existing R package, you can skip to
+step 3 below.
+
+1.  **Name your file appropriately**
+
+    A. You can name it whatever you want, but stick to basic naming
+    conventions.
+
+    B. Ensure that there is not already file in *tableoftables.xlsx*
+    named the same.
+
+    C. Avoid generic names like: `linelist_cleaned.xlsx` or
+    `survey_data.xlsx`.
+
+    D. Use consistent and descriptive names without spaces (e.g.,
+    `AJS_AmTiman`, `sitrep_mortality_survey`).
+
+    E. Name files from the same group (e.g. from the same outbreak or
+    for the same case study) with the same prefix. E.g:
+    `examplename_data` and `examplename_population` for a case linelist
+    and corresponding denominator table respectively.
+
+2.  **Place your file in the correct folder**
+
+    A. Add into `inst/extdata` folder. This is what will be downloaded
+    when running the save_data() function. If a shapefile, zip first.
+
+3.  **Build the package with the added data**
+
+    A. Press Ctrl + Shift + B to build the package with the newly added
+    data. This will mean the data is recognized for the next step.
+
+4.  **Reproducibly edit dataset and internalize** (see
+    `data-raw/AJS_AmTiman.R` for example)
+
+    A. In your console run
+    `usethis::use_data_raw("<name of your file without extension>")`.
+
+    B. This creates an R script in the `data-raw` folder. It will
+    already contain a comment at the top saying “code to prepare data
+    goes here” and a
+    [`usethis::use_data()`](https://usethis.r-lib.org/reference/use_data.html)
+    function to internalise the dataset (i.e. to produce the rda file)
+
+    C. Edit the R script to correctly read in the file using
+    [`system.file()`](https://rdrr.io/r/base/system.file.html), as
+    below. Necessary edits to the dataset should also go here. Then run
+    this script to internalise the data, and close.
+
+    D. NOTE that if you want to process the raw data to create a dataset
+    that should also be accessible to users (e.g. via the
+    [`get_data()`](https://appliedepi.github.io/appliedepidata/reference/get_data.md)
+    or
+    [`save_data()`](https://appliedepi.github.io/appliedepidata/reference/save_data.md)
+    functions), make sure that the processed data also gets saved into
+    inst/extdata as version 2. Make sure you internalise (with use_data)
+    both versions of the data.
+
+``` r
+  
+## code to prepare `examplename_linelist` dataset goes here
+
+# Define the path to the Excel file in inst/extdata
+file_path <- system.file("extdata", "<examplename_linelist.xlsx>", package = "appliedepidata")
+
+# Read in the Excel file using rio
+examplename_linelist <- rio::import(file_path)
+
+# Other code for editing the file can go here
+
+
+# Save the data as an internal .rda file in the data/ directory
+usethis::use_data(examplename_linelist, overwrite = TRUE)
+```
+
+5.  **Add the dataset to the `tablesoftables.xlsx` as described below.**
+
+6.  **Add documentation for each dataset added**
+
+    A. Create a new R script in the `R` folder, with one file for all
+    datasets in a group. The file name should be the group name
+    generated from tableoftables (column P), with suffix ‘\_doc’. Note
+    the easiest is to copy and edit an existing R script in the folder.
+
+    B. Ensure to clearly document the source and license for the
+    dataset.
+
+    C. Ensure to put the correct name of the dataset at the bottom of
+    each dataset description (under @docType). E.g.
+    `examplename_linelist`.
+
+    D. Run `devtools::document()` in the console to create the actual R
+    documentation. This will be an .Rd file in the `man` folder, with
+    file name corresponding with the dataset name
+    (e.g. `examplename_linelist.Rd`)
+
+7.  **Add the datasets to `_pkgdown.yml`**
+
+    A. Subtitle: Describe the group of linelists. State the year in
+    brackets and language at the end
+
+    B. Contents: List the datasets. Again, the names here correspond to
+    the name of the dataset without extension, e.g
+    “examplename_linelist”.
+
+    C. Make sure to have correct indentation, use of dashes and lines
+    between entries. See prior examples in the file.
+
+### ADDING DATASET METADATA (adding to `tablesoftables.xlsx` in `inst/extdata` folder)
+
+Below is a table explaining how to fill in each variable in the dataset
+metadata Excel sheet (`tablesoftables.xlsx`). This guide helps ensure
+consistency and completeness when adding new datasets to your
+collection.
+
+- **name**: The filename of the dataset as it appears in the
+  `inst/extdata` directory, **without** the file extension. This should
+  be unique within the dataset group, and ideally also within the
+  *tableoftables* (i.e. avoid generic names like:
+  `linelist_cleaned.xlsx` or `survey_data.xlsx`). Use consistent and
+  descriptive names without spaces (e.g., `AJS_AmTiman`,
+  `mortality_survey`).
+
+- **type**: The category or type of the dataset (e.g., `linelist`,
+  `population`, `shape`, `survey`, `dictionary`).
+
+- **extension**: The file extension (e.g., `xlsx`, `zip`).
+
+- **type_version**: Used to identify the *original* dataset and its
+  associated child data. Increment when format or variables change. If
+  there are multiple linelists in one group, this would increment with
+  the type.
+
+- **data_version**: Used to identify the *original* dataset and its
+  associated child data. Increment when format or variables change.
+  Ensure you document changes in the appropriate ‘data-raw’ file.
+
+- **language**: Language code using [ISO 639-1
+  codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (e.g.,
+  `en`, `fr`).
+
+- **country**: Country code using [ISO 3166-1 alpha-3
+  codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) (e.g.,
+  `tcd`).
+
+- **scale**: Geographic scale (e.g., `subnational`, `national`, or
+  `international`).
+
+- **subject**: Main subject of the dataset (e.g.,
+  `acute jaundice syndrome`).
+
+- **context**: Context of the data (e.g., `outbreak`, `survey`).
+
+- **fictional**: Is the dataset fictional (`yes`) or real (`no`)?
+
+- **year**: Year the data was collected (e.g., `2016`). This is the
+  *earliest* year in the dataset (even if fictional).
+
+- **description**: Brief description of the dataset. Ideally, copy from
+  roxygen documentation.
+
+- **usage**: Intended usage (e.g., `{sitrep} walkthroughs`, `training`).
+
+- **license**: License for dataset (e.g., `gpl3`, `mit`).
+
+- **group_identifier**: *DO NOT EDIT* - Created by concatinating
+  function in excel. High-level identifier combining `subject`,
+  `context`, `country`, and `year`
+  (e.g.,`acute_jaundice_syndrome_outbreak_tcd_2016`).
+
+- **unique_identifier**: *DO NOT EDIT* - Combines `group_identifier`,
+  `type`, `type_version`, `data_version`, `context`, and `year` to
+  create a unique identifier (e.g.
+  `acute_jaundice_syndrome_outbreak_tcd_2016_linelist_1`).
+
+For example, when adding an Ebola dataset, you would enter the
+information as shown below. The original dataset (whether it’s from
+{outbreaks} or another source) would be considered `type_version` 1. If
+it’s the only linelist in its group, it remains `type_version` 1. If a
+completely different linelist is added (not just an edited version),
+increment the `type_version` accordingly.
+
+For any changes to the data (such as cleaning or changing nums of rows
+or columns), increment the `data_version` (e.g., `data_version` 2), but
+the `type_version` remains the same to indicate that it’s a derivative
+(or “child”) of the original. Each child dataset gets its own entry.
+
+If a dataset is translated into a different language, create a new entry
+for the translated version while keeping the `data_version` and
+`type_version` the same, but editing the `language` column accordingly.
+This ensures you can trace back the parent-child relationship between
+datasets.
+
+| **Variable**          | **Example Entry**                                    |
+|-----------------------|------------------------------------------------------|
+| **name**              | `ebola_linelist_cleaned`                             |
+| **type**              | `linelist`                                           |
+| **extension**         | `xlsx`                                               |
+| **type_version**      | `1`                                                  |
+| **data_version**      | `1`                                                  |
+| **language**          | `en`                                                 |
+| **country**           | `lbr`                                                |
+| **scale**             | `national`                                           |
+| **subject**           | `ebola`                                              |
+| **context**           | `outbreak`                                           |
+| **fictional**         | `yes`                                                |
+| **year**              | `2014`                                               |
+| **description**       | Linelist data from the Ebola virus                   |
+|                       | disease outbreak in Liberia in                       |
+|                       | 2014\.                                               |
+| **usage**             | `introexercises`, etc.                               |
+| **license**           | `gpl3`                                               |
+| **group_identifier**  | `ebola_outbreak_lbr_2014`                            |
+| **unique_identifier** | `ebola_outbreak_lbr_2014_linelist_1_1_outbreak_2014` |
