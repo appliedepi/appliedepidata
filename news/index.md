@@ -1,5 +1,12 @@
 # Changelog
 
-## appliedepidata (development version)
+## appliedepidata 0.0.0.9001
 
-- Initial CRAN submission.
+- Refactor
+  [`get_data()`](https://appliedepi.github.io/appliedepidata/reference/get_data.md)
+  so that can assign to an object
+- Fix redundant parts of unique identifiers in `tableoftables.xlsx`
+
+## appliedepidata 0.0.0.9000
+
+- Initial setup with functions and datasets
