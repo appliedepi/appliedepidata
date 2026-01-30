@@ -197,3 +197,16 @@
   : Linelist data of Campylobacter surveillance in Germany 2001-2011.
 - [`germany_weather`](https://appliedepi.github.io/appliedepidata/reference/germany_weather.md)
   : Weather data for Germany from 2001-2011
+
+### Cholera surveillance data, Viraland (2021) - English
+
+- [`viraland_cholera_20210525_linelist`](https://appliedepi.github.io/appliedepidata/reference/viraland_cholera_20210525_linelist.md)
+  : Clean cholera surveillance data for Viraland, 25 May 2021
+- [`viraland_cholera_20210617_linelist`](https://appliedepi.github.io/appliedepidata/reference/viraland_cholera_20210617_linelist.md)
+  : Clean cholera surveillance data for Viraland, 17 June 2021
+- [`viraland_cholera_20210721_linelist`](https://appliedepi.github.io/appliedepidata/reference/viraland_cholera_20210721_linelist.md)
+  : Clean cholera surveillance data for Viraland, 21 July 2021
+- [`viraland_cholera_20210721_linelist_raw`](https://appliedepi.github.io/appliedepidata/reference/viraland_cholera_20210721_linelist_raw.md)
+  : Raw cholera surveillance data for Viraland, 21 July 2021
+- [`viraland_cholera_20210721_labs`](https://appliedepi.github.io/appliedepidata/reference/viraland_cholera_20210721_labs.md)
+  : Lab data with cholera test results for Viraland, 21 July 2021

@@ -20,7 +20,7 @@
 
     <a class="navbar-brand me-2" href="../index.html">appliedepidata</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.0.0.9001</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.0.0.9002</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -273,8 +273,10 @@ without spaces (e.g., <code>AJS_AmTiman</code>,
 <code>xlsx</code>, <code>zip</code>).</p></li>
 <li><p><strong>type_version</strong>: Used to identify the
 <em>original</em> dataset and its associated child data. Increment when
-format or variables change. If there are multiple linelists in one
-group, this would increment with the type.</p></li>
+there is a new dataset, not associated with a parent. If there are
+multiple linelists in one group (which aren’t originated from
+eachother), this would increment with the <code>type</code>
+column.</p></li>
 <li><p><strong>data_version</strong>: Used to identify the
 <em>original</em> dataset and its associated child data. Increment when
 format or variables change. Ensure you document changes in the
@@ -297,8 +299,12 @@ alpha-3 codes</a> (e.g., <code>tcd</code>).</p></li>
 (even if fictional).</p></li>
 <li><p><strong>description</strong>: Brief description of the dataset.
 Ideally, copy from roxygen documentation.</p></li>
-<li><p><strong>usage</strong>: Intended usage (e.g.,
-<code>{sitrep} walkthroughs</code>, <code>training</code>).</p></li>
+<li><p><strong>usage</strong>: Intended usage for the data. For example
+courses should be the coursecode (e.g. <code>intror</code> or
+<code>qmd</code>). Case studies should be the case study id
+(e.g. <code>m̀ultidisease_surveillance</code>, <code>r_practical</code>).
+A resource should just be the name (e.g. <code>epirhandbook</code>,
+<code>aem</code>). Can be multiple tags separated by commas.</p></li>
 <li><p><strong>license</strong>: License for dataset (e.g.,
 <code>gpl3</code>, <code>mit</code>).</p></li>
 <li><p><strong>group_identifier</strong>: <em>DO NOT EDIT</em> - Created
