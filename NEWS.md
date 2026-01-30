@@ -1,3 +1,5 @@
+# appliedepidata 0.1.0
+
 # appliedepidata 0.0.0.9001
 
 * Refactor `get_data()` so that can assign to an object
