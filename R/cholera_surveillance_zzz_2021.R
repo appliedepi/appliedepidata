@@ -15,7 +15,7 @@
 #' 
 #' @source Fictional data created by Applied Epi for training purposes
 #' 
-#' This is the first version of data in this group; subsequent are for  17th June (data version 2) and 21st July (data version 3).
+#' This is a derivate (subset) of the clean cholera surveillance data for Viraland, 21 July 2021.
 #' 
 #' This dataset is English.   
 #' 
@@ -41,7 +41,7 @@
 #' 
 #' @source Fictional data created by Applied Epi for training purposes
 #' 
-#' This is the second version of data in this group; previous are for 5th May (data version 1), and subsequent is 21st July (data version 3).
+#' This is a derivate (subset) of the clean cholera surveillance data for Viraland, 21 July 2021.
 #' 
 #' This dataset is English.   
 #' 
@@ -67,7 +67,7 @@
 #' 
 #' @source Fictional data created by Applied Epi for training purposes
 #' 
-#' This is the third version of data in this group; previous are for 5th May (data version 1) and 17th June (data version 2).
+#' This is the first version of data in this group; all others are derivates, including for 5th May (data version 3) and 17th June (data version 4).
 #' 
 #' This dataset is English.   
 #' 
@@ -93,7 +93,7 @@
 #' 
 #' @source Fictional data created by Applied Epi for training purposes
 #' 
-#' This is the third version of data in this group; previous are for 5th May (data version 1) and 17th June (data version 2).
+#' This is a derivate (made messy) of the clean cholera surveillance data for Viraland, 21 July 2021.
 #' 
 #' This dataset is English.   
 #' 
@@ -118,7 +118,7 @@
 #' 
 #' @source Fictional data created by Applied Epi for training purposes
 #' 
-#' This is the third version of data in this group; previous are for 5th May (data version 1) and 17th June (data version 2).
+#' This is a derivate (subset) of the clean cholera surveillance data for Viraland, 21 July 2021.
 #' 
 #' This dataset is English.   
 #' 

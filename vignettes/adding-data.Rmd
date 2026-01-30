@@ -209,9 +209,10 @@ collection.
 -   **extension**: The file extension (e.g., `xlsx`, `zip`).
 
 -   **type_version**: Used to identify the *original* dataset and its
-    associated child data. Increment when format or variables change. If
-    there are multiple linelists in one group, this would increment with
-    the type.
+    associated child data. Increment when there is a new dataset, not 
+    associated with a parent. If there are multiple linelists in one 
+    group (which aren't originated from eachother), this would 
+    increment with the `type` column.
 
 -   **data_version**: Used to identify the *original* dataset and its
     associated child data. Increment when format or variables change.
@@ -241,8 +242,11 @@ collection.
 -   **description**: Brief description of the dataset. Ideally, copy
     from roxygen documentation.
 
--   **usage**: Intended usage (e.g., `{sitrep} walkthroughs`,
-    `training`).
+-   **usage**: Intended usage for the data. For example courses should be 
+    the coursecode (e.g. `intror` or `qmd`). Case studies should be the 
+    case study id (e.g. `m̀ultidisease_surveillance`, `r_practical`). 
+    A resource should just be the name (e.g. `epirhandbook`, `aem`). 
+    Can be multiple tags separated by commas.
 
 -   **license**: License for dataset (e.g., `gpl3`, `mit`).
 
