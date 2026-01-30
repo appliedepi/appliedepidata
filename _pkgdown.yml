@@ -118,3 +118,12 @@ reference:
   contents: 
   - campylobacter_germany
   - germany_weather
+  
+  
+- subtitle: Cholera surveillance data, Viraland (2021) - English
+  contents:
+  - viraland_cholera_20210525_linelist
+  - viraland_cholera_20210617_linelist
+  - viraland_cholera_20210721_linelist
+  - viraland_cholera_20210721_linelist_raw
+  - viraland_cholera_20210721_labs
