@@ -68,7 +68,7 @@ search_data <- function() {
           dplyr::filter(grepl(input$search_query, name, ignore.case = TRUE)) |>
           dplyr::select(unique_identifier, name, description, group_identifier) |>
           dplyr::left_join(find_langs, by = "unique_identifier") |>
-          dplyr::select(name, description, language, group_identifier)
+          dplyr::select(name, description, language, group_identifier, unique_identifier)
       })
       
       # Render the reactable table based on the selected language and search query

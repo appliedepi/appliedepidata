@@ -47,7 +47,7 @@ output <- table_of_tables |>
   dplyr::filter(og_language == curr_lang) |>
   dplyr::select(unique_identifier, name, description, group_identifier) |>
   dplyr::left_join(find_langs, by = "unique_identifier") |>
-  dplyr::select(name, description, language, group_identifier)
+  dplyr::select(name, description, language, group_identifier, unique_identifier)
 
 # Create an interactive table with reactable
 reactable::reactable(output, 
