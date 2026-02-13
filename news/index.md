@@ -1,5 +1,7 @@
 # Changelog
 
+## appliedepidata (development version)
+
 ## appliedepidata 0.0.0.9002
 
 - Added viraland cholera data for qmd and new intro to r course
