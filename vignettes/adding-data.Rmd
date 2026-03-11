@@ -112,10 +112,8 @@ step 3 below.
 
 3.  **Build the package with the added data**
 
-    A. Press Ctrl + Shift + B to build the package with the newly added
+    A. Navigate to the Menu/Title bar, select 'Build', and then click 'Install package' (Ctrl + Shift + B) to build the package with the newly added
     data. This will mean the data is recognized for the next step.
-
-
 
 4.  **Reproducibly edit dataset and internalize** (see
     `data-raw/AJS_AmTiman.R` for example)
