@@ -20,6 +20,11 @@ reference:
   - AJS_AmTiman_population
   - Blocksshape
   - Quartiersshape
+
+- subtitle: Feveriosis surveillance data, Feveria (2025) - English
+  contents:
+  - feveriosis_main
+  - feveriosis_recent
   
 - subtitle: Multidisease lab and surveillance data, Feveria (2024) - English
   contents:
