@@ -8,7 +8,8 @@
 #' Surveillance data for fictional disease feveriosis. Reported in fictional country Feveria in 2025 & 2026.  
 #'  
 #' @details
-#' This is a linelist with fictional case-level data from the imaginary country Feveria, with clinical and epidemiological information for cases of feveriosis (fictional disease). 
+#' This is a linelist with fictional case-level data from the imaginary country Feveria, with 
+#' clinical and epidemiological information for cases of feveriosis (fictional disease). 
 #' The data is intended for use as part of the case study "Analysis of routine surveillance of feveriosis"
 #' alongside \link{feveriosis_recent} (linelist of feveriosis cases from Aug 31 - Sep 4, 2026 in Feveria). 
 #' 
