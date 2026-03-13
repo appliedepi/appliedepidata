@@ -1,0 +1,21 @@
+id,sex,date_of_birth,age,region,date_onset,date_report,outcome,date_outcome,symptoms,pcr_result,date_specimen,COLUMNCHECK
+m1s-240,m,1993-04-29,31,West Morin,2026-08-31,2026-08-31,recovered,2026-09-04,"VOMIT, QUEEZINESS, LOOSE STOOLS ",,,CHECKED
+keo-250,m,2016-10-16,8,West Morin,2026-09-03,2026-09-01,recovered,2026-09-08,"AWD, DEHYDRATION, PUKING ",,,CHECKED
+dvk-257,f,1988-04-29,36,West Morin,2026-09-01,2026-09-04,,,"queeziness, dehydratd, stomach pain, watery diarrhea, vomit ",,,CHECKED
+egu258,m,2020-11-15,4,West Morin,2026-08-31,2026-09-03,died,2026-09-07,"watery stool, dehydrtion ",,,CHECKED
+kra-264,f,2020-12-02,4,West Morin,2026-09-02,2026-08-31,recovered,2026-09-05,"lack of fluids, AWD ",,,CHECKED
+WUF-265,f,1952-04-10,72,West Morin,2026-09-02,2026-08-31,recovered,2026-09-04,"VOMITING, STOMACH ACHE, DEHYDRATD ",,,CHECKED
+7XA-271,f,2013-05-22,11,West Morin,2026-09-03,2026-09-01,recovered,2026-09-04,"DEHYDRATD, LOOSE STOOL, VOMATING ",,,CHECKED
+NJV283,m,1941-10-17,83,West Morin,2026-08-31,2026-09-03,recovered,2026-09-08,"LOOSE STOOL, PUKING, DEHYDRATION ",,,CHECKED
+v8m287,f,2021-07-21,3,West Morin,2026-09-01,2026-09-04,recovered,2026-09-11,"acute watery diarrhea, mild fever, lack fluids ",,,CHECKED
+3ky-288,f,1958-12-09,66,West Morin,2026-08-29,2026-09-01,recovered,2026-09-07,"awd, dry mouth, throwing up ",,,CHECKED
+ac9-293,m,2022-09-06,2,West Morin,2026-08-30,2026-09-02,recovered,2026-09-06,,Positive,2026-09-05,CHECKED
+nw6295,f,2006-05-19,18,West Morin,2026-09-01,2026-09-04,,,"AW diarrhea, lack of fluids ",,,CHECKED
+B4C-308,m,1954-11-05,70,West Morin,2026-08-29,2026-09-01,,,"LOOSE STOOL, ABDOMINAL CRAMPS ",,,CHECKED
+BLG310,m,2022-08-30,2,West Morin,2026-09-01,2026-09-04,,,,,,CHECKED
+ZCX322,m,1961-09-05,63,New Arden,2026-09-01,2026-09-01,recovered,2026-09-06,"vomit, watery diarrhoea, stomach ache ",,,CHECKED
+pa3-323,m,2021-10-30,3,New Arden,2026-08-31,2026-09-03,,,"DEHYDRTION, WATERY STOOL, PUKING ",,,CHECKED
+csd-325,m,1996-07-10,28,New Arden,2026-08-31,2026-08-31,recovered,2026-09-05,"dehydrade, awd, vomating ",,,CHECKED
+EES329,m,2005-07-09,19,New Arden,2026-09-01,2026-09-04,,,THROWING UP ,,,CHECKED
+jqe330,f,1951-10-30,73,New Arden,2026-08-30,2026-09-02,recovered,2026-09-07,"watery diarrhoea, stomach ache, vomit ",,,CHECKED
+bdy-332,f,2020-06-29,4,New Arden,2026-09-01,2026-09-04,recovered,2026-09-10,"watery stool, lack fluids, feeling nauseous ",,,CHECKED

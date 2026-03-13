@@ -2,7 +2,7 @@
 output: github_document
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- README.md is generated from README.Rmd. Please edit this file -->
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
@@ -40,3 +40,5 @@ do browse available datasets.
 Using that information you can either load data in to your RStudio environment 
 using [get_data](https://appliedepi.github.io/appliedepidata/reference/search_data.html) or save a copy of the data to your computer using [save_data](https://appliedepi.github.io/appliedepidata/reference/save_data.html). 
 
+## Adding new datasets
+If you would like to contribute new datasets to appliedepidata, create a new branch and follow the instructions in the [Adding data article](https://appliedepi.github.io/appliedepidata/articles/adding-data.html). 
