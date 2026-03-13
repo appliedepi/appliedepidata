@@ -1,6 +1,8 @@
 # Changelog
 
-## appliedepidata (development version)
+## appliedepidata 0.0.0.9004
+
+- Added feveria data for case study
 
 ## appliedepidata 0.0.0.9002
 

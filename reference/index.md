@@ -35,6 +35,15 @@
   Shapefile of neighbourhoods (*fr*: quartiers) from an outbreak of
   Acute Jaundice Syndrome (AJS) in Chad 2016
 
+### Feveriosis surveillance data, Feveria (2025) - English
+
+- [`feveriosis_main`](https://appliedepi.github.io/appliedepidata/reference/feveriosis_main.md)
+  : Feveriosis surveillance data from Feveria from Jan 1 2025 to Aug 31
+  2026
+- [`feveriosis_recent`](https://appliedepi.github.io/appliedepidata/reference/feveriosis_recent.md)
+  : Recent feveriosis surveillance data from Feveria from Aug 31 2026 to
+  Sep 4 2026
+
 ### Multidisease lab and surveillance data, Feveria (2024) - English
 
 - [`multidisease_tests`](https://appliedepi.github.io/appliedepidata/reference/multidisease_tests.md)
