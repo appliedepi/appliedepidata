@@ -10,7 +10,7 @@ A dataframe with 20 rows and 12 columns.
 \source{
 Fictional data created by Applied Epi for training purposes
 
-This is version 2.2
+This is version 2.1
 
 This dataset is English.
 
