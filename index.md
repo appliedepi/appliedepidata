@@ -29,3 +29,9 @@ environment using
 [get_data](https://appliedepi.github.io/appliedepidata/reference/search_data.html)
 or save a copy of the data to your computer using
 [save_data](https://appliedepi.github.io/appliedepidata/reference/save_data.html).
+
+## Adding new datasets
+
+If you would like to contribute new datasets to appliedepidata, create a
+new branch and follow the instructions in the [Adding data
+article](https://appliedepi.github.io/appliedepidata/articles/adding-data.html).
