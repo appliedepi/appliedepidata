@@ -5,12 +5,12 @@
 \alias{feveriosis_recent}
 \title{Recent feveriosis surveillance data from Feveria from Aug 31 2026 to Sep 4 2026}
 \format{
-A dataframe with 20 rows and 13 columns.
+A dataframe with 20 rows and 12 columns.
 }
 \source{
 Fictional data created by Applied Epi for training purposes
 
-This is version 1.1
+This is version 2.1
 
 This dataset is English.
 

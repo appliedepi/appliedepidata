@@ -38,13 +38,13 @@
 #'  
 #' @source Fictional data created by Applied Epi for training purposes
 #' 
-#' This is version 1.1
+#' This is version 2.1
 #' 
 #' This dataset is English.   
 #' 
 #' This dataset is licensed under [CC by-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 #' 
-#' @format A dataframe with 20 rows and 13 columns. 
+#' @format A dataframe with 20 rows and 12 columns. 
 #' 
 #' @docType data
 "feveriosis_recent"
