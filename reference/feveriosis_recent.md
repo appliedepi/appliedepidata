@@ -1,7 +1,7 @@
-# Recent feveriosis surveillance data from Feveria from Aug 31 2026 to Sep 4 2026
+# Recent feveriosis surveillance data from Viraland from Aug 31 2026 to Sep 4 2026
 
 Recent surveillance data for fictional disease feveriosis. Reported in
-fictional country Feveria from August 31, 2026 to September 4, 2026.
+fictional country Viraland from August 31, 2026 to September 4, 2026.
 
 ## Usage
 
@@ -11,7 +11,7 @@ feveriosis_recent
 
 ## Format
 
-A dataframe with 20 rows and 12 columns.
+A dataframe with 28 rows and 12 columns.
 
 ## Source
 
@@ -27,9 +27,9 @@ This dataset is licensed under [CC by-NC-SA
 ## Details
 
 This is a linelist of a single week of case-level data of feveriosis
-(fictional data) from the imaginary country Feveria. The data is
+(fictional data) from the imaginary country Viraland. The data is
 intended for use as part of the case study "Analysis of routine
 surveillance of feveriosis" alongside
 [feveriosis_main](https://appliedepi.github.io/appliedepidata/reference/feveriosis_main.md)
 (compiled linelist of feveriosis cases from Jan 1 2025 - Aug 31, 2026 in
-Feveria).
+Viraland).
