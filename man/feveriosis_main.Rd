@@ -3,9 +3,9 @@
 \docType{data}
 \name{feveriosis_main}
 \alias{feveriosis_main}
-\title{Feveriosis surveillance data from Feveria from Jan 1 2025 to Aug 31 2026}
+\title{Feveriosis surveillance data from Viraland from Jan 1 2025 to Aug 31 2026}
 \format{
-A dataframe with 449 rows and 13 columns.
+A dataframe with 434 rows and 13 columns.
 }
 \source{
 Fictional data created by Applied Epi for training purposes
@@ -20,12 +20,12 @@ This dataset is licensed under \href{https://creativecommons.org/licenses/by-nc-
 feveriosis_main
 }
 \description{
-Surveillance data for fictional disease feveriosis. Reported in fictional country Feveria in 2025 & 2026.
+Surveillance data for fictional disease feveriosis. Reported in fictional country Viraland in 2025 & 2026.
 }
 \details{
-This is a linelist with fictional case-level data from the imaginary country Feveria, with
+This is a linelist with fictional case-level data from the imaginary country Viraland, with
 clinical and epidemiological information for cases of feveriosis (fictional disease).
 The data is intended for use as part of the case study "Analysis of routine surveillance of feveriosis"
-alongside \link{feveriosis_recent} (linelist of feveriosis cases from Aug 31 - Sep 4, 2026 in Feveria).
+alongside \link{feveriosis_recent} (linelist of feveriosis cases from Aug 31 - Sep 4, 2026 in Viraland).
 }
 \keyword{datasets}
