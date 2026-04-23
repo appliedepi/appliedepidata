@@ -5,7 +5,7 @@
 \alias{feveriosis_main}
 \title{Feveriosis surveillance data from Viraland from Jan 1 2025 to Aug 31 2026}
 \format{
-A dataframe with 434 rows and 13 columns.
+A dataframe with 427 rows and 13 columns.
 }
 \source{
 Fictional data created by Applied Epi for training purposes

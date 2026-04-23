@@ -1,3 +1,7 @@
+# appliedepidata 0.0.0.9007 
+
+* Updated feveriosis data after feedback 
+
 # appliedepidata 0.0.0.9006
 
 * Updated feveriosis in feveria data to be in Viraland

@@ -21,7 +21,7 @@
 #' 
 #' This dataset is licensed under [CC by-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 #' 
-#' @format A dataframe with 434 rows and 13 columns. 
+#' @format A dataframe with 427 rows and 13 columns. 
 #' 
 #' @docType data
 "feveriosis_main"
