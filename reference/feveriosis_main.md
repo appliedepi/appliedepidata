@@ -11,7 +11,7 @@ feveriosis_main
 
 ## Format
 
-A dataframe with 434 rows and 13 columns.
+A dataframe with 427 rows and 13 columns.
 
 ## Source
 

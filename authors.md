@@ -8,13 +8,13 @@
 ## Citation
 
 Spina A (2026). *appliedepidata: Datasets used in Applied Epi courses
-and resources*. R package version 0.0.0.9006,
+and resources*. R package version 0.0.0.9007,
 <https://appliedepi.github.io/appliedepidata/>.
 
     @Manual{,
       title = {appliedepidata: Datasets used in Applied Epi courses and resources},
       author = {Alexander Spina},
       year = {2026},
-      note = {R package version 0.0.0.9006},
+      note = {R package version 0.0.0.9007},
       url = {https://appliedepi.github.io/appliedepidata/},
     }
