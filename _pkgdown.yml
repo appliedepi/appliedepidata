@@ -25,7 +25,22 @@ reference:
   contents:
   - feveriosis_main
   - feveriosis_recent
-  
+
+- subtitle: Feveriosis surveillance data, Feveria (2025) - French
+  contents:
+  - feveriosis_main_fr
+  - feveriosis_recent_fr
+
+- subtitle: Feveriosis surveillance data, Feveria (2025) - Spanish
+  contents:
+  - feveriosis_main_es
+  - feveriosis_recent_es
+
+- subtitle: Feveriosis surveillance data, Feveria (2025) - Portuguese
+  contents:
+  - feveriosis_main_pt
+  - feveriosis_recent_pt
+
 - subtitle: Multidisease lab and surveillance data, Feveria (2024) - English
   contents:
   - multidisease_tests
