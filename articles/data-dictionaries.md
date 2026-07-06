@@ -13,6 +13,7 @@ and then translating the content, you could then use {matchmaker} to
 recode.
 
 ``` r
+
 # Define the path to the Excel file in inst/extdata
 import_path <- system.file("extdata", "AJS_AmTiman.xlsx", package = "appliedepidata")
 

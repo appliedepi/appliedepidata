@@ -44,6 +44,33 @@
   : Recent feveriosis surveillance data from Viraland from Aug 31 2026
   to Sep 4 2026
 
+### Feveriosis surveillance data, Feveria (2025) - French
+
+- [`feveriosis_main_fr`](https://appliedepi.github.io/appliedepidata/reference/feveriosis_main_fr.md)
+  : Feveriosis surveillance data from Viraland from Jan 1 2025 to Aug 31
+  2026 \\French\\
+- [`feveriosis_recent_fr`](https://appliedepi.github.io/appliedepidata/reference/feveriosis_recent_fr.md)
+  : Recent feveriosis surveillance data from Viraland from Aug 31 2026
+  to Sep 4 2026 \\French\\
+
+### Feveriosis surveillance data, Feveria (2025) - Spanish
+
+- [`feveriosis_main_es`](https://appliedepi.github.io/appliedepidata/reference/feveriosis_main_es.md)
+  : Feveriosis surveillance data from Viraland from Jan 1 2025 to Aug 31
+  2026 \\Spanish\\
+- [`feveriosis_recent_es`](https://appliedepi.github.io/appliedepidata/reference/feveriosis_recent_es.md)
+  : Recent feveriosis surveillance data from Viraland from Aug 31 2026
+  to Sep 4 2026 \\Spanish\\
+
+### Feveriosis surveillance data, Feveria (2025) - Portuguese
+
+- [`feveriosis_main_pt`](https://appliedepi.github.io/appliedepidata/reference/feveriosis_main_pt.md)
+  : Feveriosis surveillance data from Viraland from Jan 1 2025 to Aug 31
+  2026 \\Portuguese\\
+- [`feveriosis_recent_pt`](https://appliedepi.github.io/appliedepidata/reference/feveriosis_recent_pt.md)
+  : Recent feveriosis surveillance data from Viraland from Aug 31 2026
+  to Sep 4 2026 \\Portuguese\\
+
 ### Multidisease lab and surveillance data, Feveria (2024) - English
 
 - [`multidisease_tests`](https://appliedepi.github.io/appliedepidata/reference/multidisease_tests.md)

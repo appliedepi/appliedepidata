@@ -126,6 +126,7 @@ step 3 below.
     both versions of the data.
 
 ``` r
+
   
 ## code to prepare `examplename_linelist` dataset goes here
 
@@ -265,24 +266,24 @@ for the translated version while keeping the `data_version` and
 This ensures you can trace back the parent-child relationship between
 datasets.
 
-| **Variable**          | **Example Entry**                                    |
-|-----------------------|------------------------------------------------------|
-| **name**              | `ebola_linelist_cleaned`                             |
-| **type**              | `linelist`                                           |
-| **extension**         | `xlsx`                                               |
-| **type_version**      | `1`                                                  |
-| **data_version**      | `1`                                                  |
-| **language**          | `en`                                                 |
-| **country**           | `lbr`                                                |
-| **scale**             | `national`                                           |
-| **subject**           | `ebola`                                              |
-| **context**           | `outbreak`                                           |
-| **fictional**         | `yes`                                                |
-| **year**              | `2014`                                               |
-| **description**       | Linelist data from the Ebola virus                   |
-|                       | disease outbreak in Liberia in                       |
-|                       | 2014\.                                               |
-| **usage**             | `introexercises`, etc.                               |
-| **license**           | `gpl3`                                               |
-| **group_identifier**  | `ebola_outbreak_lbr_2014`                            |
+| **Variable** | **Example Entry** |
+|----|----|
+| **name** | `ebola_linelist_cleaned` |
+| **type** | `linelist` |
+| **extension** | `xlsx` |
+| **type_version** | `1` |
+| **data_version** | `1` |
+| **language** | `en` |
+| **country** | `lbr` |
+| **scale** | `national` |
+| **subject** | `ebola` |
+| **context** | `outbreak` |
+| **fictional** | `yes` |
+| **year** | `2014` |
+| **description** | Linelist data from the Ebola virus |
+|  | disease outbreak in Liberia in |
+|  | 2014\. |
+| **usage** | `introexercises`, etc. |
+| **license** | `gpl3` |
+| **group_identifier** | `ebola_outbreak_lbr_2014` |
 | **unique_identifier** | `ebola_outbreak_lbr_2014_linelist_1_1_outbreak_2014` |
