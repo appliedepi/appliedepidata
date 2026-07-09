@@ -41,6 +41,11 @@ reference:
   - feveriosis_main_pt
   - feveriosis_recent_pt
 
+- subtitle: Feveriosis surveillance data, Feveria (2025) - Russian
+  contents:
+  - feveriosis_main_ru
+  - feveriosis_recent_ru
+
 - subtitle: Multidisease lab and surveillance data, Feveria (2024) - English
   contents:
   - multidisease_tests
