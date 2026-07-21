@@ -1,3 +1,7 @@
+# appliedepidata 0.0.0.9008
+
+* Added epiRhandbook time series datasets: `campylobacter_germany`, `germany_weather`, and `campylobacter_germany_epirh`
+
 # appliedepidata 0.0.0.9007 
 
 * Updated feveriosis data after feedback 

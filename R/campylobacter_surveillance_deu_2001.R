@@ -23,9 +23,43 @@
 #' @references {Manitz, J. and Höhle, M. (2013): Bayesian outbreak detection algorithm for monitoring reported cases of campylobacteriosis in Germany. Biometrical Journal, 55(4), 509-526} \doi{10.1002/bimj.201200141}
 #' 
 #' @format A data frame with 509 rows and 2 columns
-#' 
+#'
 #' @docType data
 "campylobacter_germany"
+
+
+
+
+#' @title Full linelist data of Campylobacter surveillance in Germany 2001-2011
+#'
+#' @description
+#' Full (untrimmed) linelist data of Campylobacter surveillance in Germany 2001-2011.
+#'
+#' @details
+#' Weekly number of reported campylobacteriosis cases in Germany, 2001-2011. Unlike
+#' \link{campylobacter_germany}, this version keeps the full series and is prepared
+#' for use in the epiRhandbook time series chapter, alongside \link{germany_weather}.
+#'
+#' @source This data was originally added to the {surveillance} package and only
+#' kept date and cases variables. The data on campylobacteriosis cases have been
+#' queried from the "SurvstatRKI" database of the German Robert Koch Institute
+#' (https://survstat.rki.de/).
+#'
+#' The original dataset can be accessed using data("CampyDe"). Within
+#' this package the original dataset is campylobacter_germany_epirh.xlsx
+#'
+#' This is version 1.0.
+#'
+#' This dataset is English.
+#'
+#' This dataset is licensed under [GPL3](https://www.gnu.org/licenses/gpl-3.0.html)
+#'
+#' @references {Manitz, J. and Höhle, M. (2013): Bayesian outbreak detection algorithm for monitoring reported cases of campylobacteriosis in Germany. Biometrical Journal, 55(4), 509-526} \doi{10.1002/bimj.201200141}
+#'
+#' @format A data frame with 522 rows and 2 columns
+#'
+#' @docType data
+"campylobacter_germany_epirh"
 
 
 
