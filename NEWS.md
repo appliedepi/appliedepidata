@@ -1,6 +1,7 @@
 # appliedepidata 0.0.0.9008
 
 * Added epiRhandbook time series datasets: `campylobacter_germany`, `germany_weather`, and `campylobacter_germany_epirh`
+* Added `case_linelists_` bundle of epiRhandbook datasets: `case_linelists_linelist_raw`, `case_linelists_linelist_cleaned_excel`, `case_linelists_linelist_cleaned_rds`, and `case_linelists_cleaning_dict`
 
 # appliedepidata 0.0.0.9007 
 
