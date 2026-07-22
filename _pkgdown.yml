@@ -91,12 +91,13 @@ reference:
   - fluH7N9_China_2013
   
 - subtitle: Fictional linelist data from Ebola outbreak in Sierra Leone (2014) - English
-  contents: 
+  contents:
   - linelist_raw
   - linelist_cleaned_excel
   - linelist_cleaned_rds
   - hospital_linelists
   - linelist_cleaned_with_adm3
+  - linelist_cleaned
   - cleaning_dict
   - sle_adm3
   - sle_admpop_adm3_2020
@@ -186,3 +187,21 @@ reference:
   - gis_linelist_cleaned_with_adm3
   - gis_covid_incidence
   - gis_population_sle_population_statistics_sierraleone_2020
+
+- subtitle: GIS basics mapping example, Africa (2020) - English
+  contents:
+  - gis_africa_countries
+
+- subtitle: Epidemic models example, Ebola outbreak in Sierra Leone (2014) - English
+  contents:
+  - epidemic_models_epinow_res
+  - epidemic_models_epinow_res_small
+  - epidemic_models_generation_time
+  - epidemic_models_incubation_period
+  - epidemic_models_estimate_samples
+  - epidemic_models_estimated_reported_cases_samples
+  - epidemic_models_latest_date
+  - epidemic_models_reported_cases
+  - epidemic_models_summarised_estimated_reported_cases
+  - epidemic_models_summarised_estimates
+  - epidemic_models_summary
