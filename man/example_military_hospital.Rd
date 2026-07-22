@@ -8,7 +8,7 @@
 A data frame with 896 rows and 30 columns
 }
 \source{
-Within this package the original dataset is \verb{example_Military Hospital.csv}.
+Within this package the original dataset is \code{example_military_hospital.csv}.
 
 This is version 1.0.
 

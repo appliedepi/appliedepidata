@@ -9,7 +9,7 @@ A data frame with 422 rows and 30 columns
 }
 \source{
 Within this package the original dataset is
-\verb{example_St. Mark's Maternity Hospital (SMMH).csv}.
+\code{example_st_marks_maternity_hospital.csv}.
 
 This is version 1.0.
 

@@ -1,7 +1,7 @@
 ## code to prepare `example_port_hospital` dataset goes here
 
 # Define the path to the csv file in inst/extdata
-file_path <- system.file("extdata", "example_Port Hospital.csv", package = "appliedepidata")
+file_path <- system.file("extdata", "example_port_hospital.csv", package = "appliedepidata")
 
 # Read in the csv file using rio
 example_port_hospital <- rio::import(file_path)

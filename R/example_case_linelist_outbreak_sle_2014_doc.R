@@ -74,7 +74,7 @@
 #' \link{example_st_marks_maternity_hospital}, \link{example_missing}, and
 #' \link{example_other}.
 #'
-#' @source Within this package the original dataset is `example_Central Hospital.csv`.
+#' @source Within this package the original dataset is `example_central_hospital.csv`.
 #'
 #' This is version 1.0.
 #'
@@ -104,7 +104,7 @@
 #' \link{example_st_marks_maternity_hospital}, \link{example_missing}, and
 #' \link{example_other}.
 #'
-#' @source Within this package the original dataset is `example_Military Hospital.csv`.
+#' @source Within this package the original dataset is `example_military_hospital.csv`.
 #'
 #' This is version 1.0.
 #'
@@ -134,7 +134,7 @@
 #' \link{example_st_marks_maternity_hospital}, \link{example_missing}, and
 #' \link{example_other}.
 #'
-#' @source Within this package the original dataset is `example_Port Hospital.csv`.
+#' @source Within this package the original dataset is `example_port_hospital.csv`.
 #'
 #' This is version 1.0.
 #'
@@ -164,7 +164,7 @@
 #' \link{example_port_hospital}, \link{example_missing}, and \link{example_other}.
 #'
 #' @source Within this package the original dataset is
-#' `example_St. Mark's Maternity Hospital (SMMH).csv`.
+#' `example_st_marks_maternity_hospital.csv`.
 #'
 #' This is version 1.0.
 #'
