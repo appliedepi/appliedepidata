@@ -144,12 +144,42 @@
 #' 
 #' @references {WHO Ebola Response Team. 2014. Ebola virus disease in West Africa–the first 9 months of the epidemic and forward projections. The New England journal of medicine 371:1481–1495} \doi{10.1056/NEJMoa1411100}
 #' @format A data frame with 454 rows and 30 columns
-#' 
+#'
 #' @docType data
 "linelist_cleaned_with_adm3"
 
 
-#' @title Example data dictionary for fictional Ebola Virus Disease data simulating properties from the 
+
+#' @title Cleaned fictional Ebola Virus Disease data simulating properties from the
+#' West African Ebola outbreak of 2014 (plain copy)
+#'
+#' @description
+#' Cleaned version of fictional Ebola Virus Disease data simulating properties
+#' from the West African Ebola outbreak of 2014.
+#'
+#' @details
+#' This is fictional case-linelist which contains de-indentified individual level data
+#' on clinical outcome, demographics and region. Same content as \link{linelist_cleaned_excel}.
+#'
+#' @source This data is a cleaned version of \link{linelist_raw}, which is cleaned
+#' using code in the [epiRhandbook cleaning chapter](https://epirhandbook.com/en/new_pages/cleaning.html).
+#'
+#' The original dataset is linelist_cleaned.xlsx
+#'
+#' This is version 2.0.
+#'
+#' This dataset is English.
+#'
+#' This dataset is licensed under [MIT](https://opensource.org/license/MIT)
+#'
+#' @references {WHO Ebola Response Team. 2014. Ebola virus disease in West Africa–the first 9 months of the epidemic and forward projections. The New England journal of medicine 371:1481–1495} \doi{10.1056/NEJMoa1411100}
+#' @format A data frame with 5888 rows and 30 columns
+#'
+#' @docType data
+"linelist_cleaned"
+
+
+#' @title Example data dictionary for fictional Ebola Virus Disease data simulating properties from the
 #' West African Ebola outbreak of 2014
 #'
 #' @description

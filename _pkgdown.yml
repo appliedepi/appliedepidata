@@ -91,12 +91,13 @@ reference:
   - fluH7N9_China_2013
   
 - subtitle: Fictional linelist data from Ebola outbreak in Sierra Leone (2014) - English
-  contents: 
+  contents:
   - linelist_raw
   - linelist_cleaned_excel
   - linelist_cleaned_rds
   - hospital_linelists
   - linelist_cleaned_with_adm3
+  - linelist_cleaned
   - cleaning_dict
   - sle_adm3
   - sle_admpop_adm3_2020
@@ -140,10 +141,11 @@ reference:
 
 
 - subtitle: Campylobacter surveillance data from Germany (2001-2011) - English
-  contents: 
+  contents:
   - campylobacter_germany
   - germany_weather
-  
+  - campylobacter_germany_epirh
+
   
 - subtitle: Cholera surveillance data, Viraland (2021) - English
   contents:
@@ -152,3 +154,54 @@ reference:
   - viraland_cholera_20210721_linelist
   - viraland_cholera_20210721_linelist_raw
   - viraland_cholera_20210721_labs
+
+- subtitle: Case linelist cleaning bundle, Ebola outbreak in Sierra Leone (2014) - English
+  contents:
+  - case_linelists_linelist_raw
+  - case_linelists_linelist_cleaned_excel
+  - case_linelists_linelist_cleaned_rds
+  - case_linelists_cleaning_dict
+
+- subtitle: Iteration/loops example - hospital linelists, Ebola outbreak in Sierra Leone (2014) - English
+  contents:
+  - example_case_linelist_2020_10_08
+  - example_hospital_linelists
+  - example_central_hospital
+  - example_military_hospital
+  - example_port_hospital
+  - example_st_marks_maternity_hospital
+  - example_missing
+  - example_other
+
+- subtitle: Iteration/loops example - Influenza A H7N9 data in China (2013) - English
+  contents:
+  - example_fluH7N9_China_2013
+
+- subtitle: Iteration/loops example - malaria cases from Mozambique (2019) - English
+  contents:
+  - example_district_weekly_count_data
+
+- subtitle: GIS basics mapping example, Sierra Leone (2020) - English
+  contents:
+  - gis_population_sle_admpop_adm3_2020
+  - gis_linelist_cleaned_with_adm3
+  - gis_covid_incidence
+  - gis_population_sle_population_statistics_sierraleone_2020
+
+- subtitle: GIS basics mapping example, Africa (2020) - English
+  contents:
+  - gis_africa_countries
+
+- subtitle: Epidemic models example, Ebola outbreak in Sierra Leone (2014) - English
+  contents:
+  - epidemic_models_epinow_res
+  - epidemic_models_epinow_res_small
+  - epidemic_models_generation_time
+  - epidemic_models_incubation_period
+  - epidemic_models_estimate_samples
+  - epidemic_models_estimated_reported_cases_samples
+  - epidemic_models_latest_date
+  - epidemic_models_reported_cases
+  - epidemic_models_summarised_estimated_reported_cases
+  - epidemic_models_summarised_estimates
+  - epidemic_models_summary
