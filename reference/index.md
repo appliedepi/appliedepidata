@@ -167,6 +167,9 @@
   : Subset with additional spatial data of cleaned fictional Ebola Virus
   Disease data simulating properties from the West African Ebola
   outbreak of 2014
+- [`linelist_cleaned`](https://appliedepi.github.io/appliedepidata/reference/linelist_cleaned.md)
+  : Cleaned fictional Ebola Virus Disease data simulating properties
+  from the West African Ebola outbreak of 2014 (plain copy)
 - [`cleaning_dict`](https://appliedepi.github.io/appliedepidata/reference/cleaning_dict.md)
   : Example data dictionary for fictional Ebola Virus Disease data
   simulating properties from the West African Ebola outbreak of 2014
@@ -242,6 +245,9 @@
   : Linelist data of Campylobacter surveillance in Germany 2001-2011.
 - [`germany_weather`](https://appliedepi.github.io/appliedepidata/reference/germany_weather.md)
   : Weather data for Germany from 2001-2011
+- [`campylobacter_germany_epirh`](https://appliedepi.github.io/appliedepidata/reference/campylobacter_germany_epirh.md)
+  : Full linelist data of Campylobacter surveillance in Germany
+  2001-2011
 
 ### Cholera surveillance data, Viraland (2021) - English
 
@@ -255,3 +261,105 @@
   : Raw cholera surveillance data for Viraland, 21 July 2021
 - [`viraland_cholera_20210721_labs`](https://appliedepi.github.io/appliedepidata/reference/viraland_cholera_20210721_labs.md)
   : Lab data with cholera test results for Viraland, 21 July 2021
+
+### Case linelist cleaning bundle, Ebola outbreak in Sierra Leone (2014) - English
+
+- [`case_linelists_linelist_raw`](https://appliedepi.github.io/appliedepidata/reference/case_linelists_linelist_raw.md)
+  : Fictional case linelist data simulating properties from the West
+  African Ebola outbreak of 2014
+- [`case_linelists_linelist_cleaned_excel`](https://appliedepi.github.io/appliedepidata/reference/case_linelists_linelist_cleaned_excel.md)
+  : Cleaned fictional case linelist data (Excel) simulating properties
+  from the West African Ebola outbreak of 2014
+- [`case_linelists_linelist_cleaned_rds`](https://appliedepi.github.io/appliedepidata/reference/case_linelists_linelist_cleaned_rds.md)
+  : Cleaned fictional case linelist data (rds) simulating properties
+  from the West African Ebola outbreak of 2014
+- [`case_linelists_cleaning_dict`](https://appliedepi.github.io/appliedepidata/reference/case_linelists_cleaning_dict.md)
+  : Example data dictionary for fictional case linelist data simulating
+  properties from the West African Ebola outbreak of 2014
+
+### Iteration/loops example - hospital linelists, Ebola outbreak in Sierra Leone (2014) - English
+
+- [`example_case_linelist_2020_10_08`](https://appliedepi.github.io/appliedepidata/reference/example_case_linelist_2020_10_08.md)
+  : Dated snapshot of fictional case linelist data simulating properties
+  from the West African Ebola outbreak of 2014
+- [`example_hospital_linelists`](https://appliedepi.github.io/appliedepidata/reference/example_hospital_linelists.md)
+  : Combined hospital linelists example, fictional Ebola Virus Disease
+  data (West Africa, 2014)
+- [`example_central_hospital`](https://appliedepi.github.io/appliedepidata/reference/example_central_hospital.md)
+  : Central Hospital subset, fictional Ebola Virus Disease case linelist
+  (West Africa, 2014)
+- [`example_military_hospital`](https://appliedepi.github.io/appliedepidata/reference/example_military_hospital.md)
+  : Military Hospital subset, fictional Ebola Virus Disease case
+  linelist (West Africa, 2014)
+- [`example_port_hospital`](https://appliedepi.github.io/appliedepidata/reference/example_port_hospital.md)
+  : Port Hospital subset, fictional Ebola Virus Disease case linelist
+  (West Africa, 2014)
+- [`example_st_marks_maternity_hospital`](https://appliedepi.github.io/appliedepidata/reference/example_st_marks_maternity_hospital.md)
+  : St. Mark's Maternity Hospital (SMMH) subset, fictional Ebola Virus
+  Disease case linelist (West Africa, 2014)
+- [`example_missing`](https://appliedepi.github.io/appliedepidata/reference/example_missing.md)
+  : Missing-hospital subset, fictional Ebola Virus Disease case linelist
+  (West Africa, 2014)
+- [`example_other`](https://appliedepi.github.io/appliedepidata/reference/example_other.md)
+  : Other-hospital subset, fictional Ebola Virus Disease case linelist
+  (West Africa, 2014)
+
+### Iteration/loops example - Influenza A H7N9 data in China (2013) - English
+
+- [`example_fluH7N9_China_2013`](https://appliedepi.github.io/appliedepidata/reference/example_fluH7N9_China_2013.md)
+  : Linelist data from an outbreak of influenza A H7N9 in China 2013
+  (example copy)
+
+### Iteration/loops example - malaria cases from Mozambique (2019) - English
+
+- [`example_district_weekly_count_data`](https://appliedepi.github.io/appliedepidata/reference/example_district_weekly_count_data.md)
+  : Fictional counts of malaria cases from Mozambique (example copy)
+
+### GIS basics mapping example, Sierra Leone (2020) - English
+
+- [`gis_population_sle_admpop_adm3_2020`](https://appliedepi.github.io/appliedepidata/reference/gis_population_sle_admpop_adm3_2020.md)
+  : Population data at admin level 3 for Sierra Leone (GIS basics
+  example)
+- [`gis_linelist_cleaned_with_adm3`](https://appliedepi.github.io/appliedepidata/reference/gis_linelist_cleaned_with_adm3.md)
+  : Cleaned fictional Ebola linelist joined with admin-3 spatial data
+  (GIS basics example)
+- [`gis_covid_incidence`](https://appliedepi.github.io/appliedepidata/reference/gis_covid_incidence.md)
+  : Fictional cumulative COVID-19 incidence by country (GIS basics
+  example)
+- [`gis_population_sle_population_statistics_sierraleone_2020`](https://appliedepi.github.io/appliedepidata/reference/gis_population_sle_population_statistics_sierraleone_2020.md)
+  : Age/sex population proportions for Sierra Leone (GIS basics example)
+
+### GIS basics mapping example, Africa (2020) - English
+
+- [`gis_africa_countries`](https://appliedepi.github.io/appliedepidata/reference/gis_africa_countries.md)
+  : Africa country boundaries (GIS basics example)
+
+### Epidemic models example, Ebola outbreak in Sierra Leone (2014) - English
+
+- [`epidemic_models_epinow_res`](https://appliedepi.github.io/appliedepidata/reference/epidemic_models_epinow_res.md)
+  [`epidemic_models_epinow_res_small`](https://appliedepi.github.io/appliedepidata/reference/epidemic_models_epinow_res.md)
+  [`epidemic_models_generation_time`](https://appliedepi.github.io/appliedepidata/reference/epidemic_models_epinow_res.md)
+  [`epidemic_models_incubation_period`](https://appliedepi.github.io/appliedepidata/reference/epidemic_models_epinow_res.md)
+  : Outputs from epinow2, fictional Ebola outbreak in Sierra
+  Leone (2014) - epidemic models example
+- [`epidemic_models_estimate_samples`](https://appliedepi.github.io/appliedepidata/reference/epidemic_models_estimate_samples.md)
+  : Posterior estimate samples, fictional Ebola outbreak in Sierra
+  Leone (2014) - epidemic models example
+- [`epidemic_models_estimated_reported_cases_samples`](https://appliedepi.github.io/appliedepidata/reference/epidemic_models_estimated_reported_cases_samples.md)
+  : Posterior estimated-reported-cases samples, fictional Ebola outbreak
+  in Sierra Leone (2014) - epidemic models example
+- [`epidemic_models_latest_date`](https://appliedepi.github.io/appliedepidata/reference/epidemic_models_latest_date.md)
+  : Latest observation date, fictional Ebola outbreak in Sierra
+  Leone (2014) - epidemic models example
+- [`epidemic_models_reported_cases`](https://appliedepi.github.io/appliedepidata/reference/epidemic_models_reported_cases.md)
+  : Reported case counts, fictional Ebola outbreak in Sierra
+  Leone (2014) - epidemic models example
+- [`epidemic_models_summarised_estimated_reported_cases`](https://appliedepi.github.io/appliedepidata/reference/epidemic_models_summarised_estimated_reported_cases.md)
+  : Summarised estimated-reported-cases, fictional Ebola outbreak in
+  Sierra Leone (2014) - epidemic models example
+- [`epidemic_models_summarised_estimates`](https://appliedepi.github.io/appliedepidata/reference/epidemic_models_summarised_estimates.md)
+  : Summarised estimates, fictional Ebola outbreak in Sierra
+  Leone (2014) - epidemic models example
+- [`epidemic_models_summary`](https://appliedepi.github.io/appliedepidata/reference/epidemic_models_summary.md)
+  : Model run summary, fictional Ebola outbreak in Sierra Leone (2014) -
+  epidemic models example
