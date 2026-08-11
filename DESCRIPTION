@@ -1,6 +1,6 @@
 Package: appliedepidata
 Title: Datasets used in Applied Epi courses and resources
-Version: 0.0.0.9008
+Version: 0.0.0.9009
 Authors@R: 
     c(person(given = "Alexander",
              family = "Spina",
@@ -11,7 +11,6 @@ Description: Datasets used in Applied Epi courses and resources
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.3
 Imports: 
     cli, 
     clipr,
@@ -36,3 +35,4 @@ Depends:
 LazyData: true
 URL: https://appliedepi.github.io/appliedepidata/
 VignetteBuilder: knitr
+Config/roxygen2/version: 8.0.0
