@@ -114,6 +114,15 @@
   : Notifiable disease surveillance data from Feveria in 2024
   \\Portuguese\\
 
+### Multidisease lab and surveillance data, Feveria (2024) - Russian
+
+- [`testy_multibolezni`](https://appliedepi.github.io/appliedepidata/reference/testy_multibolezni.md)
+  : Test results for notifiable disease surveillance cases in Feveria in
+  2024 \\Russian\\
+- [`uvedomleniya_multibolezni`](https://appliedepi.github.io/appliedepidata/reference/uvedomleniya_multibolezni.md)
+  : Notifiable disease surveillance data from Feveria in 2024
+  \\Russian\\
+
 ### Sitrep example datasets - English
 
 - [`mortality_survey_data`](https://appliedepi.github.io/appliedepidata/reference/mortality_survey_data.md)
