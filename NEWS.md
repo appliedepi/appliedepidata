@@ -1,3 +1,7 @@
+# appliedepidata 0.0.0.9009
+
+* Added Russian-language multidisease surveillance case study datasets: `testy_multibolezni` and `uvedomleniya_multibolezni`
+
 # appliedepidata 0.0.0.9008
 
 * Added epiRhandbook time series datasets: `campylobacter_germany`, `germany_weather`, and `campylobacter_germany_epirh`

@@ -1,0 +1,1315 @@
+nazvanie_laboratorii,id_uvedomleniya,id_obraztsa,data_testa,test,obekt_issledovaniya,znachenie
+Universitetskaya bolnitsa Kasara,0ca093,3c514a41,2024-08-26T19:29:47.870Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,3a6ba0,66a3b88b,2024-12-28T22:33:50.829Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,043228,d2271be0,2024-06-25T20:36:35.936Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,56dab6,f6b9c8ef,2024-08-02T19:54:50.207Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,85a239,a8d5227e,2024-06-03T09:30:00.840Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,939d4c,8e7107fb,2024-08-18T13:49:37.384Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,7b613c,977b1fa1,2024-01-16T19:53:00.913Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,1f749c,b1bc8113,2024-08-09T22:52:07.143Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,bfd95b,612c5e71,2024-08-18T14:33:07.288Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,2f9a1b,ccef58ec,2024-07-04T03:11:40.023Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,3fdd51,ac3856fd,2024-06-26T13:24:00.494Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,e5dd12,b2f089b6,2024-04-26T21:09:07.684Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,e02bb0,91e629d7,2024-06-23T06:10:32.452Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,d6077b,378cd968,2024-08-05T08:42:36.005Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,f99902,3644f768,2024-08-21T22:31:34.964Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,48ac3c,36c5b754,2024-06-23T17:15:05.062Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,0d3410,14225fbb,2024-08-16T09:13:20.627Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,3c67d5,322f08ad,2024-08-04T14:29:39.964Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,3024d2,bd28a502,2024-06-28T11:19:41.854Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,9f54bb,12c17646,2024-07-26T06:54:36.622Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,10a545,5cfc4141,2024-07-19T01:15:05.801Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,43e92b,64b5996b,2024-07-02T20:42:14.669Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,e29f9a,54d9a80c,2024-01-27T08:06:32.202Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,dfde8c,c64de7e5,2024-08-01T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,a68be0,1cd313c8,2024-11-18T08:37:06.048Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,8b55c4,1a52432e,2024-08-27T05:39:20.122Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,b555f1,c26e7d94,2024-03-10T00:00:00Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Universitetskaya bolnitsa Kasara,8e9480,b7675fa2,2024-03-16T21:52:44.253Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Universitetskaya bolnitsa Kasara,006f52,b41ab18c,2024-03-12T16:07:40.393Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,18e5f8,4b62dc89,2024-03-21T09:57:56.031Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,20bd1d,071255c1,2024-03-17T18:45:49.367Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,ca437c,ef01eec0,2024-03-15T13:59:46.831Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,70a5ff,e4643cec,2024-03-21T02:17:48.407Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,02469c,619867cc,2024-03-20T01:24:02.843Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,524407,38b53831,2024-03-23T11:39:18.638Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,75b7aa,8bae09a9,2024-03-22T11:50:44.790Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,492a1a,70b4e3e3,2024-07-18T13:53:30.046Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,656e04,686afdc3,2024-07-14T15:08:47.448Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,f84322,2883180d,2024-07-17T15:57:21.488Z,IgM ELISA,Zheltaya likhoradka IgM,I
+Bolnitsa Feveria,8f1812,20a1769b,2024-07-20T06:57:20.422Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,5098a6,718edec8,2024-08-01T17:40:17.820Z,IgM ELISA,Zheltaya likhoradka IgM,I
+Bolnitsa Feveria,951b47,f294cc24,2024-07-30T08:07:10.754Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,3f6df3,12dd34a1,2024-07-26T18:44:43.036Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,78f1ef,96c15ff4,2024-08-02T18:32:01.461Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,c61678,7b5d2266,2024-07-28T23:17:43.333Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,c060ed,d65d9a89,2024-07-31T10:16:23.738Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,02b161,63c13a3c,2024-07-30T22:29:13.968Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,ba3be2,6d1a611a,2024-08-12T03:57:18.251Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,d86c08,347b45d6,2024-08-04T11:45:50.329Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Universitetskaya bolnitsa Kasara,6b2dbf,89e7d578,2024-08-10T01:13:56.655Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,ace95b,fe0270b4,2024-08-05T02:18:40.799Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,daee98,bc16346a,2024-08-08T08:45:07.714Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,644d51,a39a18f0,2024-08-13T09:37:41.480Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,b0a428,7f8557d7,2024-08-05T13:05:09.126Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,a4d318,228cc703,2024-08-14T19:46:04.427Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,c5f65e,056ae2a1,2024-08-09T20:39:44.651Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Universitetskaya bolnitsa Kasara,e0cb28,e9b6e9cc,2024-08-14T12:57:41.357Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,577fea,d63b21f5,2024-08-17T00:43:09.444Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,aa8fc9,bc197281,2024-08-17T08:52:30.226Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,26a22f,445a51c9,2024-08-20T10:53:34.591Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,66004a,440cafc9,2024-08-19T15:05:19.348Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,9371c2,7f7cbc77,2024-08-23T02:05:24.760Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,66c60a,c2486697,2024-08-23T13:05:19.788Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,46c2c0,5bdc02dc,2024-08-22T08:46:13.355Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Universitetskaya bolnitsa Kasara,e65aa4,8560bc0e,2024-08-19T02:32:09.620Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Universitetskaya bolnitsa Kasara,0c4af7,ca4ca673,2024-08-21T20:10:20.686Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,f857ba,abbc837e,2024-08-21T06:44:37.727Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,049819,39a0b5a8,2024-08-22T01:14:43.521Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,9016ed,e7b6dae1,2024-08-23T15:16:22.832Z,IgM ELISA,Zheltaya likhoradka IgM,I
+Bolnitsa Feveria,473600,3e8b5bfa,2024-08-21T17:07:34.842Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,f21708,48b00313,2024-06-07T00:00:00Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,f21708,48b00313,2024-06-07T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,f21708,48b00313,2024-06-07T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,6a47a3,ca5e865b,2024-06-15T20:33:47.808Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,6a47a3,ca5e865b,2024-06-15T20:33:47.808Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,6a47a3,ca5e865b,2024-06-15T20:33:47.808Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,3bb418,e2a40669,2024-06-15T21:57:50.335Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,3bb418,e2a40669,2024-06-15T21:57:50.335Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,3bb418,e2a40669,2024-06-15T21:57:50.335Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,cb0bf7,87f92fc3,2024-06-15T06:27:47.026Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,cb0bf7,87f92fc3,2024-06-15T06:27:47.026Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,cb0bf7,87f92fc3,2024-06-15T06:27:47.026Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,68caf7,39104e73,2024-06-27T11:37:10.101Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,68caf7,39104e73,2024-06-27T11:37:10.101Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,68caf7,39104e73,2024-06-27T11:37:10.101Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,12699c,3910e692,2024-06-20T02:42:54.658Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,12699c,3910e692,2024-06-20T02:42:54.658Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,12699c,3910e692,2024-06-20T02:42:54.658Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,f42f62,38b3666a,2024-06-28T00:33:18.032Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,f42f62,38b3666a,2024-06-28T00:33:18.032Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,f42f62,38b3666a,2024-06-28T00:33:18.032Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,1eaa8e,1e36e63b,2024-06-27T02:39:14.018Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,1eaa8e,1e36e63b,2024-06-27T02:39:14.018Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,1eaa8e,1e36e63b,2024-06-27T02:39:14.018Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,c163c3,86144553,2024-06-29T14:06:45.484Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,c163c3,86144553,2024-06-29T14:06:45.484Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,c163c3,86144553,2024-06-29T14:06:45.484Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,fe80e1,231aa84d,2024-06-29T21:49:21.984Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,fe80e1,231aa84d,2024-06-29T21:49:21.984Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,fe80e1,231aa84d,2024-06-29T21:49:21.984Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,0b0e41,7fd1df57,2024-06-28T04:22:39.944Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,0b0e41,7fd1df57,2024-06-28T04:22:39.944Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,0b0e41,7fd1df57,2024-06-28T04:22:39.944Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,bd6056,53940426,2024-07-06T22:25:09.193Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,bd6056,53940426,2024-07-06T22:25:09.193Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,bd6056,53940426,2024-07-06T22:25:09.193Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,3c5d6d,99183f60,2024-07-07T00:28:58.538Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,3c5d6d,99183f60,2024-07-07T00:28:58.538Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,3c5d6d,99183f60,2024-07-07T00:28:58.538Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,4ac4a6,592804ec,2024-02-22T00:00:00Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,4ac4a6,592804ec,2024-02-22T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,4ac4a6,592804ec,2024-02-22T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,0e9a36,6014609c,2024-02-24T03:55:56.989Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,0e9a36,6014609c,2024-02-24T03:55:56.989Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,0e9a36,6014609c,2024-02-24T03:55:56.989Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,924d78,69d1f086,2024-03-06T07:29:34.612Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,924d78,69d1f086,2024-03-06T07:29:34.612Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,924d78,69d1f086,2024-03-06T07:29:34.612Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,1310dd,4dc1e87a,2024-02-28T08:38:54.921Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,1310dd,4dc1e87a,2024-02-28T08:38:54.921Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,1310dd,4dc1e87a,2024-02-28T08:38:54.921Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,b0889c,41848983,2024-02-26T18:40:39.271Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,b0889c,41848983,2024-02-26T18:40:39.271Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,b0889c,41848983,2024-02-26T18:40:39.271Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,b81d08,9df6dfb3,2024-03-02T02:59:22.952Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,b81d08,9df6dfb3,2024-03-02T02:59:22.952Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,b81d08,9df6dfb3,2024-03-02T02:59:22.952Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,c78b2f,55c2aa17,2024-03-08T22:27:18.026Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,c78b2f,55c2aa17,2024-03-08T22:27:18.026Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,c78b2f,55c2aa17,2024-03-08T22:27:18.026Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,bc695d,a7b61df2,2024-03-07T15:35:54.579Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,bc695d,a7b61df2,2024-03-07T15:35:54.579Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,bc695d,a7b61df2,2024-03-07T15:35:54.579Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,7302b1,d1e14a0a,2024-03-12T05:09:04.180Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,7302b1,d1e14a0a,2024-03-12T05:09:04.180Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,7302b1,d1e14a0a,2024-03-12T05:09:04.180Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,660871,f96d9eec,2024-03-08T21:08:03.993Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,660871,f96d9eec,2024-03-08T21:08:03.993Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,660871,f96d9eec,2024-03-08T21:08:03.993Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,f69b18,f8e3320c,2024-03-14T23:18:01.502Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,f69b18,f8e3320c,2024-03-14T23:18:01.502Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,f69b18,f8e3320c,2024-03-14T23:18:01.502Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,d69382,04782639,2024-03-17T18:59:13.761Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,d69382,04782639,2024-03-17T18:59:13.761Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,d69382,04782639,2024-03-17T18:59:13.761Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,0e8743,b96a6133,2024-03-16T16:13:56.474Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,0e8743,b96a6133,2024-03-16T16:13:56.474Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,0e8743,b96a6133,2024-03-16T16:13:56.474Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,e2b6f7,817b6c2d,2024-03-15T17:43:48.841Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,e2b6f7,817b6c2d,2024-03-15T17:43:48.841Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,e2b6f7,817b6c2d,2024-03-15T17:43:48.841Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,3dbe7e,6b81d98c,2024-03-16T14:53:00.970Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,3dbe7e,6b81d98c,2024-03-16T14:53:00.970Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,3dbe7e,6b81d98c,2024-03-16T14:53:00.970Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,e4e886,15f4f875,2024-03-22T18:24:38.104Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,e4e886,15f4f875,2024-03-22T18:24:38.104Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,e4e886,15f4f875,2024-03-22T18:24:38.104Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,a5d83a,cf1b049e,2024-03-14T15:55:12.606Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,a5d83a,cf1b049e,2024-03-14T15:55:12.606Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,a5d83a,cf1b049e,2024-03-14T15:55:12.606Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,2de9da,f290d156,2024-03-18T21:36:32.641Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,2de9da,f290d156,2024-03-18T21:36:32.641Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,2de9da,f290d156,2024-03-18T21:36:32.641Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,bcba49,9a033657,2024-01-19T05:20:32.208Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,bcba49,9a033657,2024-01-19T05:20:32.208Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,bcba49,9a033657,2024-01-19T05:20:32.208Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,681011,08de063f,2024-01-21T08:16:25.921Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,681011,08de063f,2024-01-21T08:16:25.921Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,681011,08de063f,2024-01-21T08:16:25.921Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,0abeae,8bc08488,2024-01-26T08:43:52.613Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,0abeae,8bc08488,2024-01-26T08:43:52.613Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,0abeae,8bc08488,2024-01-26T08:43:52.613Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,c4c20d,0110abcd,2024-01-31T10:30:12.763Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,c4c20d,0110abcd,2024-01-31T10:30:12.763Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,c4c20d,0110abcd,2024-01-31T10:30:12.763Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,a693e0,80b343ea,2024-02-06T12:16:26.772Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,a693e0,80b343ea,2024-02-06T12:16:26.772Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,a693e0,80b343ea,2024-02-06T12:16:26.772Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,ff72ab,b712aee3,2024-02-07T15:45:18.249Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,ff72ab,b712aee3,2024-02-07T15:45:18.249Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,ff72ab,b712aee3,2024-02-07T15:45:18.249Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,285f02,33f0cc95,2024-02-02T19:52:49.422Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,285f02,33f0cc95,2024-02-02T19:52:49.422Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,285f02,33f0cc95,2024-02-02T19:52:49.422Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,d05d31,81ae873c,2024-02-03T18:15:09.532Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,d05d31,81ae873c,2024-02-03T18:15:09.532Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,d05d31,81ae873c,2024-02-03T18:15:09.532Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,235302,ccb03295,2024-02-01T19:10:48.215Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,235302,ccb03295,2024-02-01T19:10:48.215Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,235302,ccb03295,2024-02-01T19:10:48.215Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,3a0c08,f2bc0112,2024-02-02T07:41:40.644Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,3a0c08,f2bc0112,2024-02-02T07:41:40.644Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,3a0c08,f2bc0112,2024-02-02T07:41:40.644Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,780680,e0cc6eb2,2024-02-11T19:57:41.643Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,780680,e0cc6eb2,2024-02-11T19:57:41.643Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,780680,e0cc6eb2,2024-02-11T19:57:41.643Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,e99d96,3909740f,2024-02-06T03:00:37.982Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,e99d96,3909740f,2024-02-06T03:00:37.982Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,e99d96,3909740f,2024-02-06T03:00:37.982Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,550007,59405640,2024-02-05T22:06:21.293Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,550007,59405640,2024-02-05T22:06:21.293Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,550007,59405640,2024-02-05T22:06:21.293Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,5cf91e,05d4d7be,2024-02-09T19:24:25.038Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,5cf91e,05d4d7be,2024-02-09T19:24:25.038Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,5cf91e,05d4d7be,2024-02-09T19:24:25.038Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,7fbd65,72c76d2d,2024-02-06T14:30:17.169Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,7fbd65,72c76d2d,2024-02-06T14:30:17.169Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,7fbd65,72c76d2d,2024-02-06T14:30:17.169Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,d6baaf,f08c5e2b,2024-01-31T07:19:16.867Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,d6baaf,f08c5e2b,2024-01-31T07:19:16.867Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,d6baaf,f08c5e2b,2024-01-31T07:19:16.867Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,1b055d,8108cdee,2024-02-14T15:23:40.892Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,1b055d,8108cdee,2024-02-14T15:23:40.892Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,1b055d,8108cdee,2024-02-14T15:23:40.892Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,064bf9,22efff69,2024-02-09T21:02:28.648Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,064bf9,22efff69,2024-02-09T21:02:28.648Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,064bf9,22efff69,2024-02-09T21:02:28.648Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,3184f5,cfc2855a,2024-02-13T12:39:15.735Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,3184f5,cfc2855a,2024-02-13T12:39:15.735Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,3184f5,cfc2855a,2024-02-13T12:39:15.735Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,79f881,116512af,2024-02-16T12:40:21.234Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,79f881,116512af,2024-02-16T12:40:21.234Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,79f881,116512af,2024-02-16T12:40:21.234Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,6445db,6b296d34,2024-02-06T23:18:23.788Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,6445db,6b296d34,2024-02-06T23:18:23.788Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,6445db,6b296d34,2024-02-06T23:18:23.788Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,88f191,60c10d96,2024-02-17T22:44:38.143Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,88f191,60c10d96,2024-02-17T22:44:38.143Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,88f191,60c10d96,2024-02-17T22:44:38.143Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,169a66,e870ddcb,2024-02-10T08:42:46.045Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,169a66,e870ddcb,2024-02-10T08:42:46.045Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,169a66,e870ddcb,2024-02-10T08:42:46.045Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,60b34a,1b0d13b5,2024-02-15T03:46:00.273Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,60b34a,1b0d13b5,2024-02-15T03:46:00.273Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,60b34a,1b0d13b5,2024-02-15T03:46:00.273Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,d3f2ed,92550461,2024-02-03T16:07:40.108Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,d3f2ed,92550461,2024-02-03T16:07:40.108Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,d3f2ed,92550461,2024-02-03T16:07:40.108Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,019045,f3e6abc8,2024-02-05T23:01:14.500Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,019045,f3e6abc8,2024-02-05T23:01:14.500Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,019045,f3e6abc8,2024-02-05T23:01:14.500Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,f3a2d5,ee5745bb,2024-02-05T22:08:56.304Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,f3a2d5,ee5745bb,2024-02-05T22:08:56.304Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,f3a2d5,ee5745bb,2024-02-05T22:08:56.304Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,b9d3c0,f2e7e685,2024-02-14T16:42:08.780Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,b9d3c0,f2e7e685,2024-02-14T16:42:08.780Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,b9d3c0,f2e7e685,2024-02-14T16:42:08.780Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,669e2f,d8edc302,2024-02-16T01:33:26.235Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,669e2f,d8edc302,2024-02-16T01:33:26.235Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,669e2f,d8edc302,2024-02-16T01:33:26.235Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,0adc3b,ab4e2e1d,2024-02-10T14:13:27.408Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,0adc3b,ab4e2e1d,2024-02-10T14:13:27.408Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,0adc3b,ab4e2e1d,2024-02-10T14:13:27.408Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,0e395c,90f8c9ae,2024-02-22T21:20:05.712Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,0e395c,90f8c9ae,2024-02-22T21:20:05.712Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,0e395c,90f8c9ae,2024-02-22T21:20:05.712Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,e6fb5a,68fb4b06,2024-02-13T15:44:57.206Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,e6fb5a,68fb4b06,2024-02-13T15:44:57.206Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,e6fb5a,68fb4b06,2024-02-13T15:44:57.206Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,67a608,825b5477,2024-07-04T00:00:00Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,67a608,825b5477,2024-07-04T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,67a608,825b5477,2024-07-04T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,e823f1,6af53c37,2024-07-11T16:36:24.694Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,e823f1,6af53c37,2024-07-11T16:36:24.694Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,e823f1,6af53c37,2024-07-11T16:36:24.694Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,eb097b,33365161,2024-07-03T11:49:36.966Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,eb097b,33365161,2024-07-03T11:49:36.966Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,eb097b,33365161,2024-07-03T11:49:36.966Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,4db568,8343bb54,2024-07-19T11:59:17.450Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,4db568,8343bb54,2024-07-19T11:59:17.450Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,4db568,8343bb54,2024-07-19T11:59:17.450Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,be72a9,882f71a1,2024-07-12T23:07:30.123Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,be72a9,882f71a1,2024-07-12T23:07:30.123Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,be72a9,882f71a1,2024-07-12T23:07:30.123Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,bbae79,aa5c9058,2024-07-11T18:38:15.951Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,bbae79,aa5c9058,2024-07-11T18:38:15.951Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,bbae79,aa5c9058,2024-07-11T18:38:15.951Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,431fb8,462fe457,2024-07-11T09:59:09.601Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,431fb8,462fe457,2024-07-11T09:59:09.601Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,431fb8,462fe457,2024-07-11T09:59:09.601Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,fa715c,6cdcc989,2024-07-14T20:28:53.944Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,fa715c,6cdcc989,2024-07-14T20:28:53.944Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,fa715c,6cdcc989,2024-07-14T20:28:53.944Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,c058db,a3d84c05,2024-07-12T10:38:03.371Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,c058db,a3d84c05,2024-07-12T10:38:03.371Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,c058db,a3d84c05,2024-07-12T10:38:03.371Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,0dbca5,8d83166f,2024-07-17T13:41:30.132Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,0dbca5,8d83166f,2024-07-17T13:41:30.132Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,0dbca5,8d83166f,2024-07-17T13:41:30.132Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,e56e55,d71119b8,2024-07-27T07:58:38.862Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,e56e55,d71119b8,2024-07-27T07:58:38.862Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,e56e55,d71119b8,2024-07-27T07:58:38.862Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,b40b08,933b0d58,2024-07-21T03:01:03.882Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,b40b08,933b0d58,2024-07-21T03:01:03.882Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,b40b08,933b0d58,2024-07-21T03:01:03.882Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,d9f9a1,4d505f2d,2024-07-11T21:36:28.260Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,d9f9a1,4d505f2d,2024-07-11T21:36:28.260Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,d9f9a1,4d505f2d,2024-07-11T21:36:28.260Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,4c5537,718157b7,2024-07-18T14:58:13.162Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,4c5537,718157b7,2024-07-18T14:58:13.162Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,4c5537,718157b7,2024-07-18T14:58:13.162Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,555d23,1dc11137,2024-07-17T15:32:52.549Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,555d23,1dc11137,2024-07-17T15:32:52.549Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,555d23,1dc11137,2024-07-17T15:32:52.549Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,131222,6a1aee6d,2024-07-23T03:46:34.775Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,131222,6a1aee6d,2024-07-23T03:46:34.775Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,131222,6a1aee6d,2024-07-23T03:46:34.775Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,ec79ff,caf6b8b8,2024-07-14T07:54:46.383Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,ec79ff,caf6b8b8,2024-07-14T07:54:46.383Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,ec79ff,caf6b8b8,2024-07-14T07:54:46.383Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,acacda,a51cf9e1,2024-07-12T05:42:57.022Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,acacda,a51cf9e1,2024-07-12T05:42:57.022Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,acacda,a51cf9e1,2024-07-12T05:42:57.022Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,397138,72fc7e1d,2024-07-24T17:43:04.819Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,397138,72fc7e1d,2024-07-24T17:43:04.819Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,397138,72fc7e1d,2024-07-24T17:43:04.819Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,c4b02c,247a6eda,2024-07-22T00:27:03.898Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,c4b02c,247a6eda,2024-07-22T00:27:03.898Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,c4b02c,247a6eda,2024-07-22T00:27:03.898Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,76eba7,fa404570,2024-07-30T07:09:55.499Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,76eba7,fa404570,2024-07-30T07:09:55.499Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,76eba7,fa404570,2024-07-30T07:09:55.499Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,489016,22ff71d5,2024-07-24T22:53:29.216Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,489016,22ff71d5,2024-07-24T22:53:29.216Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,489016,22ff71d5,2024-07-24T22:53:29.216Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,32f6ef,b8337923,2024-07-18T18:38:12.521Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,32f6ef,b8337923,2024-07-18T18:38:12.521Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,32f6ef,b8337923,2024-07-18T18:38:12.521Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,48d904,3ef29221,2024-07-17T10:47:11.525Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,48d904,3ef29221,2024-07-17T10:47:11.525Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,48d904,3ef29221,2024-07-17T10:47:11.525Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,d38394,b9a122b4,2024-07-25T08:20:13.606Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,d38394,b9a122b4,2024-07-25T08:20:13.606Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,d38394,b9a122b4,2024-07-25T08:20:13.606Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,dc5b43,71ee75ed,2024-07-31T07:29:57.862Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,dc5b43,71ee75ed,2024-07-31T07:29:57.862Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,dc5b43,71ee75ed,2024-07-31T07:29:57.862Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,df0960,0abf7e6f,2024-08-04T08:20:01.051Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,df0960,0abf7e6f,2024-08-04T08:20:01.051Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,df0960,0abf7e6f,2024-08-04T08:20:01.051Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,c6852a,b29382e2,2024-07-28T06:23:59.644Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,c6852a,b29382e2,2024-07-28T06:23:59.644Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,c6852a,b29382e2,2024-07-28T06:23:59.644Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,7b29a8,e92911b7,2024-07-17T13:47:23.859Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,7b29a8,e92911b7,2024-07-17T13:47:23.859Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,7b29a8,e92911b7,2024-07-17T13:47:23.859Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,170034,e914eeb7,2024-07-20T13:03:37.218Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,170034,e914eeb7,2024-07-20T13:03:37.218Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,170034,e914eeb7,2024-07-20T13:03:37.218Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,8d5ece,6d62f4de,2024-08-06T08:40:27.766Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,8d5ece,6d62f4de,2024-08-06T08:40:27.766Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,8d5ece,6d62f4de,2024-08-06T08:40:27.766Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,dfb980,558bcb29,2024-08-05T09:53:25.630Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,dfb980,558bcb29,2024-08-05T09:53:25.630Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,dfb980,558bcb29,2024-08-05T09:53:25.630Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,af257d,35d66464,2024-08-08T19:57:51.679Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,af257d,35d66464,2024-08-08T19:57:51.679Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,af257d,35d66464,2024-08-08T19:57:51.679Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,348877,fd2d00d4,2024-08-02T22:51:50.372Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,348877,fd2d00d4,2024-08-02T22:51:50.372Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,348877,fd2d00d4,2024-08-02T22:51:50.372Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,d1eb04,9b07527d,2024-03-11T00:00:00Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,d1eb04,9b07527d,2024-03-11T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,d1eb04,9b07527d,2024-03-11T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,28fd40,00b30781,2024-03-14T08:17:09.424Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,28fd40,00b30781,2024-03-14T08:17:09.424Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,28fd40,00b30781,2024-03-14T08:17:09.424Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,70f0f0,cb03d832,2024-03-18T21:18:36.012Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,70f0f0,cb03d832,2024-03-18T21:18:36.012Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,70f0f0,cb03d832,2024-03-18T21:18:36.012Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,9591e9,27b5c735,2024-03-14T09:18:07.175Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,9591e9,27b5c735,2024-03-14T09:18:07.175Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,9591e9,27b5c735,2024-03-14T09:18:07.175Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,d5980c,beecf331,2024-03-16T15:58:44.335Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,d5980c,beecf331,2024-03-16T15:58:44.335Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,d5980c,beecf331,2024-03-16T15:58:44.335Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,e64888,7d4e2235,2024-03-11T16:06:17.460Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,e64888,7d4e2235,2024-03-11T16:06:17.460Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,e64888,7d4e2235,2024-03-11T16:06:17.460Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,d4e165,b61bcf07,2024-03-06T21:09:32.936Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,d4e165,b61bcf07,2024-03-06T21:09:32.936Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,d4e165,b61bcf07,2024-03-06T21:09:32.936Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,915372,5214d8f3,2024-03-23T07:39:55.198Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,915372,5214d8f3,2024-03-23T07:39:55.198Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,915372,5214d8f3,2024-03-23T07:39:55.198Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,a13421,dde03ed7,2024-03-13T22:58:34.260Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,a13421,dde03ed7,2024-03-13T22:58:34.260Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,a13421,dde03ed7,2024-03-13T22:58:34.260Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,d0cd86,ba112bd8,2024-03-13T07:19:05.943Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,d0cd86,ba112bd8,2024-03-13T07:19:05.943Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,d0cd86,ba112bd8,2024-03-13T07:19:05.943Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,3e4b4e,2627b97f,2024-03-14T21:09:29.282Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,3e4b4e,2627b97f,2024-03-14T21:09:29.282Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,3e4b4e,2627b97f,2024-03-14T21:09:29.282Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,388cd9,13587a4e,2024-03-16T02:08:47.729Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,388cd9,13587a4e,2024-03-16T02:08:47.729Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,388cd9,13587a4e,2024-03-16T02:08:47.729Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,38c53e,0c3cd1c2,2024-09-15T00:00:00Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,38c53e,0c3cd1c2,2024-09-15T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,38c53e,0c3cd1c2,2024-09-15T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,5b2a4c,5e3115a6,2024-09-18T01:56:29.450Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,5b2a4c,5e3115a6,2024-09-18T01:56:29.450Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,5b2a4c,5e3115a6,2024-09-18T01:56:29.450Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,673ffd,4d76e249,2024-09-17T13:44:54.927Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,673ffd,4d76e249,2024-09-17T13:44:54.927Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,673ffd,4d76e249,2024-09-17T13:44:54.927Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,e09b30,b3bf1993,2024-09-23T15:37:56.439Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,e09b30,b3bf1993,2024-09-23T15:37:56.439Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,e09b30,b3bf1993,2024-09-23T15:37:56.439Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,123d68,4474b6cd,2024-09-20T18:00:42.770Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,123d68,4474b6cd,2024-09-20T18:00:42.770Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,123d68,4474b6cd,2024-09-20T18:00:42.770Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,a7d20c,744e35b7,2024-09-29T09:13:54.835Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,a7d20c,744e35b7,2024-09-29T09:13:54.835Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,a7d20c,744e35b7,2024-09-29T09:13:54.835Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,52a4ab,298196c6,2024-09-28T05:49:44.012Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,52a4ab,298196c6,2024-09-28T05:49:44.012Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,52a4ab,298196c6,2024-09-28T05:49:44.012Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,6f873d,646f687a,2024-07-04T00:00:00Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,6f873d,646f687a,2024-07-04T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,6f873d,646f687a,2024-07-04T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,d7db3d,234d142a,2024-07-11T04:30:34.783Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,d7db3d,234d142a,2024-07-11T04:30:34.783Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,d7db3d,234d142a,2024-07-11T04:30:34.783Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,1e2728,4ab7338b,2024-07-06T12:10:19.173Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,1e2728,4ab7338b,2024-07-06T12:10:19.173Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,1e2728,4ab7338b,2024-07-06T12:10:19.173Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,0c3b4d,d9fff618,2024-07-18T18:01:06.186Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,0c3b4d,d9fff618,2024-07-18T18:01:06.186Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,0c3b4d,d9fff618,2024-07-18T18:01:06.186Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,f124c2,36ad9183,2024-07-15T23:13:31.294Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,f124c2,36ad9183,2024-07-15T23:13:31.294Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,f124c2,36ad9183,2024-07-15T23:13:31.294Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,b4a9c8,88e7b5c2,2024-07-06T21:01:01.938Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,b4a9c8,88e7b5c2,2024-07-06T21:01:01.938Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,b4a9c8,88e7b5c2,2024-07-06T21:01:01.938Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,8d8b81,c4c13629,2024-07-26T03:03:59.498Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,8d8b81,c4c13629,2024-07-26T03:03:59.498Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,8d8b81,c4c13629,2024-07-26T03:03:59.498Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,606465,f32fa16d,2024-07-19T01:44:43.584Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,606465,f32fa16d,2024-07-19T01:44:43.584Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,606465,f32fa16d,2024-07-19T01:44:43.584Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,caf67d,012fb1ee,2024-07-30T19:43:17.212Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,caf67d,012fb1ee,2024-07-30T19:43:17.212Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,caf67d,012fb1ee,2024-07-30T19:43:17.212Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,e347bf,13495f7d,2024-07-22T12:43:55.241Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,e347bf,13495f7d,2024-07-22T12:43:55.241Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,e347bf,13495f7d,2024-07-22T12:43:55.241Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,05deb8,5868bded,2024-07-31T16:26:55.168Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,05deb8,5868bded,2024-07-31T16:26:55.168Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,05deb8,5868bded,2024-07-31T16:26:55.168Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,4639cc,4c447780,2024-07-19T17:23:35.918Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,4639cc,4c447780,2024-07-19T17:23:35.918Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,4639cc,4c447780,2024-07-19T17:23:35.918Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,4ea6e5,62f1f7b5,2024-07-13T09:50:37.097Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,4ea6e5,62f1f7b5,2024-07-13T09:50:37.097Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,4ea6e5,62f1f7b5,2024-07-13T09:50:37.097Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,a62176,d58e65d6,2024-08-03T11:37:26.698Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,a62176,d58e65d6,2024-08-03T11:37:26.698Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,a62176,d58e65d6,2024-08-03T11:37:26.698Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,a19c58,92ebeb1b,2024-07-24T16:25:55.865Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,a19c58,92ebeb1b,2024-07-24T16:25:55.865Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,a19c58,92ebeb1b,2024-07-24T16:25:55.865Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,f72124,29f0f73f,2024-07-23T03:06:18.949Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,f72124,29f0f73f,2024-07-23T03:06:18.949Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,f72124,29f0f73f,2024-07-23T03:06:18.949Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,caebee,80ff61e6,2024-07-26T01:06:45.516Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,caebee,80ff61e6,2024-07-26T01:06:45.516Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,caebee,80ff61e6,2024-07-26T01:06:45.516Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,a00ef1,4eb8e86a,2024-07-30T20:13:39.908Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,a00ef1,4eb8e86a,2024-07-30T20:13:39.908Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,a00ef1,4eb8e86a,2024-07-30T20:13:39.908Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,b4acf5,b2a8f546,2024-08-07T19:12:15.615Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,b4acf5,b2a8f546,2024-08-07T19:12:15.615Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,b4acf5,b2a8f546,2024-08-07T19:12:15.615Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,c106c9,0173140d,2024-08-04T16:46:50.883Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,c106c9,0173140d,2024-08-04T16:46:50.883Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,c106c9,0173140d,2024-08-04T16:46:50.883Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,9c9cd0,ea68922c,2024-08-09T17:30:46.359Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,9c9cd0,ea68922c,2024-08-09T17:30:46.359Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,9c9cd0,ea68922c,2024-08-09T17:30:46.359Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,74c328,247a6450,2024-08-12T01:20:32.219Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,74c328,247a6450,2024-08-12T01:20:32.219Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,74c328,247a6450,2024-08-12T01:20:32.219Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,8538f5,ac032374,2024-08-18T13:47:24.928Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,8538f5,ac032374,2024-08-18T13:47:24.928Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,8538f5,ac032374,2024-08-18T13:47:24.928Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,5dc8b4,925a8326,2024-08-11T20:47:26.122Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,5dc8b4,925a8326,2024-08-11T20:47:26.122Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,5dc8b4,925a8326,2024-08-11T20:47:26.122Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,b29ab1,ea5e8e8a,2024-08-11T04:36:33.384Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,b29ab1,ea5e8e8a,2024-08-11T04:36:33.384Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,b29ab1,ea5e8e8a,2024-08-11T04:36:33.384Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,8932ca,99e61c17,2024-08-17T22:55:06.827Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,8932ca,99e61c17,2024-08-17T22:55:06.827Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,8932ca,99e61c17,2024-08-17T22:55:06.827Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,3eaa1c,d0b3d3c3,2024-08-21T00:20:12.334Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,3eaa1c,d0b3d3c3,2024-08-21T00:20:12.334Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,3eaa1c,d0b3d3c3,2024-08-21T00:20:12.334Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,dcb0f3,6c386253,2024-08-21T21:08:32.876Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,dcb0f3,6c386253,2024-08-21T21:08:32.876Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,dcb0f3,6c386253,2024-08-21T21:08:32.876Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,5646f8,8ef8a4b6,2024-08-26T10:51:38.846Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,5646f8,8ef8a4b6,2024-08-26T10:51:38.846Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,5646f8,8ef8a4b6,2024-08-26T10:51:38.846Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,f5aa6a,bf628488,2024-08-23T01:42:32.905Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,f5aa6a,bf628488,2024-08-23T01:42:32.905Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,f5aa6a,bf628488,2024-08-23T01:42:32.905Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,5f8b24,d5826e15,2024-08-29T07:24:38.534Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,5f8b24,d5826e15,2024-08-29T07:24:38.534Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,5f8b24,d5826e15,2024-08-29T07:24:38.534Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,a6dddb,ec8b8717,2024-08-24T15:08:38.120Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,a6dddb,ec8b8717,2024-08-24T15:08:38.120Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,a6dddb,ec8b8717,2024-08-24T15:08:38.120Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,ddad1f,c196a30d,2024-08-05T00:00:00Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,ddad1f,c196a30d,2024-08-05T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,ddad1f,c196a30d,2024-08-05T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,a0f4e4,4ba62ea3,2024-08-08T15:13:13.495Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,a0f4e4,4ba62ea3,2024-08-08T15:13:13.495Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,a0f4e4,4ba62ea3,2024-08-08T15:13:13.495Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,b8228f,c5a8b853,2024-08-15T19:03:22.577Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,b8228f,c5a8b853,2024-08-15T19:03:22.577Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,b8228f,c5a8b853,2024-08-15T19:03:22.577Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,aa8bbf,fd6f80b7,2024-08-19T12:36:01.330Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,aa8bbf,fd6f80b7,2024-08-19T12:36:01.330Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,aa8bbf,fd6f80b7,2024-08-19T12:36:01.330Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,3b2d6e,bfd09120,2024-08-26T23:28:05.914Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,3b2d6e,bfd09120,2024-08-26T23:28:05.914Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,3b2d6e,bfd09120,2024-08-26T23:28:05.914Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,3c880d,f766f645,2024-08-31T19:49:45.667Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,3c880d,f766f645,2024-08-31T19:49:45.667Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,3c880d,f766f645,2024-08-31T19:49:45.667Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,fb1246,20b2af77,2024-08-23T02:52:48.478Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,fb1246,20b2af77,2024-08-23T02:52:48.478Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,fb1246,20b2af77,2024-08-23T02:52:48.478Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,237ad2,d015a298,2024-09-06T10:20:28.106Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,237ad2,d015a298,2024-09-06T10:20:28.106Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,237ad2,d015a298,2024-09-06T10:20:28.106Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,250437,2a642ef3,2024-11-08T00:00:00Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,250437,2a642ef3,2024-11-08T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,250437,2a642ef3,2024-11-08T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,3b09db,8b36ff91,2024-11-11T23:43:23.348Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,3b09db,8b36ff91,2024-11-11T23:43:23.348Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,3b09db,8b36ff91,2024-11-11T23:43:23.348Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,3b3364,bd017229,2024-11-13T01:22:30.943Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,3b3364,bd017229,2024-11-13T01:22:30.943Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,3b3364,bd017229,2024-11-13T01:22:30.943Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,cff63d,cb26177c,2024-11-13T11:42:42.175Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,cff63d,cb26177c,2024-11-13T11:42:42.175Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,cff63d,cb26177c,2024-11-13T11:42:42.175Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,1cb601,1aa49a70,2024-11-08T23:53:40.816Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,1cb601,1aa49a70,2024-11-08T23:53:40.816Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,1cb601,1aa49a70,2024-11-08T23:53:40.816Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,f3201e,b793ac9d,2024-11-14T16:42:21.276Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,f3201e,b793ac9d,2024-11-14T16:42:21.276Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,f3201e,b793ac9d,2024-11-14T16:42:21.276Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,06dc70,0656fc92,2024-11-10T18:31:08.824Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,06dc70,0656fc92,2024-11-10T18:31:08.824Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,06dc70,0656fc92,2024-11-10T18:31:08.824Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,aefa9c,1cb1f258,2024-11-10T19:07:56.590Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,aefa9c,1cb1f258,2024-11-10T19:07:56.590Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,aefa9c,1cb1f258,2024-11-10T19:07:56.590Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,feceac,82e33e6e,2024-11-14T20:34:17.167Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,feceac,82e33e6e,2024-11-14T20:34:17.167Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,feceac,82e33e6e,2024-11-14T20:34:17.167Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,f0f239,0479157f,2024-11-21T13:51:53.710Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,f0f239,0479157f,2024-11-21T13:51:53.710Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,f0f239,0479157f,2024-11-21T13:51:53.710Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,e5af6f,c34b117e,2024-11-18T14:56:41.666Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,e5af6f,c34b117e,2024-11-18T14:56:41.666Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,e5af6f,c34b117e,2024-11-18T14:56:41.666Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,e523c6,ca81b17b,2024-06-04T00:00:00Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,e523c6,ca81b17b,2024-06-04T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,e523c6,ca81b17b,2024-06-04T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,05ef38,96eb03cb,2024-06-06T01:52:47.116Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,05ef38,96eb03cb,2024-06-06T01:52:47.116Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,05ef38,96eb03cb,2024-06-06T01:52:47.116Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,3f0a12,031cc41b,2024-06-11T14:46:13.766Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,3f0a12,031cc41b,2024-06-11T14:46:13.766Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,3f0a12,031cc41b,2024-06-11T14:46:13.766Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,1363a5,b42b335b,2024-06-14T23:05:30.021Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,1363a5,b42b335b,2024-06-14T23:05:30.021Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,1363a5,b42b335b,2024-06-14T23:05:30.021Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,65f930,3f947d96,2024-06-22T10:23:05.042Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,65f930,3f947d96,2024-06-22T10:23:05.042Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,65f930,3f947d96,2024-06-22T10:23:05.042Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,133e93,9f7e7ce3,2024-06-16T16:31:14.459Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,133e93,9f7e7ce3,2024-06-16T16:31:14.459Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,133e93,9f7e7ce3,2024-06-16T16:31:14.459Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,081651,acd369cb,2024-06-13T17:22:22.601Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,081651,acd369cb,2024-06-13T17:22:22.601Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,081651,acd369cb,2024-06-13T17:22:22.601Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,0513df,470185d0,2024-06-12T15:39:14.595Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,0513df,470185d0,2024-06-12T15:39:14.595Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,0513df,470185d0,2024-06-12T15:39:14.595Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,9083ed,231164c6,2024-06-27T19:43:03.833Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,9083ed,231164c6,2024-06-27T19:43:03.833Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,9083ed,231164c6,2024-06-27T19:43:03.833Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,6b58ff,50864748,2024-06-26T12:19:42.328Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,6b58ff,50864748,2024-06-26T12:19:42.328Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,6b58ff,50864748,2024-06-26T12:19:42.328Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,b65d4c,a7879cb9,2024-06-12T14:24:03.323Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,b65d4c,a7879cb9,2024-06-12T14:24:03.323Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,b65d4c,a7879cb9,2024-06-12T14:24:03.323Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,26f0b8,cc2ac461,2024-06-19T01:46:01.442Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,26f0b8,cc2ac461,2024-06-19T01:46:01.442Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,26f0b8,cc2ac461,2024-06-19T01:46:01.442Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,2c99e9,b63a6400,2024-06-25T05:28:21.122Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,2c99e9,b63a6400,2024-06-25T05:28:21.122Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,2c99e9,b63a6400,2024-06-25T05:28:21.122Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,d7d17d,5bb76857,2024-06-25T15:37:59.161Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,d7d17d,5bb76857,2024-06-25T15:37:59.161Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,d7d17d,5bb76857,2024-06-25T15:37:59.161Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,9b2326,56076dd6,2024-06-27T23:20:28.530Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,9b2326,56076dd6,2024-06-27T23:20:28.530Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,9b2326,56076dd6,2024-06-27T23:20:28.530Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,b5c851,7f9592b6,2024-06-28T04:53:21.283Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,b5c851,7f9592b6,2024-06-28T04:53:21.283Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,b5c851,7f9592b6,2024-06-28T04:53:21.283Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,a77605,2f276450,2024-06-25T22:43:38.570Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,a77605,2f276450,2024-06-25T22:43:38.570Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,a77605,2f276450,2024-06-25T22:43:38.570Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,d411ed,2607a330,2024-04-11T00:00:00Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,d411ed,2607a330,2024-04-11T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,d411ed,2607a330,2024-04-11T00:00:00Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,21aca9,28906a80,2024-04-18T13:21:44.352Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,21aca9,28906a80,2024-04-18T13:21:44.352Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,21aca9,28906a80,2024-04-18T13:21:44.352Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,30b7e6,6896d627,2024-04-22T06:31:02.242Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,30b7e6,6896d627,2024-04-22T06:31:02.242Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,30b7e6,6896d627,2024-04-22T06:31:02.242Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,8db1d9,82b033b5,2024-04-24T18:07:07.076Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,8db1d9,82b033b5,2024-04-24T18:07:07.076Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,8db1d9,82b033b5,2024-04-24T18:07:07.076Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,381510,57222661,2024-04-28T04:12:21.519Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,381510,57222661,2024-04-28T04:12:21.519Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,381510,57222661,2024-04-28T04:12:21.519Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,93e02f,2baeca83,2024-04-29T11:15:52.808Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,93e02f,2baeca83,2024-04-29T11:15:52.808Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,93e02f,2baeca83,2024-04-29T11:15:52.808Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,367387,20ab6a99,2024-04-20T12:28:46.552Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,367387,20ab6a99,2024-04-20T12:28:46.552Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,367387,20ab6a99,2024-04-20T12:28:46.552Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,cac924,14919e02,2024-04-24T02:17:04.864Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,cac924,14919e02,2024-04-24T02:17:04.864Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,cac924,14919e02,2024-04-24T02:17:04.864Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,b39d23,bf16fab7,2024-05-01T08:02:17.302Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,b39d23,bf16fab7,2024-05-01T08:02:17.302Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,b39d23,bf16fab7,2024-05-01T08:02:17.302Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,6bade3,80cdd005,2024-04-26T00:42:35.860Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,6bade3,80cdd005,2024-04-26T00:42:35.860Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,6bade3,80cdd005,2024-04-26T00:42:35.860Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,71e52c,74c06a72,2024-04-27T15:23:35.828Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,71e52c,74c06a72,2024-04-27T15:23:35.828Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,71e52c,74c06a72,2024-04-27T15:23:35.828Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,2946c8,287e5835,2024-04-28T03:19:52.823Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,2946c8,287e5835,2024-04-28T03:19:52.823Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,2946c8,287e5835,2024-04-28T03:19:52.823Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,384bf3,16868e21,2024-05-02T16:23:06.425Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,384bf3,16868e21,2024-05-02T16:23:06.425Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,384bf3,16868e21,2024-05-02T16:23:06.425Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,9a2e9e,609190c5,2024-05-03T18:25:41.159Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,9a2e9e,609190c5,2024-05-03T18:25:41.159Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,9a2e9e,609190c5,2024-05-03T18:25:41.159Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,8ec3c6,e05cdaca,2024-05-04T12:45:25.372Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,8ec3c6,e05cdaca,2024-05-04T12:45:25.372Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,8ec3c6,e05cdaca,2024-05-04T12:45:25.372Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,b1de50,ffaf6509,2024-05-05T01:46:19.646Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,b1de50,ffaf6509,2024-05-05T01:46:19.646Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,b1de50,ffaf6509,2024-05-05T01:46:19.646Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,489af9,04120714,2024-05-09T16:56:50.417Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,489af9,04120714,2024-05-09T16:56:50.417Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,489af9,04120714,2024-05-09T16:56:50.417Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,d6ecca,b3ff37b5,2024-05-10T22:47:28.558Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,d6ecca,b3ff37b5,2024-05-10T22:47:28.558Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,d6ecca,b3ff37b5,2024-05-10T22:47:28.558Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,e04d55,966e0558,2024-05-07T07:26:30.258Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,e04d55,966e0558,2024-05-07T07:26:30.258Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,e04d55,966e0558,2024-05-07T07:26:30.258Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,929714,cc8f412a,2024-07-16T11:56:11.922Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,929714,cc8f412a,2024-07-16T11:56:11.922Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,929714,cc8f412a,2024-07-16T11:56:11.922Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,d4d67d,c8d484ea,2024-07-17T00:22:27.771Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,d4d67d,c8d484ea,2024-07-17T00:22:27.771Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,d4d67d,c8d484ea,2024-07-17T00:22:27.771Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,f9af18,a7425644,2024-07-13T16:35:31.400Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,f9af18,a7425644,2024-07-13T16:35:31.400Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,f9af18,a7425644,2024-07-13T16:35:31.400Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,236ea7,ada5a4a9,2024-07-25T01:01:13.906Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,236ea7,ada5a4a9,2024-07-25T01:01:13.906Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,236ea7,ada5a4a9,2024-07-25T01:01:13.906Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,6c654c,78f62846,2024-08-07T02:02:05.397Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,6c654c,78f62846,2024-08-07T02:02:05.397Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,6c654c,78f62846,2024-08-07T02:02:05.397Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,3c7ae0,a2633997,2024-07-30T20:39:54.684Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Universitetskaya bolnitsa Kasara,3c7ae0,a2633997,2024-07-30T20:39:54.684Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Universitetskaya bolnitsa Kasara,3c7ae0,a2633997,2024-07-30T20:39:54.684Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Bolnitsa Feveria,cd2aa5,e6c4c360,2024-08-10T23:58:10.882Z,Dengue NS1/IgG/IgM,Dengue NS.1,N
+Bolnitsa Feveria,cd2aa5,e6c4c360,2024-08-10T23:58:10.882Z,Dengue NS1/IgG/IgM,Dengue IgG,N
+Bolnitsa Feveria,cd2aa5,e6c4c360,2024-08-10T23:58:10.882Z,Dengue NS1/IgG/IgM,Dengue IgM,P
+Universitetskaya bolnitsa Kasara,0ed3c7,db3484ad,2024-08-10T00:41:28.129Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,0ed3c7,db3484ad,2024-08-10T00:41:28.129Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,0ed3c7,db3484ad,2024-08-10T00:41:28.129Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Universitetskaya bolnitsa Kasara,5619c9,000e8eee,2024-08-07T18:12:14.145Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Universitetskaya bolnitsa Kasara,5619c9,000e8eee,2024-08-07T18:12:14.145Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Universitetskaya bolnitsa Kasara,5619c9,000e8eee,2024-08-07T18:12:14.145Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,b7d3b0,c9ae0db6,2024-08-14T06:34:43.097Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,b7d3b0,c9ae0db6,2024-08-14T06:34:43.097Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,b7d3b0,c9ae0db6,2024-08-14T06:34:43.097Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,700a01,9e376ffc,2024-08-18T10:44:29.716Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,700a01,9e376ffc,2024-08-18T10:44:29.716Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,700a01,9e376ffc,2024-08-18T10:44:29.716Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,6341c0,d51df57c,2024-08-12T17:57:25.594Z,Dengue NS1/IgG/IgM,Dengue NS.1,P
+Bolnitsa Feveria,6341c0,d51df57c,2024-08-12T17:57:25.594Z,Dengue NS1/IgG/IgM,Dengue IgG,P
+Bolnitsa Feveria,6341c0,d51df57c,2024-08-12T17:57:25.594Z,Dengue NS1/IgG/IgM,Dengue IgM,N
+Bolnitsa Feveria,923f76,6c345f9e,2024-01-10T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,5a562a,ca4630ee,2024-01-11T01:50:36.072Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,7c4005,96656419,2024-01-17T07:08:25.165Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,7b613c,3544cd27,2024-01-09T19:53:00.913Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,c9811d,fb503260,2024-01-10T19:06:23.665Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,e29f9a,7bbc6ece,2024-01-20T08:06:32.202Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,b7a09d,89ef07fb,2024-01-13T00:36:41.532Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,8ae840,5a9ab6a9,2024-01-20T14:40:08.785Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,b6a187,1188b77e,2024-01-19T09:58:43.504Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,19dd70,9a4c1c57,2024-01-30T04:45:47Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,c1e0a7,e3284b5e,2024-02-01T20:26:43.158Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,4884b1,a546caf4,2024-02-08T02:35:17.058Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,605377,5e5fce2f,2024-02-10T22:52:26.502Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,6d0b09,46a82449,2024-02-18T03:53:25.157Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,5eaf6e,888dda0f,2024-02-24T22:51:14.401Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,781f25,1941c697,2024-02-23T02:19:07.377Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,37bd3e,4e7b2486,2024-03-03T21:00:25.926Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,5dc682,72d1a952,2024-03-06T11:46:16.988Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,60beb1,640f44ea,2024-02-29T11:18:50.610Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,2b1c1a,115675c6,2024-03-14T16:41:27.886Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,1470bf,c3a52a88,2024-03-24T00:25:20.012Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,6d80be,b5834d7f,2024-07-18T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,d9cfec,72bbfe07,2024-08-08T12:36:51.405Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,651199,396a80a2,2024-07-27T20:22:26.071Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,eb865d,e45de38b,2024-08-13T23:06:18.350Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,452113,91bdd333,2024-08-09T04:17:24.444Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,fb90a0,87aafbc6,2024-08-13T19:42:39.405Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,8b55c4,73b3ac74,2024-08-20T05:39:20.122Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,8d288e,d1529d4e,2024-08-24T11:53:20.246Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,d63a01,95e3c9e1,2024-09-02T07:12:04.228Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,b8a157,c7707a9e,2024-09-08T02:33:24.764Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,83ac01,4128d116,2024-09-18T11:53:18.587Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,a7e73a,7ebcee22,2024-09-02T14:54:59.077Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,08a0b3,b495056a,2024-02-21T16:36:45.774Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,09c47f,026fd740,2024-02-14T12:40:17.417Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,576202,b6524f2b,2024-02-24T09:04:39.405Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,23fb00,5c725510,2024-03-01T22:01:49.030Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,d39d06,2487a0d4,2024-03-01T17:30:06.420Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,93c0dd,0961f599,2024-02-28T14:04:02.570Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,76ece4,3e12835d,2024-02-29T18:22:18.890Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,165809,14a64d61,2024-02-21T03:46:26.347Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,3deb54,d92b7819,2024-02-12T09:49:28.906Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,ebe3f8,b90ae96d,2024-02-17T19:43:23.353Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,e31ce3,8c03fbaa,2024-02-24T01:00:35.558Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,d717b0,23b7088b,2024-03-06T21:06:48.429Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,c7ebbf,56578a86,2024-03-11T17:08:47.936Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,9d8bee,2bd2d5eb,2024-03-27T03:42:04.833Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,0f9ee5,dd64868d,2024-03-02T16:31:29.112Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,617b13,122f3969,2024-03-11T11:25:02.772Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,870578,10442bae,2024-02-20T04:22:16.867Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,83432d,7c2b0336,2024-03-04T01:05:46.877Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,0ee2a5,3d31e48f,2024-02-23T10:01:23.463Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,af92fd,d4486201,2024-03-08T04:43:13.415Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,b2f09d,778295c7,2024-04-13T11:39:20.136Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,6ea65a,6603b4ad,2024-03-24T17:59:12.564Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,598cbb,d5baf3c5,2024-03-16T03:06:01.760Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,804a1e,23ee2633,2024-03-22T08:41:41.847Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,64cd66,d054283a,2024-02-29T13:48:28.202Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,f2641b,2bf329c7,2024-03-20T09:36:37.137Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,97b942,7075e14e,2024-03-06T19:42:05.940Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,5974fc,2e66aa17,2024-03-30T14:30:05.431Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,9707e2,89299f98,2024-04-21T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,e5dd12,15d07214,2024-04-19T21:09:07.684Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,f70e94,6bc84f2c,2024-05-11T15:35:14.716Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,1d3442,af528729,2024-05-07T13:57:00.533Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,113551,bf2f1637,2024-06-13T01:03:05.844Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,213380,05625b27,2024-05-17T20:05:19.684Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,9dd1ff,c35ef8cf,2024-06-14T04:46:37.954Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,54a5ec,c93ea4eb,2024-07-04T09:14:23.661Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,6bf66b,a5393661,2024-06-19T04:40:21.515Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,62dc4b,73150539,2024-06-02T16:13:34.992Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,969c2f,0ecfa44a,2024-05-29T05:19:54.500Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,ef161c,423fcf2b,2024-05-31T19:06:19.771Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,ae76fc,4b10a94e,2024-06-20T21:52:30.470Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,5d795f,8de608bf,2024-06-21T19:45:13.186Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,05189d,119d46ce,2024-06-19T03:10:52.487Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,1e0113,597cc557,2024-07-06T22:42:04.035Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,f1cef6,4e7d7417,2024-07-04T19:59:14.594Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,5f9bf2,38568849,2024-06-05T19:42:06.213Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,fd9808,d38406e7,2024-07-23T16:09:06.244Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,93839a,5bcfc6ec,2024-07-11T20:12:58.650Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,aac6c5,e946dc20,2024-07-11T14:00:05.243Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,232861,902847c6,2024-07-05T02:02:32.513Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,489907,62a92936,2024-07-13T11:04:29.465Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,9f806c,a45080b3,2024-07-12T13:49:45.862Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,101195,84a42eca,2024-06-23T08:29:33.047Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,2ad411,7c4b08b7,2024-06-14T08:22:37.523Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,e27bad,7feeee72,2024-06-14T13:31:44.435Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,c27381,a481d16e,2024-06-10T11:05:32.634Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,fe2cff,1252b847,2024-08-05T09:57:15.900Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,d21160,b293e03a,2024-08-07T21:10:18.770Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,62dc2d,c165aff6,2024-07-20T13:39:00.473Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,8b96f4,e3c4f507,2024-07-19T14:33:49.332Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,1986db,bf59a019,2024-07-19T18:17:42.577Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,5d6e35,1805495d,2024-07-20T04:47:16.189Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,a6871f,8d1aed53,2024-07-10T20:55:12.110Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,057077,35bbf236,2024-07-10T22:15:19.207Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,658dbf,94c0f37c,2024-06-26T01:09:24.735Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,2b501b,e1dde0cb,2024-06-29T16:45:59.443Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,93a0d9,895560b5,2024-06-11T10:32:55.948Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,e02bb0,b23af771,2024-06-16T06:10:32.452Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,b90316,b93a6242,2024-07-02T11:49:26.679Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,dfde8c,aeee797d,2024-07-25T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,e6f8bc,29031a48,2024-08-10T17:58:51.190Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,ca0fb0,a7dfed3c,2024-08-02T06:26:44.834Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,913446,a69b7ecf,2024-08-02T00:21:51.667Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,ba06fe,f8c05323,2024-08-09T06:48:23.402Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,41a32a,e7a90191,2024-08-10T14:08:55.524Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,b89d63,eef4bfdd,2024-08-16T22:00:54.416Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,410fa8,9aa82962,2024-08-10T15:14:15.528Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,b5f9ba,e09c6fef,2024-09-06T02:58:39.154Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,21d5e1,9247daec,2024-08-23T13:39:12.433Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,77b388,a414d9a7,2024-09-04T19:14:44.063Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,2e64d3,19494c28,2024-08-22T22:10:44.777Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,534ef9,00b56d18,2024-09-20T05:35:29.585Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,17452b,2afdf5d5,2024-06-05T23:54:32.672Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,3024d2,d625e204,2024-06-21T11:19:41.854Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,752206,92b6f228,2024-06-27T00:23:19.384Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,7657ba,27507f9d,2024-06-22T16:43:17.781Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,381a12,ae46ac73,2024-06-30T07:21:26.726Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,66c087,59a6ec57,2024-07-11T04:08:14.841Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,f02cef,25801b1a,2024-06-27T20:53:46.808Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,51d32e,8700a222,2024-06-23T05:31:32.164Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,502931,80f0dfb2,2024-07-20T10:18:29.855Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,2c6560,e70a0be0,2024-07-11T12:06:04Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,639d35,7a01f085,2024-07-18T15:00:01.906Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,2f9a1b,3aff5beb,2024-06-27T03:11:40.023Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,7b0903,eb41655f,2024-07-03T18:52:06.067Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,07405f,3aabcc69,2024-07-02T09:04:52.893Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,84e119,4aae59e2,2024-06-29T12:19:53.456Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,e7a739,f017ae1f,2024-07-25T12:00:45.040Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,110ffa,54c627a8,2024-07-11T00:00:48.833Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,d0a798,c9e3f75d,2024-07-11T14:48:33.405Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,272d19,8ceff0f2,2024-07-22T19:41:39.087Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,857656,4f3d65d3,2024-07-21T05:20:07.527Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,10a545,6b1777b3,2024-07-12T01:15:05.801Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,fa1206,95ae7a70,2024-07-12T10:08:41.330Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,d7f4af,238ca0d5,2024-07-10T20:30:20.766Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,787fa9,3091d1a1,2024-08-03T16:39:15.097Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,4b18bc,e27cd44c,2024-07-14T03:35:05.747Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,e2207e,d2f9fc7e,2024-07-16T22:23:25.809Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,29374c,21f99e14,2024-07-21T21:51:54.178Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,1c808a,0afa508f,2024-07-09T04:05:44.759Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,337beb,f05482ff,2024-07-14T08:26:03.755Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,2ba1c6,78b021a2,2024-07-23T03:30:08.249Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,5f1544,f8157728,2024-08-07T05:59:24.238Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,eb381a,66eb5b30,2024-08-06T22:43:20.361Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,036d68,bab53189,2024-08-18T08:08:56.315Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,9b36d1,52a4ac8f,2024-07-26T08:53:33.994Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,494b91,467d63c8,2024-08-02T04:03:50.928Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,c09912,e379452d,2024-07-26T16:11:46.128Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,e02148,16fd6644,2024-07-20T22:18:43.429Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,374b3c,bc236295,2024-07-27T04:08:28.586Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,999a65,812c9fa0,2024-07-18T19:21:21.360Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,2431ae,8b459d66,2024-07-29T20:02:30.367Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,a5f348,6c354881,2024-08-03T02:39:14.958Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,88791e,517f60f7,2024-08-01T19:54:30.710Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,b9911e,2bdf9bf8,2024-07-24T13:49:49.709Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,b48c8a,6a2a461b,2024-07-23T10:48:08.240Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,285646,9ee035de,2024-07-26T10:12:14.346Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,2f964f,e78786b8,2024-07-13T01:00:40.555Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,9fa767,f106cba4,2024-08-08T18:38:22.013Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,5f5f17,cfd98919,2024-07-17T12:06:19.944Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,2b7947,93bf3a28,2024-08-11T15:59:16.887Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,6125e8,4e36539f,2024-07-26T02:38:17.253Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,50cc8c,f8f69f52,2024-08-13T06:48:37.088Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,296de5,c85e6c47,2024-09-10T12:33:25.318Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,4e0cdb,fc7717ad,2024-09-20T09:08:43.314Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,48cd30,a9a71657,2024-11-09T18:13:41.450Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,54e25d,c34e1171,2024-11-07T23:20:33.123Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,85b379,4e78e4ba,2024-11-20T15:14:35.871Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,e6d5f0,2a603f51,2024-11-23T15:23:20.520Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,447d62,c5da81a1,2024-12-01T17:41:20.830Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,e98dc3,1f06482a,2024-12-21T11:08:10.587Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,56f33e,0387a088,2024-12-26T02:45:24.918Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,b02c40,52ba933a,2024-12-19T02:58:48.284Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,d2eb1f,2b76d108,2024-11-03T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,6d786c,97820714,2024-11-12T13:14:32.988Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,34d805,97a8c94b,2024-11-15T08:33:12.356Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,88273f,9416fa96,2024-11-21T22:08:58.119Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,e3b323,cf7027c2,2024-11-18T05:47:26.563Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,3c11db,ee55e654,2024-11-15T06:13:45.454Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,a68be0,8328ab45,2024-11-11T08:37:06.048Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,495f04,f986cfde,2024-11-28T18:23:11.399Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,f3264c,0d167898,2024-11-28T06:47:33.865Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,0a1863,01938ee7,2024-11-28T21:23:27.135Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,55db58,c6dc9a98,2024-11-29T12:08:52.070Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,1b0b7c,da72c0cb,2024-12-12T02:38:52.443Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,2c89ec,08e145dd,2024-12-04T09:30:45.928Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,e66ba7,6a34e1d6,2024-12-14T14:23:28.933Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,d4e40d,ce233d94,2024-12-06T01:45:28.338Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,ede060,40cbc3ad,2024-12-22T07:11:09.958Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,d55d3c,3d9b34cf,2024-12-11T10:00:14.701Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,3718e1,2dd2f19f,2024-12-06T03:14:40.361Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,ec89fe,de400250,2024-12-12T16:13:00.344Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,46dcb7,220c254c,2024-12-28T06:22:06.981Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,3e718d,77e18468,2024-12-13T19:41:16.017Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,966a87,fa4510d8,2024-12-24T06:39:10.735Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,0e50a6,3ebc7380,2024-11-24T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,08b5c6,2e3784e3,2024-12-13T05:39:36.661Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,8efaec,da7980e1,2024-12-09T12:02:13.316Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,176e96,090f7d31,2024-12-21T10:24:54.621Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,d0e94e,41d73504,2024-12-19T23:36:58.694Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,515c16,49919760,2024-12-25T17:50:47.099Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,3666ed,3a8615fc,2024-07-17T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,74d2ad,b11e03f6,2024-07-27T23:39:27.047Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,168c69,b3337999,2024-07-29T20:09:01.583Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,d29b50,43e48e5d,2024-08-03T19:54:23.620Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,f28179,e928a440,2024-08-31T18:42:17.952Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,ecdb52,ef702c72,2024-08-02T07:53:49.579Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,fc5b7d,7a0164e9,2024-09-10T14:03:59.927Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,c97a58,8cf8b6b2,2024-08-07T12:30:44.044Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,ecbc38,6b83ea75,2024-09-12T17:48:15.903Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,92896f,675c774c,2024-09-27T15:17:46.657Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,6d73a4,785d9f40,2024-10-09T15:27:20.728Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,6726ab,a690e6d9,2024-10-01T22:44:31.309Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,90f0b1,fa3920a6,2024-10-13T03:28:57.529Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,11fbba,30069afc,2024-10-25T20:26:53.472Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,69bf48,2170b43d,2024-10-26T15:32:52.186Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,7a4c29,0a24eabf,2024-10-04T10:30:36.958Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,6336fc,26805901,2024-10-19T06:40:47.694Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,ca16cc,8204eebc,2024-10-19T23:10:26.398Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,75a5cd,157461cc,2024-10-22T14:24:13.774Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,acd22c,378af9ab,2024-11-23T19:05:33.444Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,de0517,50cc6f88,2024-10-20T20:39:01.261Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,af211a,6985ce6b,2024-10-27T23:57:22.335Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,b28163,58831007,2024-07-24T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,629dc3,ebca3808,2024-08-01T20:07:52.019Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,19515e,f335c993,2024-08-05T19:48:29.913Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,8df2b5,5a30dd40,2024-07-26T01:14:20.979Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,9d1ce9,e786c230,2024-08-12T22:23:19.986Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,b5a5c9,d06ddfd7,2024-08-05T04:32:13.758Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,d75532,4d0c5dd8,2024-08-03T23:12:01.232Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,a2172d,6f740bad,2024-08-09T22:04:51.690Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,be88f5,d6cd8658,2024-07-28T04:06:00.784Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,2348ad,353c8108,2024-08-02T16:45:03.125Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,98854d,58fc0acd,2024-07-31T17:38:52.715Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,00399b,fa733332,2024-08-14T08:21:16.001Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,793e85,5bf9fe71,2024-08-15T14:41:38.534Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,1a8c48,11a46646,2024-08-11T03:01:15.067Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,a8be7b,b37cb5ed,2024-08-09T22:32:44.140Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,e50aa4,9b551097,2024-08-20T21:20:41.465Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,802b33,9b865852,2024-08-15T19:22:21.083Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,8452d3,0814b505,2024-08-10T08:40:36.959Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,f4d3d6,45465a92,2024-08-11T14:10:30.108Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,172ade,de5b377b,2024-08-01T15:06:21.127Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,370a28,67eb2ac9,2024-08-13T11:53:11.194Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,0ca093,782add62,2024-08-19T19:29:47.870Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,2a9d75,e574bf40,2024-08-16T04:05:51.829Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,07db51,d8ce2238,2024-08-29T06:42:06.560Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,0abfc7,d0b6c724,2024-08-24T05:20:39.469Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,e7e79e,c1def8c1,2024-08-26T03:12:42.279Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,e04b05,bddcbf6c,2024-08-22T00:53:08.872Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,9006dc,3147d208,2024-08-14T10:07:02.819Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,662498,0e95ea44,2024-08-07T10:49:15.861Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,f054e1,d07297e1,2024-08-15T14:32:44.499Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,711eca,bae4af8b,2024-08-18T12:11:20.868Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,57eee7,5aad604b,2024-08-22T09:30:25.637Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,a69008,b4976a35,2024-08-12T04:50:07.099Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,4b41bc,806a6282,2024-08-10T15:14:21.402Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,022205,27783683,2024-08-19T17:06:47.802Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,347b99,3f55fa4e,2024-08-07T21:47:28.869Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,27b0c6,7366a3fe,2024-08-18T04:01:32.462Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,6d6dc1,74707c73,2024-08-17T21:15:16.421Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,1c2f9c,a010fbf2,2024-08-14T04:00:29.517Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,d3d40c,3b14a17f,2024-07-11T02:00:39.781Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,4c691f,eb055fdb,2024-07-24T03:19:05.893Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,de5635,1e2f438a,2024-08-01T04:04:12.420Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,bc6e76,4a535206,2024-07-21T06:41:38.714Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,2aa1d8,966040a6,2024-08-09T07:19:48.897Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,0d3410,86ff8c82,2024-08-09T09:13:20.627Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,af08e7,96e5d5e4,2024-08-08T18:26:15.820Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,33e31a,dfbacfbb,2024-08-13T02:15:13.112Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,5522b6,5ced3413,2024-01-05T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,177074,cf966903,2024-01-16T00:33:51.804Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,0443d8,a001aa88,2024-01-09T16:19:45.858Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,e4fd59,1f9fb756,2024-01-20T03:54:45.872Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,e98bc5,ae4e8d3c,2024-01-20T19:56:36.010Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,9a7e2b,4a58ff5e,2024-01-09T17:09:31.073Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,f30804,2a395e89,2024-01-17T00:15:14.374Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,02cb9e,b9b07273,2024-01-30T03:05:50.618Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,5db3c2,2324bb15,2024-01-20T19:26:32.582Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,ebcf47,2e9d31a5,2024-07-17T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,4f79f4,e50e8812,2024-07-24T01:29:06.435Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,8bbef1,c5274f55,2024-08-02T01:13:23.088Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,b17a88,052c924a,2024-07-29T15:18:28.852Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,fd341d,1ce8afd0,2024-07-18T13:02:39.236Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,3a8672,9047f8b1,2024-08-02T10:06:15.377Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,1f749c,e1356273,2024-08-02T22:52:07.143Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,3f1c05,6eb29ee2,2024-07-28T10:06:06.574Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,3efc0b,c531ee59,2024-08-03T22:01:53.924Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,fd6394,dfe427b4,2024-08-10T22:56:08.156Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,5e5e48,dd0634fc,2024-08-15T15:34:59.784Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,d9eb37,7dca1871,2024-08-20T06:01:47.715Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,52ab47,2e5f5781,2024-08-10T10:53:33.778Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,feb7bd,e1156c03,2024-08-13T15:55:58.191Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,ee395a,dd7a9798,2024-08-14T21:38:48.328Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,043f70,0e473765,2024-08-24T11:31:23.168Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,36bc6e,ad6425d1,2024-08-17T06:45:28.850Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,d65ddd,9da5bd78,2024-08-20T17:23:05.674Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,8d555a,355294bf,2024-08-22T22:23:46.149Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,217ea8,e84c2e16,2024-08-28T19:01:54.513Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,ecbc45,dfbeac12,2024-09-14T02:00:25.169Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,0bdc5e,fd563dd2,2024-09-17T22:22:28.218Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,b70637,d5ae0e69,2024-09-24T11:08:52.849Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,f54a23,70f085aa,2024-09-20T23:54:19.851Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,3db431,863e39c3,2024-09-17T05:24:15.113Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,f9becf,7c74e2f2,2024-09-24T20:44:05.152Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,fdfc81,fc43ed7b,2024-10-19T20:19:57.941Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,36f0e9,c5bcfc63,2024-10-07T21:30:15.745Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,436876,e3cc28ab,2024-09-29T01:50:43.658Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,4ed590,94820870,2024-10-14T18:35:11.873Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,cebb88,779cc190,2024-10-01T01:38:02.215Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,f907bd,954ac645,2024-11-09T03:41:39.949Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,648bd2,34db23cd,2024-11-03T11:56:57.381Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,853bca,ed842276,2024-10-25T15:07:10.829Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,b39b78,ae07d033,2024-11-09T16:12:49.514Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,954d6f,26950481,2024-11-10T18:31:33.841Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,1525b9,a689d2b9,2024-11-11T07:01:18.929Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,946d7f,f4797a49,2024-04-22T07:33:42.081Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,1cce56,acc86bc3,2024-05-02T19:03:17.935Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,b602de,9d4be34e,2024-04-18T21:08:31.253Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,96aafa,7f9ff57f,2024-05-23T17:11:36.533Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,f7b613,4d5fb19c,2024-05-15T20:53:08.280Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,cc7a97,b669ca01,2024-05-22T07:07:51.117Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,1ab239,d39dcc7e,2024-05-25T10:09:06.873Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,05fd3d,8ac3e8eb,2024-06-01T08:41:20.186Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,70850c,94b00233,2024-04-19T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,d86011,82de3e2d,2024-04-20T23:24:11.841Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,46c1b3,4ca45c5b,2024-04-24T03:42:57.091Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,88b17e,ab72b30d,2024-04-20T23:07:01.418Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,76b3ed,94ded2af,2024-05-09T21:54:33.806Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,428ef0,a8f976ed,2024-05-03T15:41:59.537Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,774ed2,836f0ebf,2024-05-09T23:47:35.919Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,7d82de,7aab40c6,2024-05-10T08:20:20.336Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,470a75,826cda92,2024-05-16T07:28:17.976Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,6a992d,c62c82cd,2024-05-20T14:06:58.772Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,30c659,5ee16ed8,2024-05-19T09:15:19.255Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,604bd0,715c6ee7,2024-06-10T06:12:42.919Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,3f90c1,0764d95a,2024-05-20T01:20:58.815Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,7cef6f,c14a2a20,2024-06-15T07:27:39.641Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,48ac3c,07add683,2024-06-16T17:15:05.062Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,99b345,ecefe09a,2024-07-13T09:58:15.619Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,4d126e,1230d874,2024-08-22T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,365bdf,f1fa9564,2024-09-06T18:31:01.581Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,a0c6a5,9330e143,2024-09-16T05:07:34.121Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,fed351,24e2e758,2024-09-25T04:02:45.746Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,a2c3ce,a66f6a8f,2024-10-03T02:01:43.624Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,e55895,79c06b82,2024-10-13T15:15:24.825Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,e15b53,8de7ad45,2024-10-14T09:27:59.683Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,7455fb,0eaf18a0,2024-10-22T00:15:20.597Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,6b67aa,9ec93fc8,2024-05-28T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,df893c,16f1f60c,2024-06-05T10:29:38.014Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,b58063,66b68fc5,2024-05-27T05:29:10.809Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,db7923,1181a9b9,2024-06-17T13:47:36.855Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,a05825,5fa2687b,2024-06-01T10:21:08.226Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,c22374,bf3c7764,2024-06-02T08:48:14.361Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,9c5dc9,f0c2e719,2024-06-26T19:27:17.496Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,a3b7a7,c6294a19,2024-06-21T20:12:40.931Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,9a2d9a,029a1286,2024-06-01T07:50:54.743Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,85a239,042a7c2f,2024-05-27T09:30:00.840Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,aae10f,74b62e96,2024-06-09T22:42:58.013Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,005c85,6c9c8346,2024-06-07T01:04:50.417Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,9914ea,df5900f4,2024-06-07T02:42:10.757Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,439d00,20260f57,2024-07-05T07:45:24.070Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,acadd3,727e932f,2024-07-05T23:46:27.558Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,f86152,1fe183ff,2024-06-28T07:52:22.076Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,906537,c573ce5c,2024-06-23T04:07:46.569Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,7b8398,0c1dcfd6,2024-06-18T21:56:00.760Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,85792e,fd572b25,2024-07-02T23:15:04.401Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,1aba03,2f3b6b42,2024-07-02T16:38:38.405Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,02d0b9,f72f5a95,2024-06-14T15:01:06.815Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,ee7b3d,559ddf59,2024-06-18T23:55:17.615Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,b2d374,74515c4e,2024-06-22T08:28:33.395Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,2fb1ac,746bdf2a,2024-07-02T02:54:02.185Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,043228,27c37cd8,2024-06-18T20:36:35.936Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,cff5e9,82780569,2024-07-19T12:46:35.985Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,bab2bc,accdc444,2024-07-10T15:04:05.947Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,6cbc59,e07ef53e,2024-07-05T01:52:52.052Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,938e0f,ef90acc0,2024-06-30T08:40:29.738Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,48aa8a,461584ba,2024-06-24T19:52:13.526Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,4dcbef,ed6fd6d3,2024-06-30T07:40:32.409Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,d7c22b,7d8f0b69,2024-07-14T15:17:25.383Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,28c72e,3c3db4f7,2024-07-10T11:30:51.307Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,f49b70,a07c4feb,2024-07-02T09:59:44.087Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,e07a8d,c6ff9b98,2024-06-30T09:45:21.105Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,a6a44f,e605c432,2024-07-09T13:59:04.573Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,bf779e,c4590c0d,2024-07-11T16:51:54.809Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,744474,bf9cd25a,2024-07-12T12:29:05.487Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,d62be8,63870dda,2024-06-25T19:23:37.282Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,17b456,30f85c81,2024-07-15T22:55:35.478Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,63745b,d6db0a33,2024-07-01T11:16:32.868Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,3838fc,c3c41132,2024-07-12T16:14:23.777Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,692896,b305e46e,2024-07-08T11:24:53.025Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,445fee,bd1861a3,2024-06-14T01:22:00.172Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,edae97,345501ab,2024-07-03T18:08:42.160Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,45e7fb,ce007efe,2024-07-06T11:37:12.892Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,27b53c,0684e062,2024-06-29T10:46:14.472Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,b9d6b7,41ab2c82,2024-07-06T00:31:10.545Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,cf2f4b,fecce562,2024-07-01T19:21:04.501Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,dcc043,39312782,2024-07-06T14:20:41.642Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,aa17ef,913684d6,2024-07-07T06:45:31.352Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,7e155a,59f0882d,2024-07-01T22:30:15.851Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,43e92b,a066a664,2024-06-25T20:42:14.669Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,3fdd51,ed82c4af,2024-06-19T13:24:00.494Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,b92c40,fee9e7e6,2024-06-15T08:20:19.724Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,35145b,2a6238e5,2024-06-22T05:42:12.847Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,dc824e,11b32b45,2024-06-20T15:54:07.408Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,d726ea,456828ff,2024-09-16T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,6b03f6,9281471f,2024-09-11T13:07:39.506Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,50ecfd,aeb96d0a,2024-10-23T08:15:53.962Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,fd96f2,f58fd6d0,2024-10-14T15:27:32.536Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,258dbf,a432f733,2024-09-21T16:33:56.232Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,6ac6f2,528fa4a1,2024-10-17T12:37:08.056Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,e98ce9,a99bc831,2024-10-18T12:51:46.007Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,555671,60601b8a,2024-10-23T22:40:47.714Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,bccf48,1307b8c7,2024-12-23T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,dfd716,3ef9b224,2024-11-26T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,2539b0,5788c28c,2024-12-10T17:37:11.200Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,593f34,89cbae61,2024-12-07T09:41:13.835Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,3a6ba0,b41d7baf,2024-12-21T22:33:50.829Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,a014cb,2570756e,2024-07-20T16:57:23.798Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,d6077b,cf2fbb73,2024-07-29T08:42:36.005Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,fc7c80,a4a3aac7,2024-07-19T21:14:18.493Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,993d7d,fe9cc0c1,2024-07-24T06:36:01.958Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,687591,0a80d1f4,2024-07-26T07:21:41.430Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,bea308,bafef2cf,2024-07-31T06:46:31.943Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,3cf60a,9417f0c7,2024-07-26T03:33:22.469Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,a7686c,ece26bd2,2024-08-03T01:14:22.352Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,939d4c,ec76281d,2024-08-11T13:49:37.384Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,336521,7ba17bb6,2024-08-10T08:04:45.652Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,51015f,3a7b0649,2024-08-15T23:43:13.039Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,b55e73,b28a5866,2024-08-20T17:15:27.817Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,9113f5,5a44f012,2024-08-10T17:45:59.785Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,f23b4c,88f93179,2024-08-23T01:20:40.883Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,3f4a7e,8880cd85,2024-08-27T17:59:38.536Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,da5ade,174c3003,2024-09-03T14:29:31.176Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,1baf79,94f785b9,2024-08-19T11:56:44.231Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,b2dd6e,549686e2,2024-08-22T14:57:28.715Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,d7ed14,131ff552,2024-08-29T09:12:06.104Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,5e61ce,a80ed7e6,2024-09-06T09:07:11.136Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,9aab30,6a0a3684,2024-09-12T13:43:03.783Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,6abe2e,baeb9e93,2024-09-05T12:29:53.745Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,d0f15e,1b18df3e,2024-09-17T21:30:54.306Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,af5ce1,6dcf4ebb,2024-09-03T02:34:13.747Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,4a7d22,36bdc590,2024-09-17T23:29:27.715Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,eb7361,b8d8862d,2024-10-12T00:34:48.006Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,11458e,8044f22a,2024-10-21T21:21:54.612Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,9f54bb,cc5ff964,2024-07-19T06:54:36.622Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,de775a,1b8ad0dc,2024-07-27T11:10:31.914Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,fcee63,7e8e7e55,2024-07-25T18:30:29.959Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,3a560d,7f9c9abc,2024-07-31T08:56:57.849Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,3c67d5,5e519c3e,2024-07-28T14:29:39.964Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,f99902,4f86979e,2024-08-14T22:31:34.964Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,bfd95b,fbb73922,2024-08-11T14:33:07.288Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,b3af52,775f2acf,2024-07-11T00:00:00Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,56dab6,414d3057,2024-07-26T19:54:50.207Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,ad70f1,001e1878,2024-07-23T20:51:17.970Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,be6873,1a898afb,2024-08-03T22:16:23.910Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,fc169b,5893c50f,2024-07-29T07:03:01.904Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,30ffff,bdc6a9fd,2024-08-07T00:09:09.544Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,ac943f,3d3e539e,2024-08-09T00:00:18.964Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,a45d44,8cbc8690,2024-08-13T13:54:24.672Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,8f1567,a2b11001,2024-08-08T21:22:30.873Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,be12b1,c3836495,2024-08-20T15:52:40.052Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,c1000a,955bdb62,2024-08-17T15:17:04.006Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,fd4c3c,255d7a1f,2024-08-21T11:03:48.119Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,505a0e,5083f614,2024-08-21T20:09:05.289Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,e2bc95,a8ae6045,2024-09-04T05:18:19.416Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,6297f8,c3c125c4,2024-08-30T17:51:03.925Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,5da953,124ec57a,2024-10-17T15:47:39.519Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Universitetskaya bolnitsa Kasara,9923b3,a00debe5,2024-09-04T21:27:14.248Z,Mikroskopiya tselnoy krovi,Plasmodium,P
+Bolnitsa Feveria,d73444,654a10de,2024-10-19T13:14:46.543Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,8a8a8a,5e98fe8c,2024-09-06T11:28:40.266Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Universitetskaya bolnitsa Kasara,a5bcb8,ad610930,2024-10-03T07:17:51.733Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Bolnitsa Feveria,053591,6753fe76,2024-10-25T07:15:05.697Z,Mikroskopiya tselnoy krovi,Plasmodium,N
+Universitetskaya bolnitsa Kasara,9195be,7897b7ff,2024-09-21T07:57:33.411Z,Mikroskopiya tselnoy krovi,Plasmodium,I
+Bolnitsa Feveria,893b4d,24f5d647,2024-03-11T00:00:00Z,IgM ELISA,Zheltaya likhoradka IgM,I
+Bolnitsa Feveria,837ad9,77bb1297,2024-03-16T21:52:44.253Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,38e446,661fa56c,2024-03-12T16:07:40.393Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,aa5382,20c25cbd,2024-03-20T09:57:56.031Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,4f4397,1a1cfbeb,2024-03-14T18:45:49.367Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,a2ba65,d190a31e,2024-03-21T02:17:48.407Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,654a17,8b1da278,2024-03-22T01:24:02.843Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Universitetskaya bolnitsa Kasara,688bfe,ca760f1b,2024-03-23T11:39:18.638Z,IgM ELISA,Zheltaya likhoradka IgM,I
+Universitetskaya bolnitsa Kasara,cb13f8,5894f3b5,2024-03-21T11:50:44.790Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,3ed9d8,d6ab5d8b,2024-07-07T00:00:00Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,500cee,d77aa243,2024-07-15T13:53:30.046Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,90550f,be46c91c,2024-07-13T15:08:47.448Z,IgM ELISA,Zheltaya likhoradka IgM,I
+Bolnitsa Feveria,a1ca45,2e6b0558,2024-07-23T17:25:37.787Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,95a2d9,42f73e9f,2024-07-22T21:20:09.543Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,d6747f,725fed0f,2024-07-26T22:24:19.702Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,4589ad,c828dafc,2024-08-02T17:40:17.820Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,10e439,ff870612,2024-08-01T08:07:10.754Z,IgM ELISA,Zheltaya likhoradka IgM,I
+Bolnitsa Feveria,01b19d,ebed2af4,2024-07-28T18:44:43.036Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,c07736,b6c48e24,2024-08-01T18:32:01.461Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,72e137,248f639b,2024-07-31T23:17:43.333Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,01e281,dc43c8d3,2024-08-02T10:16:23.738Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,6edce7,34c9e8b1,2024-07-31T22:29:13.968Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,16512f,23ac376f,2024-08-11T03:57:18.251Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Universitetskaya bolnitsa Kasara,2de739,c4205384,2024-08-05T11:45:50.329Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,dbc23b,f95dd37b,2024-08-09T02:18:40.799Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,f9de79,67c158e3,2024-08-07T08:45:07.714Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Universitetskaya bolnitsa Kasara,9756cd,64915987,2024-08-09T09:37:41.480Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,d2e956,9904b763,2024-08-07T13:05:09.126Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,92490d,ccded431,2024-08-12T23:04:36.692Z,IgM ELISA,Zheltaya likhoradka IgM,I
+Universitetskaya bolnitsa Kasara,7c835f,6c6596ca,2024-08-15T19:46:04.427Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,f8c3f8,f551c680,2024-08-13T20:39:44.651Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,568483,146001ed,2024-08-11T19:07:49.031Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,dd1fb8,fa6dbe81,2024-08-16T00:43:09.444Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Universitetskaya bolnitsa Kasara,f89a5a,e6c4fef0,2024-08-18T10:53:34.591Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Bolnitsa Feveria,8e0196,ea3e0c5a,2024-08-18T15:05:19.348Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,5e621e,27aedd54,2024-08-20T02:05:24.760Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,444108,e194b26d,2024-08-27T13:05:19.788Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Universitetskaya bolnitsa Kasara,d53235,394cea9e,2024-08-20T08:46:13.355Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,95a2e2,ae1090c9,2024-08-17T02:32:09.620Z,IgM ELISA,Zheltaya likhoradka IgM,I
+Bolnitsa Feveria,38e7a7,c1e08494,2024-08-25T20:10:20.686Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Universitetskaya bolnitsa Kasara,68fb64,f8b6730a,2024-08-19T06:44:37.727Z,IgM ELISA,Zheltaya likhoradka IgM,I
+Universitetskaya bolnitsa Kasara,902b3d,995e0b64,2024-08-24T01:14:43.521Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Universitetskaya bolnitsa Kasara,6ce9d2,edf77541,2024-08-21T15:16:22.832Z,IgM ELISA,Zheltaya likhoradka IgM,P
+Universitetskaya bolnitsa Kasara,5d713f,c10654ac,2024-08-22T17:07:34.842Z,IgM ELISA,Zheltaya likhoradka IgM,N
+Bolnitsa Feveria,4f4fa9,bc3616b8,2024-06-04T00:00:00Z,Posev kala,Bakteriya V. cholerae,I
+Bolnitsa Feveria,6990f8,bbdf0ae8,2024-06-05T01:26:56.560Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,a0e59e,e8b53814,2024-06-05T13:46:51.852Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,6445a7,dcd57ef5,2024-06-10T10:44:42.113Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,36967d,41788ca2,2024-06-06T17:23:23.107Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,72cfcd,6fd8859f,2024-06-15T09:01:10.409Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,b3c73d,a15a7343,2024-06-16T22:54:51.103Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,5404f0,53cf5d7a,2024-06-13T16:37:31.311Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,a90adb,4b4f77d5,2024-06-21T07:40:45.470Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,80070d,d596ca17,2024-07-09T00:00:00Z,Posev kala,Bakteriya V. cholerae,N
+Bolnitsa Feveria,743f24,cd992c61,2024-07-07T11:52:03.711Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,217425,657b8a09,2024-07-02T18:35:43.133Z,Posev kala,Bakteriya V. cholerae,I
+Bolnitsa Feveria,2f9ce4,1f6964ef,2024-07-14T23:42:02.842Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,6bf94d,b13a0827,2024-07-05T22:30:57.122Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,e534d7,bf08de62,2024-07-16T20:04:29.969Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,1a7fc3,564eb97b,2024-07-13T02:11:41.919Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,0f5755,56c1224f,2024-07-17T01:32:26.810Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,32d67a,4c23b110,2024-07-16T11:00:41.361Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,b323a0,3564eb85,2024-07-20T12:35:01.437Z,Posev kala,Bakteriya V. cholerae,I
+Bolnitsa Feveria,0fbf20,005f39af,2024-07-17T18:05:49.378Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,1c9109,1153cf40,2024-07-21T02:11:55.093Z,Posev kala,Bakteriya V. cholerae,N
+Bolnitsa Feveria,39230a,8e7e5fe6,2024-07-20T19:34:17.481Z,Posev kala,Bakteriya V. cholerae,I
+Bolnitsa Feveria,4351d2,d60d640c,2024-07-27T11:14:08.099Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,8b93b0,3a6ba50a,2024-07-28T10:21:16.600Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,e28335,c2252c01,2024-07-24T23:41:25.619Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,2973b6,e7b5e36e,2024-07-28T10:08:26.141Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,8eb134,bae7f932,2024-07-30T05:55:43.611Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,d7f9d9,ed2c9ca5,2024-07-30T14:55:26.793Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,57abd4,95c59fb0,2024-07-31T16:39:14.170Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,b310d2,59748b15,2024-08-08T06:40:43.504Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,a46125,a8c835fc,2024-09-14T00:00:00Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,7d5583,1fb60620,2024-09-12T13:45:38.754Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,7ffaee,843de9b5,2024-09-12T09:21:59.734Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,a36466,056e980c,2024-09-13T11:17:02.155Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,a60899,ad683367,2024-09-12T22:43:05.546Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,395cf3,7773d259,2024-09-11T16:59:09.861Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,93821e,e8b9ce9f,2024-09-16T00:05:21.490Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,ca2700,98a0890d,2024-09-16T05:09:22.722Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,00cbbb,3219f3ad,2024-09-20T16:08:40.595Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,f10634,ed54745f,2024-09-18T21:37:46.028Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,2a99de,4cd08ec8,2024-09-21T02:59:53.756Z,Posev kala,Bakteriya V. cholerae,I
+Bolnitsa Feveria,448fbc,81da5421,2024-09-16T01:33:50.744Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,efe815,d4e71e94,2024-09-18T02:54:40.474Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,df08a8,10d1ccb9,2024-09-23T00:23:30.640Z,Posev kala,Bakteriya V. cholerae,PO1
+Bolnitsa Feveria,61a88b,2b5e7475,2024-09-24T09:55:01.865Z,Posev kala,Bakteriya V. cholerae,PO139
+Bolnitsa Feveria,cb3ab5,25e8739d,2024-04-19T00:00:00Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,bd1e14,a66dba2b,2024-05-01T21:52:18.983Z,Posev krovi,Bakteriya S. Typhi,I
+Bolnitsa Feveria,4df59b,f6d99f8b,2024-05-03T05:34:56.042Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,6730d5,85764b9d,2024-05-04T08:14:51.539Z,Posev krovi,Bakteriya S. Typhi,P
+Bolnitsa Feveria,576488,1ae915a4,2024-05-07T12:11:54.385Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,e70609,64bf18c5,2024-05-12T22:15:34.448Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,f21061,7deded65,2024-06-11T03:27:21.783Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,4104b4,c1226ede,2024-06-13T18:45:58.803Z,Posev krovi,Bakteriya S. Typhi,P
+Bolnitsa Feveria,ef55b3,330c2521,2024-05-28T19:03:18.651Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,97b45b,9ee01710,2024-05-18T14:46:22.596Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,77006e,4c6cb0f2,2024-06-10T02:38:54.019Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,55afee,0bfd4a0e,2024-06-11T03:42:27.495Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,ddec13,8cd7dc1c,2024-05-28T01:40:22.575Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,ab9bd1,bde251da,2024-06-09T01:58:56.927Z,Posev krovi,Bakteriya S. Typhi,P
+Bolnitsa Feveria,2f1c19,3a8abdc4,2024-06-18T05:15:00.792Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,ef067b,3a52e19c,2024-06-19T23:54:51.065Z,Posev krovi,Bakteriya S. Typhi,P
+Bolnitsa Feveria,4a29f7,e3972e16,2024-07-01T03:06:00.572Z,Posev krovi,Bakteriya S. Typhi,I
+Bolnitsa Feveria,908550,be0ffc5b,2024-06-30T14:46:30.208Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,33fdee,383d62d7,2024-07-15T19:33:30.081Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,ac7596,09339287,2024-07-02T05:50:53.533Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,07483f,6aab9ceb,2024-07-10T16:54:09.842Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,156c3c,bf4de2a0,2024-07-07T03:14:31.667Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,562174,228f725d,2024-07-23T14:58:27.482Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,821e05,26905fcd,2024-07-15T14:14:15.371Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,4fd539,572ea25e,2024-07-25T17:21:21.028Z,Posev krovi,Bakteriya S. Typhi,P
+Bolnitsa Feveria,146fdd,f3cce3de,2024-07-24T22:59:10.746Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,38c466,b7e80a65,2024-07-25T23:28:52.570Z,Posev krovi,Bakteriya S. Typhi,P
+Bolnitsa Feveria,f265dd,064284cd,2024-10-19T00:00:00Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,3525b1,fbd6fb02,2024-11-01T11:01:38.216Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,b5d2c7,c7143644,2024-11-10T00:42:16.952Z,Posev krovi,Bakteriya S. Typhi,P
+Bolnitsa Feveria,c0e993,f9dfae01,2024-12-01T02:19:36.137Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,3a88d2,28ba139b,2024-12-12T08:52:04.632Z,Posev krovi,Bakteriya S. Typhi,N
+Bolnitsa Feveria,5df948,86d9b689,2024-11-30T03:05:11.124Z,Posev krovi,Bakteriya S. Typhi,N

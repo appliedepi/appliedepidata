@@ -207,8 +207,61 @@
 #' 
 #' This dataset is licensed under [CC by-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 #' 
-#' @format A dataframe with 1314 rows and 7 columns. 
-#' 
+#' @format A dataframe with 1314 rows and 7 columns.
+#'
 #' @docType data
 "pruebas_multienfermedad"
+
+# Russian datasets --------------------------------------------------------
+
+## Notifications --------------------------------------------------------
+
+#' @title Notifiable disease surveillance data from Feveria in 2024 \(Russian\)
+#'
+#' @description
+#' Russian version of the notifiable disease surveillance data for malaria, dengue, typhoid, yellow fever, and cholera. Reported in fictional country Feveria in 2024.
+#'
+#' @details
+#' This is a linelist with fictional notification-level data from the imaginary country Feveria, with clinical and epidemiological information for
+#' suspected cases of malaria, dengue, typhoid, yellow fever, and cholera.
+#' The data is intended for use as part of the Russian version of the case study "Linking and analyzing notifiable disease surveillance data and laboratory data in R"
+#' alongside the Russian \link{testy_multibolezni} (laboratory test results for notifications in Feveria).
+#'
+#' @source Fictional data created by Applied Epi for training purposes
+#'
+#' This is version 1.0.
+#'
+#' This dataset is Russian.
+#'
+#' This dataset is licensed under [CC by-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+#'
+#' @format A dataframe with 987 rows and 12 columns.
+#'
+#' @docType data
+"uvedomleniya_multibolezni"
+
+## Tests --------------------------------------------------------
+
+#' @title Test results for notifiable disease surveillance cases in Feveria in 2024 \(Russian\)
+#'
+#' @description
+#' Russian version of the test results for notifiable disease surveillance cases notified in fictional country Feveria in 2024, for malaria, dengue, typhoid, yellow fever, and cholera.
+#'
+#' @details
+#' This is the Russian version of a linelist with fictional test-level data from the imaginary country Feveria, with laboratory result information for suspected cases of malaria, dengue, typhoid, yellow fever, and cholera.
+#' The data is intended for use as part of the case study "Linking and analyzing notifiable disease surveillance data and laboratory data in R"
+#' alongside the Russian \link{uvedomleniya_multibolezni} (notification data in Feveria).
+#'
+#' @source Fictional data created by Applied Epi for training purposes
+#'
+#' This is version 1.0.
+#'
+#' This dataset is Russian.
+#'
+#' This dataset is licensed under [CC by-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+#'
+#' @format A dataframe with 1314 rows and 7 columns.
+#'
+#' @docType data
+"testy_multibolezni"
 

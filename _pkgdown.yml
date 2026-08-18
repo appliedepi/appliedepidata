@@ -65,7 +65,12 @@ reference:
   contents:
   - testes_multidoencas
   - notificacoes_multidoencas
-  
+
+- subtitle: Multidisease lab and surveillance data, Feveria (2024) - Russian
+  contents:
+  - testy_multibolezni
+  - uvedomleniya_multibolezni
+
 - subtitle: Sitrep example datasets - English
   contents:
   - mortality_survey_data
