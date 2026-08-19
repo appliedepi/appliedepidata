@@ -1,5 +1,13 @@
 # Changelog
 
+## appliedepidata 0.0.0.9010
+
+- Updated date columns in `feveriosis_recent_es`,
+  `feveriosis_recent_fr`, `feveriosis_recent_pt`, and
+  `feveriosis_recent_ru` to ISO 8601 format, and fixed two corrupted
+  birth dates in the French file plus one leftover unconverted sample
+  date each in the Spanish and Portuguese files
+
 ## appliedepidata 0.0.0.9009
 
 - Added Russian-language multidisease surveillance case study datasets:
