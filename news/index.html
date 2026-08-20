@@ -7,7 +7,7 @@
 
     <a class="navbar-brand me-2" href="../index.html">appliedepidata</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.0.0.9010</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.0.0.9011</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,6 +37,10 @@
 
     </div>
 
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.0.0.9011" id="appliedepidata-0009011">appliedepidata 0.0.0.9011<a class="anchor" aria-label="anchor" href="#appliedepidata-0009011"></a></h2>
+<ul><li>Fixed <code>gis_covid_incidence</code>: <code>inst/extdata/gis_covid_incidence.csv</code> had become double-CSV-encoded with mangled accented country names during a prior encoding fix; rebuilt the raw file from the correct internal data and made <code>data-raw/gis_covid_incidence.R</code> explicit about UTF-8 so it doesn’t regress under a non-UTF-8 locale</li>
+</ul></div>
     <div class="section level2">
 <h2 class="pkg-version" data-toc-text="0.0.0.9010" id="appliedepidata-0009010">appliedepidata 0.0.0.9010<a class="anchor" aria-label="anchor" href="#appliedepidata-0009010"></a></h2>
 <ul><li>Updated date columns in <code>feveriosis_recent_es</code>, <code>feveriosis_recent_fr</code>, <code>feveriosis_recent_pt</code>, and <code>feveriosis_recent_ru</code> to ISO 8601 format, and fixed two corrupted birth dates in the French file plus one leftover unconverted sample date each in the Spanish and Portuguese files</li>
