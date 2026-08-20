@@ -1,3 +1,7 @@
+# appliedepidata 0.0.0.9011
+
+* Fixed `gis_covid_incidence`: `inst/extdata/gis_covid_incidence.csv` had become double-CSV-encoded with mangled accented country names during a prior encoding fix; rebuilt the raw file from the correct internal data and made `data-raw/gis_covid_incidence.R` explicit about UTF-8 so it doesn't regress under a non-UTF-8 locale
+
 # appliedepidata 0.0.0.9010
 
 * Updated date columns in `feveriosis_recent_es`, `feveriosis_recent_fr`, `feveriosis_recent_pt`, and `feveriosis_recent_ru` to ISO 8601 format, and fixed two corrupted birth dates in the French file plus one leftover unconverted sample date each in the Spanish and Portuguese files
