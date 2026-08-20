@@ -4,7 +4,9 @@
 file_path <- system.file("extdata", "gis_covid_incidence.csv", package = "appliedepidata")
 
 # Read in the csv file using rio
-gis_covid_incidence <- rio::import(file_path)
+# encoding is set explicitly so non-ASCII country names (e.g. Cote d'Ivoire,
+# Reunion, Curacao) are tagged UTF-8 regardless of the session's native locale
+gis_covid_incidence <- rio::import(file_path, encoding = "UTF-8")
 
 # process data as needed (e.g. cleaning, recoding, restructuring)
 
