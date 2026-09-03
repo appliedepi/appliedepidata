@@ -105,6 +105,7 @@ reference:
   - linelist_cleaned
   - cleaning_dict
   - sle_adm3
+  - sle_hf
   - sle_admpop_adm3_2020
   - epinow_res
   - epinow_res_small

@@ -238,6 +238,41 @@
 
 
 
+#' @title Health facility points for Sierra Leone from OpenStreetMap
+#'
+#' @description
+#' Health facility points (hospitals, clinics, doctors, dentists, pharmacies) for
+#' Sierra Leone, extracted from OpenStreetMap and published on the Humanitarian
+#' Data Exchange.
+#' 
+#' @details
+#' This shapefile can be used together with \link{sle_adm3} and
+#' \link{linelist_cleaned_with_adm3}. The Epidemiologist R Handbook's GIS basics
+#' chapter joins each case to its nearest facility and draws catchment buffers
+#' around the facilities. The export was made with the HOT Export Tool with the
+#' filter `healthcare IS NOT NULL OR amenity IN ('doctors','dentist','clinic',
+#' 'hospital','pharmacy')`.
+#'  
+#' @source This shapefile was downloaded from
+#' [Humanitarian Data Exchange](https://data.humdata.org/dataset/hotosm_sierra_leone_health_facilities).
+#' No edits were made to this.
+#' 
+#' This is the original dataset is sle_hf.shp
+#' 
+#' This is version 1.0.  
+#' 
+#' This dataset is English.   
+#' 
+#' This dataset is licensed under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/),
+#' (c) OpenStreetMap contributors.
+#' 
+#' @format A shapefile with 44 rows and 12 columns
+#' 
+#' @docType data
+"sle_hf"
+
+
+
 #' @title Population data at admin level 3 for Sierra Leone from Humanitarian Data Exchange
 #'
 #' @description
