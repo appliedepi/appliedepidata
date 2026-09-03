@@ -7,7 +7,7 @@
 
     <a class="navbar-brand me-2" href="../index.html">appliedepidata</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.0.0.9011</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.0.0.9012</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,6 +37,10 @@
 
     </div>
 
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.0.0.9012" id="appliedepidata-0009012">appliedepidata 0.0.0.9012<a class="anchor" aria-label="anchor" href="#appliedepidata-0009012"></a></h2>
+<ul><li>Added <code>sle_hf</code>: the Sierra Leone health facility points from OpenStreetMap (Humanitarian Data Exchange), the third GIS input of the Epidemiologist R Handbook’s GIS basics chapter. The seven shapefile components already shipped inside <code>sle_adm3.zip</code>; they now also ship as <code>inst/extdata/sle_hf.zip</code>, so <code>get_data(name = "sle_hf")</code> returns an sf object and <code>save_data(name = "sle_hf")</code> works on its own</li>
+</ul></div>
     <div class="section level2">
 <h2 class="pkg-version" data-toc-text="0.0.0.9011" id="appliedepidata-0009011">appliedepidata 0.0.0.9011<a class="anchor" aria-label="anchor" href="#appliedepidata-0009011"></a></h2>
 <ul><li>Fixed <code>gis_covid_incidence</code>: <code>inst/extdata/gis_covid_incidence.csv</code> had become double-CSV-encoded with mangled accented country names during a prior encoding fix; rebuilt the raw file from the correct internal data and made <code>data-raw/gis_covid_incidence.R</code> explicit about UTF-8 so it doesn’t regress under a non-UTF-8 locale</li>

@@ -1,5 +1,14 @@
 # Changelog
 
+## appliedepidata 0.0.0.9012
+
+- Added `sle_hf`: the Sierra Leone health facility points from
+  OpenStreetMap (Humanitarian Data Exchange), the third GIS input of the
+  Epidemiologist R Handbook’s GIS basics chapter. The seven shapefile
+  components already shipped inside `sle_adm3.zip`; they now also ship
+  as `inst/extdata/sle_hf.zip`, so `get_data(name = "sle_hf")` returns
+  an sf object and `save_data(name = "sle_hf")` works on its own
+
 ## appliedepidata 0.0.0.9011
 
 - Fixed `gis_covid_incidence`: `inst/extdata/gis_covid_incidence.csv`

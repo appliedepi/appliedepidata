@@ -185,6 +185,8 @@
 - [`sle_adm3`](https://appliedepi.github.io/appliedepidata/reference/sle_adm3.md)
   : Shapefile at admin 3 level for Sierra Leone from Humanitarian Data
   Exchange
+- [`sle_hf`](https://appliedepi.github.io/appliedepidata/reference/sle_hf.md)
+  : Health facility points for Sierra Leone from OpenStreetMap
 - [`sle_admpop_adm3_2020`](https://appliedepi.github.io/appliedepidata/reference/sle_admpop_adm3_2020.md)
   : Population data at admin level 3 for Sierra Leone from Humanitarian
   Data Exchange
