@@ -1,3 +1,7 @@
+# appliedepidata 0.0.0.9013
+
+* Fixed `sle_adm3`: `validTo` held the Date `-1-11-30` in all 167 rows, where the shapefile inside `inst/extdata/sle_adm3.zip` holds no date at all. An old GDAL wrote that sentinel for the empty DBF field when the dataset was first built. `data-raw/sle_adm3.R` rebuilds the dataset from the zip, and `validTo` is now `NA`. No other column changed. The other 102 `.rda` files in `data/` hold no date before 1900
+
 # appliedepidata 0.0.0.9012
 
 * Added `sle_hf`: the Sierra Leone health facility points from OpenStreetMap (Humanitarian Data Exchange), the third GIS input of the Epidemiologist R Handbook's GIS basics chapter. The seven shapefile components already shipped inside `sle_adm3.zip`; they now also ship as `inst/extdata/sle_hf.zip`, so `get_data(name = "sle_hf")` returns an sf object and `save_data(name = "sle_hf")` works on its own
