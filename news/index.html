@@ -7,7 +7,7 @@
 
     <a class="navbar-brand me-2" href="../index.html">appliedepidata</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.0.0.9012</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.0.0.9013</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,6 +37,10 @@
 
     </div>
 
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.0.0.9013" id="appliedepidata-0009013">appliedepidata 0.0.0.9013<a class="anchor" aria-label="anchor" href="#appliedepidata-0009013"></a></h2>
+<ul><li>Fixed <code>sle_adm3</code>: <code>validTo</code> held the Date <code>-1-11-30</code> in all 167 rows, where the shapefile inside <code>inst/extdata/sle_adm3.zip</code> holds no date at all. An old GDAL wrote that sentinel for the empty DBF field when the dataset was first built. <code>data-raw/sle_adm3.R</code> rebuilds the dataset from the zip, and <code>validTo</code> is now <code>NA</code>. No other column changed. The other 102 <code>.rda</code> files in <code>data/</code> hold no date before 1900</li>
+</ul></div>
     <div class="section level2">
 <h2 class="pkg-version" data-toc-text="0.0.0.9012" id="appliedepidata-0009012">appliedepidata 0.0.0.9012<a class="anchor" aria-label="anchor" href="#appliedepidata-0009012"></a></h2>
 <ul><li>Added <code>sle_hf</code>: the Sierra Leone health facility points from OpenStreetMap (Humanitarian Data Exchange), the third GIS input of the Epidemiologist R Handbook’s GIS basics chapter. The seven shapefile components already shipped inside <code>sle_adm3.zip</code>; they now also ship as <code>inst/extdata/sle_hf.zip</code>, so <code>get_data(name = "sle_hf")</code> returns an sf object and <code>save_data(name = "sle_hf")</code> works on its own</li>
