@@ -31,8 +31,9 @@
 #' 1. **Dataset Lookup**: It looks up dataset information using `lookup_dataset` 
 #' based on the provided search criteria (`name`, `language`, `group_identifier`,
 #' `usage` or `unique_identifier`).
-#' 2. **File Existence Check**: It checks if all required dataset files exist 
-#' using the `list_data` function. If any files are missing, an error message 
+#' 2. **File Existence Check**: It reads each dataset's file name from the
+#' `file` column of *tableoftables.xlsx* and checks that the file exists in
+#' `extdata`. If a dataset has no file, or a file is missing, an error message
 #' lists them.
 #' 3. **File Copying and Unzipping**: If all files are found, the function 
 #' copies the files to the specified directory. If the files are zipped (`.zip`), 
@@ -75,26 +76,21 @@ save_data <- function(name = NULL,
                                  usage = usage, 
                                  unique_identifier = unique_identifier)
   
-  files_to_copy <- paste0(dataset_info$name, ".", dataset_info$extension)
-  
-  # Step 2: check that all the files exist 
-  existing_files <- list_data()
-  check_files <- files_to_copy %in% paste0(existing_files$name, ".", existing_files$extension)
-  
-  if (any(!check_files)) {
-    # get the missing files 
-    missing_files <- files_to_copy[!check_files]
-    # Code to handle the case when some files do not exist
-    stop(paste0("The following files are missing: ", paste(missing_files, collapse = ", ")))
-  } else {
-    # step 3: save the files 
-    files_to_copy <- system.file("extdata", files_to_copy, 
-                                 package = "appliedepidata")
-    
-    success <- lapply(files_to_copy, file.copy, to = path, overwrite = TRUE)
-    
-    if(all(as.logical(success))) cli::cli_alert_success("File(s) successfully saved here: {path}")
-  
+  # Step 2: check that every dataset has a file in extdata
+  no_file <- dataset_info$name[is.na(dataset_info$file)]
+  if (length(no_file) > 0) {
+    stop(paste0("The following datasets have no file to save: ", paste(no_file, collapse = ", ")))
   }
+
+  files_to_copy <- file.path(system.file("extdata", package = "appliedepidata"), dataset_info$file)
+  missing_files <- dataset_info$file[!file.exists(files_to_copy)]
+  if (length(missing_files) > 0) {
+    stop(paste0("The following files are missing: ", paste(missing_files, collapse = ", ")))
+  }
+
+  # Step 3: save the files
+  success <- file.copy(files_to_copy, to = path, overwrite = TRUE)
+
+  if (all(success)) cli::cli_alert_success("File(s) successfully saved here: {path}")
 }
 
