@@ -1,11 +1,10 @@
 #' @title Save Data Files to a Specified Directory
 #' 
 #' @description 
-#' The `save_data` function saves dataset files (and unzips them if necessary) 
+#' The `save_data` function saves dataset files 
 #' based on search criteria such as dataset `name`, `language`, `group_identifier`,
 #'  or `unique_identifier`. It checks for the existence of the required files, 
-#'  and if all files exist, they are either copied or unzipped into the specified 
-#'  directory.
+#'  and if all files exist, copies them into the specified directory.
 #'
 #' @param name (optional) A string specifying the name of the dataset to save.
 #' @param language (optional) A string specifying the language of the dataset. 
@@ -35,9 +34,9 @@
 #' `file` column of *tableoftables.xlsx* and checks that the file exists in
 #' `extdata`. If a dataset has no file, or a file is missing, an error message
 #' lists them.
-#' 3. **File Copying and Unzipping**: If all files are found, the function 
-#' copies the files to the specified directory. If the files are zipped (`.zip`), 
-#' they are unzipped before being saved.
+#' 3. **File Copying**: If all files are found, the function copies the files 
+#' to the specified directory. A `.zip` file is copied as it is; use 
+#' `utils::unzip()` on the saved file to extract it.
 #'
 #' @return 
 #' No return value. The function saves the specified dataset files to the chosen 

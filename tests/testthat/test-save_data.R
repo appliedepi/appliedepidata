@@ -15,9 +15,9 @@ test_that("save_data saves a whole group, including the empty placeholder files"
   expect_equal(file.size(file.path(d, "example_case_linelist_2020-10-02.csv")), 0)
 })
 
-test_that("save_data errors on a dataset with no file", {
-  expect_error(save_data(name = "franglais_AJS_AmTiman", path = tempdir()),
-               "have no file to save: franglais_AJS_AmTiman")
+test_that("every indexed dataset has its file in extdata", {
+  expect_false(anyNA(tot$file))
+  expect_true(all(file.exists(system.file("extdata", tot$file, package = "appliedepidata"))))
 })
 
 test_that("get_data skips datasets with no R object", {
