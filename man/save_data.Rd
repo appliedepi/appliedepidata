@@ -40,11 +40,10 @@ No return value. The function saves the specified dataset files to the chosen
 directory. A success or failure message is printed upon completion.
 }
 \description{
-The \code{save_data} function saves dataset files (and unzips them if necessary)
+The \code{save_data} function saves dataset files
 based on search criteria such as dataset \code{name}, \code{language}, \code{group_identifier},
 or \code{unique_identifier}. It checks for the existence of the required files,
-and if all files exist, they are either copied or unzipped into the specified
-directory.
+and if all files exist, copies them into the specified directory.
 }
 \details{
 The function assumes that the dataset files are available in the "extdata"
@@ -54,12 +53,13 @@ The function follows these steps:
 \item \strong{Dataset Lookup}: It looks up dataset information using \code{lookup_dataset}
 based on the provided search criteria (\code{name}, \code{language}, \code{group_identifier},
 \code{usage} or \code{unique_identifier}).
-\item \strong{File Existence Check}: It checks if all required dataset files exist
-using the \code{list_data} function. If any files are missing, an error message
+\item \strong{File Existence Check}: It reads each dataset's file name from the
+\code{file} column of \emph{tableoftables.xlsx} and checks that the file exists in
+\code{extdata}. If a dataset has no file, or a file is missing, an error message
 lists them.
-\item \strong{File Copying and Unzipping}: If all files are found, the function
-copies the files to the specified directory. If the files are zipped (\code{.zip}),
-they are unzipped before being saved.
+\item \strong{File Copying}: If all files are found, the function copies the files
+to the specified directory. A \code{.zip} file is copied as it is; use
+\code{utils::unzip()} on the saved file to extract it.
 }
 }
 \examples{

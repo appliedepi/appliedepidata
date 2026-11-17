@@ -1,3 +1,10 @@
+# appliedepidata 0.0.0.9014
+
+* Fixed `save_data()`: it built each file name as `<name>.<extension>`, so it failed for every dataset whose file in `inst/extdata` has another name (`example_case_linelist_2020_10_08`, `example_missing`, `example_other`, `case_linelists_linelist_cleaned_excel`, `case_linelists_linelist_cleaned_rds`). *tableoftables.xlsx* has a new `file` column with each dataset's file name in `inst/extdata`, and `save_data()` copies that file (#50)
+* Indexed the six empty placeholder files of the dated linelist series (`example_case_linelist_2020-10-02.csv` to `-05`, `example_case_linelist20201006.csv`, `example_20201007linelist.csv`) in the `example_case_linelist_outbreak_sle_2014` group, so `save_data()` copies them. `get_data()` now skips a dataset that has no R object and says so, instead of stopping (#50)
+* Removed `franglais_AJS_AmTiman` from *tableoftables.xlsx*: it was a test entry with no file and no R object, so neither `save_data()` nor `get_data()` could return it
+* Fixed the `save_data()` documentation: it said `.zip` files are unzipped, but `save_data()` copies them as they are
+
 # appliedepidata 0.0.0.9013
 
 * Fixed `sle_adm3`: `validTo` held the Date `-1-11-30` in all 167 rows, where the shapefile inside `inst/extdata/sle_adm3.zip` holds no date at all. An old GDAL wrote that sentinel for the empty DBF field when the dataset was first built. `data-raw/sle_adm3.R` rebuilds the dataset from the zip, and `validTo` is now `NA`. No other column changed. The other 102 `.rda` files in `data/` hold no date before 1900

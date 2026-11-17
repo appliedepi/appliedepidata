@@ -201,6 +201,11 @@ collection.
     descriptive names without spaces (e.g., `AJS_AmTiman`,
     `mortality_survey`).
 
+-   **file**: The file name of the dataset in `inst/extdata`, **with**
+    the file extension (e.g. `AJS_AmTiman.xlsx`). `save_data()` copies
+    this file. Leave it empty if the dataset has no file in
+    `inst/extdata`.
+
 -   **type**: The category or type of the dataset (e.g., `linelist`,
     `population`, `shape`, `survey`, `dictionary`).
 

@@ -82,7 +82,9 @@ assigned to the global environment as separate entities.
 }
 }
 
-If any dataset cannot be found or loaded, the function will raise an error.
+Datasets with no R object (such as empty placeholder files) are skipped
+with a message; use \code{save_data()} to get their files. If no matching dataset
+has an R object, or a dataset cannot be loaded, the function raises an error.
 }
 \examples{
 \dontrun{

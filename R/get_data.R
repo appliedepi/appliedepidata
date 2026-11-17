@@ -53,7 +53,9 @@
 #'    - **Lists** that are not data frames are split into individual objects and 
 #'      assigned to the global environment as separate entities.
 #' 
-#' If any dataset cannot be found or loaded, the function will raise an error.
+#' Datasets with no R object (such as empty placeholder files) are skipped
+#' with a message; use `save_data()` to get their files. If no matching dataset
+#' has an R object, or a dataset cannot be loaded, the function raises an error.
 #' 
 #' @return
 #' If `assign = FALSE`, returns the dataset(s). If a single dataset is requested, 
@@ -97,6 +99,15 @@ get_data <- function(name = NULL,
                                  usage = usage,
                                  unique_identifier = unique_identifier)
   
+  # Skip datasets with no R object, such as the empty placeholder files
+  no_object <- !dataset_info$name %in% data(package = "appliedepidata")$results[, "Item"]
+  if (any(no_object)) {
+    message("Skipped (no R object; use save_data() for the file): ",
+            paste(dataset_info$name[no_object], collapse = ", "))
+    dataset_info <- dataset_info[!no_object, ]
+  }
+  if (nrow(dataset_info) == 0) stop("None of the matching datasets has an R object to load.")
+
   # Initialize list to store returned objects if assign = FALSE
   if (!assign) {
     returned_objects <- list()
